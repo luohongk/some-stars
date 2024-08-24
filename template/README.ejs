@@ -2,7 +2,7 @@
 
 # Some Stars
 
-⭐ <a href="https://luohongkun.com/"  target="_blank">LuoHongkun</a>的star列表，每周自动更新 ⭐
+⭐ <a href="https://luohongkun.com/"  target="_blank">LuoHongkun</a>的star列表，每6小时自动更新 ⭐
 
 </div><br>
 
