@@ -28,6 +28,8 @@
 
 ## C++
 
+*   [MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF) -  This project allows the  alignment and correction of LiDAR-based SLAM session data with a reference map or another session, also the retrieval of 6-DoF poses with accuracy of up to 3 cm given an accurate TLS point cloud as a reference map (this map should be accurate at least regarding the position of permanent elements such as walls and columns).
+
 *   [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 
 *   [kuankuan-yue/VINS-FUSION-leanrning](https://github.com/kuankuan-yue/VINS-FUSION-leanrning) - VINS-FUSION中文注释版.目前网络上对于VINS-mono的代码已经有很多讲解和注释了，但是对于VINS-FUSION（以下简称VF）的注释还是很少的，刚好本人最近也正在学习VIO的相关知识，所以对VF按照程序执行顺序进行了十分详细的注释，同时为了和大家进行交流学习，所以把相关注释代码进行开源。因水平有限，错误肯定不少，还请各位大佬们指正。
@@ -363,8 +365,6 @@
 *   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
 
 *   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
-
-*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 
 ## Dart
 
