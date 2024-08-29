@@ -28,6 +28,8 @@
 
 ## C++
 
+*   [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
+
 *   [kuankuan-yue/VINS-FUSION-leanrning](https://github.com/kuankuan-yue/VINS-FUSION-leanrning) - VINS-FUSION中文注释版.目前网络上对于VINS-mono的代码已经有很多讲解和注释了，但是对于VINS-FUSION（以下简称VF）的注释还是很少的，刚好本人最近也正在学习VIO的相关知识，所以对VF按照程序执行顺序进行了十分详细的注释，同时为了和大家进行交流学习，所以把相关注释代码进行开源。因水平有限，错误肯定不少，还请各位大佬们指正。
 
 *   [gtrll/gpslam](https://github.com/gtrll/gpslam) - Sparse Gaussian Processes for SLAM
@@ -311,8 +313,6 @@
 *   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
-
-*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 
 ## miscellaneous
 
