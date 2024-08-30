@@ -28,6 +28,8 @@
 
 ## C++
 
+*   [rmsalinas/DBow3](https://github.com/rmsalinas/DBow3) - Improved version of DBow2
+
 *   [MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF) -  This project allows the  alignment and correction of LiDAR-based SLAM session data with a reference map or another session, also the retrieval of 6-DoF poses with accuracy of up to 3 cm given an accurate TLS point cloud as a reference map (this map should be accurate at least regarding the position of permanent elements such as walls and columns).
 
 *   [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
@@ -313,8 +315,6 @@
 *   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
 *   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
-
-*   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
 
 ## miscellaneous
 
