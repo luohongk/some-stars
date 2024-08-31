@@ -28,6 +28,8 @@
 
 ## C++
 
+*   [HKUST-Aerial-Robotics/EPSILON](https://github.com/HKUST-Aerial-Robotics/EPSILON) -
+
 *   [rmsalinas/DBow3](https://github.com/rmsalinas/DBow3) - Improved version of DBow2
 
 *   [MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF) -  This project allows the  alignment and correction of LiDAR-based SLAM session data with a reference map or another session, also the retrieval of 6-DoF poses with accuracy of up to 3 cm given an accurate TLS point cloud as a reference map (this map should be accurate at least regarding the position of permanent elements such as walls and columns).
@@ -167,8 +169,6 @@
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
-
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
 
 ## Python
 
