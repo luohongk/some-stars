@@ -310,6 +310,8 @@
 
 *   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
 
+*   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
+
 *   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
 
 *   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -361,8 +363,6 @@
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-
-*   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
 
 *   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
 
