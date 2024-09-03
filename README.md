@@ -220,7 +220,7 @@
 
 *   [Parskatt/DeDoDe](https://github.com/Parskatt/DeDoDe) - \[3DV 2024 Oral] DeDoDe 🎶 Detect, Don't Describe --- Describe, Don't Detect, for Local Feature Matching
 
-*   [ericzzj1989/BALF](https://github.com/ericzzj1989/BALF) -
+*   [ericzzj1989/BALF](https://github.com/ericzzj1989/BALF) - \[WACV 2024] BALF: Simple and Efficient Blur Aware Local Feature Detector
 
 *   [lyakaap/NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch) - PyTorch implementation of NetVLAD & Online Hardest Triplet Loss.
 
