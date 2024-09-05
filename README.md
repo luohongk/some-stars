@@ -279,6 +279,8 @@
 
 *   [utiasSTARS/pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data.
 
+*   [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - \[ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
+
 *   [TQTQliu/MVSGaussian](https://github.com/TQTQliu/MVSGaussian) - \[ECCV 2024] MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
 
 *   [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers"
@@ -350,8 +352,6 @@
 *   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
 
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
-
-*   [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - \[ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
 
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
