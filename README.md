@@ -30,6 +30,8 @@
 
 ## Python
 
+*   [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - \[CVPR 2024] Learning Occupancy for Monocular 3D Object Detection
+
 *   [zhangganlin/GlORIE-SLAM](https://github.com/zhangganlin/GlORIE-SLAM) - GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM
 
 *   [jbriales/rgbd\_benchmark\_tools](https://github.com/jbriales/rgbd_benchmark_tools) - Tools for TUM RGBD Dataset Benchmark
@@ -174,6 +176,10 @@
 
 ## C++
 
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Please leave your stars here
+
+*   [udaysankar01/xfeat\_cpp](https://github.com/udaysankar01/xfeat_cpp) - The C++ Implementation of XFeat (Accelerated Features).
+
 *   [chengwei0427/ct-lio](https://github.com/chengwei0427/ct-lio) - CT-LIO: Continuous-Time LiDAR-Inertial Odometry
 
 *   [felixendres/rgbdslam\_v2](https://github.com/felixendres/rgbdslam_v2) - RGB-D SLAM for ROS
@@ -314,8 +320,6 @@
 
 *   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
 
-*   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
-
 ## Markdown
 
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -423,10 +427,6 @@
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
 
 *   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-
-*   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.
-
-*   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
 
 ## CSS
 
