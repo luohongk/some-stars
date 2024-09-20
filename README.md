@@ -198,7 +198,7 @@
 
 *   [GradientSpaces/LoopSplat](https://github.com/GradientSpaces/LoopSplat) - LoopSplat: Loop Closure by Registering 3D Gaussian Splats
 
-*   [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian
+*   [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
 
 *   [hjr37/CP-SLAM](https://github.com/hjr37/CP-SLAM) - CP-SLAM: Collaborative Neural Point-based SLAM
 
