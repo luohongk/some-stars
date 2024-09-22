@@ -34,7 +34,7 @@
 
 *   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
-*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Please leave your stars here
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis + T-GRS Paper (Segmented Curved-Voxel  Occupancy Descriptor for Dynamic-Aware LiDAR Odometry and Mapping)
 
 *   [udaysankar01/xfeat\_cpp](https://github.com/udaysankar01/xfeat_cpp) - The C++ Implementation of XFeat (Accelerated Features).
 
