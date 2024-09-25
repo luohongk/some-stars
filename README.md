@@ -188,6 +188,8 @@
 
 *   [yastrebksv/TennisProject](https://github.com/yastrebksv/TennisProject) - Tennis analysis using deep learning and machine learning
 
+*   [cvg/GeoCalib](https://github.com/cvg/GeoCalib) - GeoCalib: Learning Single-image Calibration with Geometric Optimization (ECCV 2024)
+
 *   [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.
 
 *   [lus6-Jenny/RING](https://github.com/lus6-Jenny/RING) - \[IEEE T-RO 2023] Source code of RING and RING++ for loop closure detection in LiDAR SLAM.
@@ -375,8 +377,6 @@
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Jupyter Notebook
-
-*   [cvg/GeoCalib](https://github.com/cvg/GeoCalib) - GeoCalib: Learning Single-image Calibration with Geometric Optimization (ECCV 2024)
 
 *   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
 
