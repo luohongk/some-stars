@@ -290,7 +290,7 @@
 
 *   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-*   [rvp-group/vbr-devkit](https://github.com/rvp-group/vbr-devkit) - Visual Benchmark in Rome Development Kit
+*   [rvp-group/vbr-devkit](https://github.com/rvp-group/vbr-devkit) - Vision Benchmark in Rome Development Kit
 
 *   [utiasSTARS/pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data.
 
