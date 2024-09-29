@@ -10,9 +10,9 @@
 
 *   [C++](#c)
 *   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [Markdown](#markdown)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TeX](#tex)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
@@ -29,6 +29,10 @@
 *   [JavaScript](#javascript)
 
 ## C++
+
+*   [smartroboticslab/okvis2](https://github.com/smartroboticslab/okvis2) - Open Keyframe-based Visual-Inertial SLAM (Version 2)
+
+*   [HViktorTsoi/FAST\_LIO\_LOCALIZATION](https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION) - A simple localization framework that can re-localize in built maps based on FAST-LIO.
 
 *   [GREAT-WHU/GREAT-PVT](https://github.com/GREAT-WHU/GREAT-PVT) -
 
@@ -172,9 +176,9 @@
 
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
 
-*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
 ## Python
+
+*   [DLR-MI/UTrack](https://github.com/DLR-MI/UTrack) - Multi-Object Tracking with Uncertain Detections \[ECCV 2024 UnCV]
 
 *   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 
@@ -318,9 +322,29 @@
 
 *   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+## Jupyter Notebook
 
-*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+
+*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
+
+*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+
+*   [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 ## miscellaneous
 
@@ -375,30 +399,6 @@
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
-## Jupyter Notebook
-
-*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
-
-*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
-
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
-
-*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-
-*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
-
-*   [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
 ## TeX
 
