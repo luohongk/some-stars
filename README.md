@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Markdown](#markdown)
@@ -26,9 +26,64 @@
 *   [Vim Script](#vim-script)
 *   [MATLAB](#matlab)
 *   [C#](#c-2)
-*   [JavaScript](#javascript)
+
+## miscellaneous
+
+*   [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
+
+*   [YangSiri/OR-LIM](https://github.com/YangSiri/OR-LIM) - OR-LIM: Observability-aware robust LiDAR-Inertial-Mapping  under High Dynamic Sensor Motion
+
+*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
+
+*   [DeepLabc/LargeScale\_3DGS](https://github.com/DeepLabc/LargeScale_3DGS) - 3D Gaussian Splatting Papers Relating to Large-Scale Scene.
+
+*   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
+
+*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
+
+*   [kwea123/gaussian\_splatting\_notes](https://github.com/kwea123/gaussian_splatting_notes) - A detailed formulae explanation on gaussian splatting
+
+*   [zju3dv/100-Phones](https://github.com/zju3dv/100-Phones) -
+
+*   [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
+
+*   [Meltwin/Noetic-Ubuntu22.04](https://github.com/Meltwin/Noetic-Ubuntu22.04) - Manual instructions on how to install ROS1 Noetic on Ubuntu 22.04
+
+*   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
+
+*   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
+
+*   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) -
+
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A visual-inertial SLAM framework integrated deep learning features
+
+*   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
+
+*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
+
+*   [jianzongwu/Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning
+
+*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
+
+*   [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc. In this repository, you will see the latest 3D occupancy prediction papers and code.
+
+*   [eriksandstroem/Splat-SLAM](https://github.com/eriksandstroem/Splat-SLAM) -
+
+*   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
+
+*   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
+
+*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
+
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
 ## Python
+
+*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
+
+*   [eth-ait/GaussianHaircut](https://github.com/eth-ait/GaussianHaircut) - Gaussian Haircut: Human Hair Reconstruction with Strand-Aligned 3D Gaussians
 
 *   [pyg-team/pytorch-frame](https://github.com/pyg-team/pytorch-frame) - Tabular Deep Learning Library for PyTorch
 
@@ -178,56 +233,6 @@
 
 *   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 
-*   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
-
-## miscellaneous
-
-*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
-
-*   [DeepLabc/LargeScale\_3DGS](https://github.com/DeepLabc/LargeScale_3DGS) - 3D Gaussian Splatting Papers Relating to Large-Scale Scene.
-
-*   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
-
-*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
-
-*   [kwea123/gaussian\_splatting\_notes](https://github.com/kwea123/gaussian_splatting_notes) - A detailed formulae explanation on gaussian splatting
-
-*   [zju3dv/100-Phones](https://github.com/zju3dv/100-Phones) -
-
-*   [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
-
-*   [Meltwin/Noetic-Ubuntu22.04](https://github.com/Meltwin/Noetic-Ubuntu22.04) - Manual instructions on how to install ROS1 Noetic on Ubuntu 22.04
-
-*   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
-
-*   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
-
-*   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) -
-
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A visual-inertial SLAM framework integrated deep learning features
-
-*   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
-
-*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
-
-*   [jianzongwu/Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning
-
-*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
-
-*   [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc. In this repository, you will see the latest 3D occupancy prediction papers and code.
-
-*   [eriksandstroem/Splat-SLAM](https://github.com/eriksandstroem/Splat-SLAM) -
-
-*   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
-
-*   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
-
-*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
 ## C++
 
 *   [smartroboticslab/okvis2](https://github.com/smartroboticslab/okvis2) - Open Keyframe-based Visual-Inertial SLAM (Version 2)
@@ -366,10 +371,6 @@
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
 
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
-
-*   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
-
 ## Jupyter Notebook
 
 *   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
@@ -461,7 +462,3 @@
 ## C\#
 
 *   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
-
-## JavaScript
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
