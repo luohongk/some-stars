@@ -117,7 +117,7 @@
 
 *   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 
-*   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) -
+*   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) - DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction
 
 *   [nianticlabs/acezero](https://github.com/nianticlabs/acezero) - \[ECCV 2024 - Oral] ACE0 is a learning-based structure-from-motion approach that estimates camera parameters of sets of images by learning a multi-view consistent, implicit scene representation.
 
