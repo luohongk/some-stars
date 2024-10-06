@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -27,7 +27,73 @@
 *   [MATLAB](#matlab)
 *   [C#](#c-2)
 
+## miscellaneous
+
+*   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
+
+*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) -
+
+*   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
+
+*   [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
+
+*   [YangSiri/OR-LIM](https://github.com/YangSiri/OR-LIM) - OR-LIM: Observability-aware robust LiDAR-Inertial-Mapping  under High Dynamic Sensor Motion
+
+*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
+
+*   [DeepLabc/LargeScale\_3DGS](https://github.com/DeepLabc/LargeScale_3DGS) - 3D Gaussian Splatting Papers Relating to Large-Scale Scene.
+
+*   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
+
+*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
+
+*   [kwea123/gaussian\_splatting\_notes](https://github.com/kwea123/gaussian_splatting_notes) - A detailed formulae explanation on gaussian splatting
+
+*   [zju3dv/100-Phones](https://github.com/zju3dv/100-Phones) -
+
+*   [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
+
+*   [Meltwin/Noetic-Ubuntu22.04](https://github.com/Meltwin/Noetic-Ubuntu22.04) - Manual instructions on how to install ROS1 Noetic on Ubuntu 22.04
+
+*   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
+
+*   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
+
+*   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) -
+
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A visual-inertial SLAM framework integrated deep learning features
+
+*   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
+
+*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
+
+*   [jianzongwu/Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning
+
+*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
+
+*   [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc. In this repository, you will see the latest 3D occupancy prediction papers and code.
+
+*   [eriksandstroem/Splat-SLAM](https://github.com/eriksandstroem/Splat-SLAM) -
+
+*   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
+
+*   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
+
+*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
+
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+
 ## Python
+
+*   [yifanlu0227/ChatSim](https://github.com/yifanlu0227/ChatSim) - \[CVPR2024 Highlight] Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration
+
+*   [cjy1992/interp-e2e-driving](https://github.com/cjy1992/interp-e2e-driving) - Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning
+
+*   [chenzomi12/AIFoundation](https://github.com/chenzomi12/AIFoundation) - AIFoundation 主要是指AI系统遇到大模型，从底层到上层如何系统级地支持大模型训练和推理，全栈的核心技术。
+
+*   [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - \[CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
+
+*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 *   [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
 
@@ -178,64 +244,6 @@
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
 *   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
-
-*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
-
-*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
-
-## miscellaneous
-
-*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) -
-
-*   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
-
-*   [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
-
-*   [YangSiri/OR-LIM](https://github.com/YangSiri/OR-LIM) - OR-LIM: Observability-aware robust LiDAR-Inertial-Mapping  under High Dynamic Sensor Motion
-
-*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
-
-*   [DeepLabc/LargeScale\_3DGS](https://github.com/DeepLabc/LargeScale_3DGS) - 3D Gaussian Splatting Papers Relating to Large-Scale Scene.
-
-*   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
-
-*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
-
-*   [kwea123/gaussian\_splatting\_notes](https://github.com/kwea123/gaussian_splatting_notes) - A detailed formulae explanation on gaussian splatting
-
-*   [zju3dv/100-Phones](https://github.com/zju3dv/100-Phones) -
-
-*   [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
-
-*   [Meltwin/Noetic-Ubuntu22.04](https://github.com/Meltwin/Noetic-Ubuntu22.04) - Manual instructions on how to install ROS1 Noetic on Ubuntu 22.04
-
-*   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
-
-*   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
-
-*   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) -
-
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A visual-inertial SLAM framework integrated deep learning features
-
-*   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
-
-*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
-
-*   [jianzongwu/Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning
-
-*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
-
-*   [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc. In this repository, you will see the latest 3D occupancy prediction papers and code.
-
-*   [eriksandstroem/Splat-SLAM](https://github.com/eriksandstroem/Splat-SLAM) -
-
-*   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
-
-*   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
-
-*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
 ## Jupyter Notebook
 
@@ -395,12 +403,6 @@
 
 *   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
 
-*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
-
-*   [yuefanhao/SuperPoint-SuperGlue-TensorRT](https://github.com/yuefanhao/SuperPoint-SuperGlue-TensorRT) - SuperPoint and SuperGlue with TensorRT. Deploy with C++.
-
-*   [kajo-kurisu/D\_VINS](https://github.com/kajo-kurisu/D_VINS) - Merge superpoint、lightglue、MixVPR into VINS-FUSION for loop closure with TensorRT
-
 ## Markdown
 
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -426,8 +428,6 @@
 ## C
 
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## CSS
 
