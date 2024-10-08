@@ -9,9 +9,9 @@
 ## Table of Contents
 
 *   [C++](#c)
-*   [Dart](#dart)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
+*   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Markdown](#markdown)
@@ -28,6 +28,8 @@
 *   [C#](#c-2)
 
 ## C++
+
+*   [LuoXubo/JointLoc](https://github.com/LuoXubo/JointLoc) - \[IROS 2024] JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation
 
 *   [ethz-asl/okvis](https://github.com/ethz-asl/okvis) - OKVIS: Open Keyframe-based Visual-Inertial SLAM.
 
@@ -147,15 +149,9 @@
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
 
-*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
-
-## Dart
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
 ## Python
+
+*   [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
 
 *   [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 
@@ -319,6 +315,8 @@
 
 ## miscellaneous
 
+*   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
+
 *   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 
 *   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) -
@@ -371,7 +369,11 @@
 
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+## Dart
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 ## Jupyter Notebook
 
@@ -396,8 +398,6 @@
 *   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 ## TypeScript
 
