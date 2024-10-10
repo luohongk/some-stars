@@ -31,6 +31,8 @@
 
 ## C++
 
+*   [alejandrofontan/AnyFeature-VSLAM](https://github.com/alejandrofontan/AnyFeature-VSLAM) - Any-Feature V-SLAM is an automated visual SLAM library for Monocular cameras capable of switching to a chosen type of feature effortlessly and without manual intervention.
+
 *   [fishmarch/MS-SLAM](https://github.com/fishmarch/MS-SLAM) - \[JFR 2024] This is the official implementation of MS-SLAM, a memory-efficient visual SLAM system removing redundant map points to save memory consumption.
 
 *   [2013fangwentao/Multi\_Sensor\_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion) - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合
@@ -223,9 +225,9 @@
 
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
-*   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
-
 ## miscellaneous
+
+*   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
 
 *   [Open3DVLab/StreetSurfGS](https://github.com/Open3DVLab/StreetSurfGS) - StreetSurfGS: Scalable Large Scene Surface Reconstruction with Gaussian Splatting for Urban Street Scences
 
@@ -305,13 +307,11 @@
 
 *   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
-*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
-
 ## Python
 
 *   [1837669410/moco-pytorch](https://github.com/1837669410/moco-pytorch) - moco的学习例子，利用mnist数据集实现
 
-*   [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - \[ECCV 2024] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
+*   [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - \[ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
 
 *   [hustvl/osp](https://github.com/hustvl/osp) - \[ECCV 2024] Occupancy as Set of Points
 
