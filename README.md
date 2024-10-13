@@ -185,6 +185,8 @@
 
 *   [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) -
 
+*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
+
 *   [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - \[ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
 
 *   [VISION-SJTU/SparseOcc](https://github.com/VISION-SJTU/SparseOcc) - Official implementation for 'SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction' (CVPR 2024)
@@ -528,8 +530,6 @@
 *   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
 
 *   [jianzongwu/Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning
-
-*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
 
 *   [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc. In this repository, you will see the latest 3D occupancy prediction papers and code.
 
