@@ -479,7 +479,7 @@
 
 ## miscellaneous
 
-*   [Dreame-Simulation-Group/ESGaussian](https://github.com/Dreame-Simulation-Group/ESGaussian) - ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion
+*   [Simulation-Group/ESGaussian](https://github.com/Simulation-Group/ESGaussian) - ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion
 
 *   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
 
