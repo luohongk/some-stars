@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -18,7 +19,6 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Clojure](#clojure)
-*   [SCSS](#scss)
 *   [C](#c-1)
 *   [CSS](#css)
 *   [Makefile](#makefile)
@@ -28,6 +28,12 @@
 *   [MATLAB](#matlab)
 *   [C#](#c-2)
 *   [JavaScript](#javascript)
+
+## SCSS
+
+*   [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) - AcadHomepage: A Modern and Responsive Academic Personal Homepage
+
+*   [mcdviral/mcdviral.github.io](https://github.com/mcdviral/mcdviral.github.io) -
 
 ## C++
 
@@ -59,7 +65,7 @@
 
 *   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
-*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis + T-GRS Paper (Segmented Curved-Voxel  Occupancy Descriptor for Dynamic-Aware LiDAR Odometry and Mapping)
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion)
 
 *   [udaysankar01/xfeat\_cpp](https://github.com/udaysankar01/xfeat_cpp) - The C++ Implementation of XFeat (Accelerated Features).
 
@@ -459,8 +465,6 @@
 
 *   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
 
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
 ## miscellaneous
 
 *   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - LiDAR Place Recognition
@@ -612,10 +616,6 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## SCSS
-
-*   [mcdviral/mcdviral.github.io](https://github.com/mcdviral/mcdviral.github.io) -
 
 ## C
 
