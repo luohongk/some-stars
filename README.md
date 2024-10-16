@@ -9,8 +9,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [SCSS](#scss)
 *   [C++](#c)
+*   [SCSS](#scss)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -30,6 +30,8 @@
 *   [JavaScript](#javascript)
 
 ## Python
+
+*   [jiaoZ7688/YOLOPX](https://github.com/jiaoZ7688/YOLOPX) -
 
 *   [Nightmare-n/DepthAnyVideo](https://github.com/Nightmare-n/DepthAnyVideo) - Depth Any Video with Scalable Synthetic Data
 
@@ -259,13 +261,9 @@
 
 *   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
 
-## SCSS
-
-*   [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) - AcadHomepage: A Modern and Responsive Academic Personal Homepage
-
-*   [mcdviral/mcdviral.github.io](https://github.com/mcdviral/mcdviral.github.io) -
-
 ## C++
+
+*   [udaysankar01/xfeatSLAM](https://github.com/udaysankar01/xfeatSLAM) - Real-time SLAM with deep features (XFeat + ORB-SLAM3)
 
 *   [yanyan-li/Structure-SLAM-PointLine](https://github.com/yanyan-li/Structure-SLAM-PointLine) - This is a basic point-line SLAM system based on ORBSLAM2.
 
@@ -463,9 +461,11 @@
 
 *   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
 
-*   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
+## SCSS
 
-*   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
+*   [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) - AcadHomepage: A Modern and Responsive Academic Personal Homepage
+
+*   [mcdviral/mcdviral.github.io](https://github.com/mcdviral/mcdviral.github.io) -
 
 ## miscellaneous
 
