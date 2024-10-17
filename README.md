@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Dockerfile](#dockerfile)
 *   [C++](#c)
 *   [Python](#python)
 *   [SCSS](#scss)
@@ -28,6 +29,10 @@
 *   [MATLAB](#matlab)
 *   [C#](#c-2)
 *   [JavaScript](#javascript)
+
+## Dockerfile
+
+*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## C++
 
@@ -458,8 +463,6 @@
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
 
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
-
-*   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
 
 ## SCSS
 
