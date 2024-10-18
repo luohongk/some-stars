@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [MATLAB](#matlab)
 *   [Python](#python)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
@@ -26,9 +27,14 @@
 *   [Java](#java)
 *   [Go](#go)
 *   [Vim Script](#vim-script)
-*   [MATLAB](#matlab)
 *   [C#](#c-2)
 *   [JavaScript](#javascript)
+
+## MATLAB
+
+*   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
+
+*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
 
 ## Python
 
@@ -452,8 +458,6 @@
 
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
 
-*   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
-
 ## miscellaneous
 
 *   [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
@@ -657,10 +661,6 @@
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 *   [linrongbin16/lin.vim](https://github.com/linrongbin16/lin.vim) - Lin Rongbin's (Neo)Vim Distribution
-
-## MATLAB
-
-*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
 
 ## C\#
 
