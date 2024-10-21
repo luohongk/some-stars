@@ -44,6 +44,8 @@
 
 *   [StanfordVL/3DSceneGraph](https://github.com/StanfordVL/3DSceneGraph) - The data skeleton from "3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera" http://3dscenegraph.stanford.edu
 
+*   [cvg/depthsplat](https://github.com/cvg/depthsplat) - DepthSplat: Connecting Gaussian Splatting and Depth
+
 *   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 
 *   [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) -
@@ -285,8 +287,6 @@
 *   [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 
 *   [zhuhu00/Awesome\_Dynamic\_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.)
-
-*   [cvg/depthsplat](https://github.com/cvg/depthsplat) - DepthSplat: Connecting Gaussian Splatting and Depth
 
 *   [hongwenjun/tmux\_for\_windows](https://github.com/hongwenjun/tmux_for_windows) - tmux是一个开源工具，用于在一个终端窗口中运行多个终端会话。本工具从msys2里提取，可以在Git for Windows的Git Bash (MingW64)下正常使用。
 
