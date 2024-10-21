@@ -153,6 +153,8 @@
 
 *   [danping/CoSLAM](https://github.com/danping/CoSLAM) - CoSLAM is a visual SLAM software that aims to use multiple freely moving cameras to simultaneously compute their egomotion and the 3D map of the surrounding scenes in a highly dynamic environment.
 
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A robust real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
+
 *   [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 
 *   [JakobEngel/dso](https://github.com/JakobEngel/dso) - Direct Sparse Odometry
@@ -520,8 +522,6 @@
 *   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
 
 *   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) -
-
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A visual-inertial SLAM framework integrated deep learning features
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 
