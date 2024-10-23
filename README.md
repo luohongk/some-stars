@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Python](#python)
 *   [Lua](#lua)
@@ -18,7 +19,6 @@
 *   [MATLAB](#matlab)
 *   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
-*   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
@@ -30,6 +30,18 @@
 *   [Go](#go)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## TypeScript
+
+*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
+
+*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## C++
 
@@ -171,7 +183,7 @@
 
 *   [RonaldSun/VI-Stereo-DSO](https://github.com/RonaldSun/VI-Stereo-DSO) - Direct sparse odometry combined with stereo cameras and IMU
 
-*   [GREAT-WHU/GREAT-iKalibr](https://github.com/GREAT-WHU/GREAT-iKalibr) -
+*   [GREAT-WHU/iKalibr](https://github.com/GREAT-WHU/iKalibr) -
 
 *   [MIT-SPARK/Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO) - Robust Pose Graph Optimization
 
@@ -226,8 +238,6 @@
 *   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
-
-*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
 
 ## Python
 
@@ -610,16 +620,6 @@
 *   [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) - AcadHomepage: A Modern and Responsive Academic Personal Homepage
 
 *   [mcdviral/mcdviral.github.io](https://github.com/mcdviral/mcdviral.github.io) -
-
-## TypeScript
-
-*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-
-*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## HTML
 
