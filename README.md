@@ -8,8 +8,10 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [CMake](#cmake)
+*   [C++](#c-1)
 *   [TypeScript](#typescript)
-*   [C++](#c)
 *   [Python](#python)
 *   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
@@ -24,26 +26,29 @@
 *   [Markdown](#markdown)
 *   [TeX](#tex)
 *   [Clojure](#clojure)
-*   [C](#c-1)
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Go](#go)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
 
-## TypeScript
+## C
 
-*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
+*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
-*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
 
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
-*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
+## CMake
 
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+*   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 
 ## C++
+
+*   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
+
+*   [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
 
 *   [farhad-dalirani/StereoVision-SLAM](https://github.com/farhad-dalirani/StereoVision-SLAM) - StereoVision-SLAM is a real-time visual stereo SLAM (Simultaneous Localization and Mapping)
 
@@ -99,7 +104,7 @@
 
 *   [mengkai98/BA\_Play](https://github.com/mengkai98/BA_Play) - 随手写个BA玩玩
 
-*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
+*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025 Submitted) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
 *   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion)
 
@@ -233,11 +238,17 @@
 
 *   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
 
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+## TypeScript
 
-*   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
 
-*   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
+*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## Python
 
@@ -557,8 +568,6 @@
 
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
-*   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
 ## JavaScript
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
@@ -644,12 +653,6 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## C
-
-*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## Makefile
 
