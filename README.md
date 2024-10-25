@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - \[RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
+
 *   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
 
 *   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) -
@@ -539,8 +541,6 @@
 *   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
-
-*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 
 ## C
 
