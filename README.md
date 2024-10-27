@@ -34,6 +34,8 @@
 
 ## Python
 
+*   [robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM) - Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning. http://continual-slam.cs.uni-freiburg.de
+
 *   [ywyeli/Place3D](https://github.com/ywyeli/Place3D) - \[NeurIPS'24 Spotlight] Is Your LiDAR Placement Optimized for 3D Scene Understanding?
 
 *   [donydchen/mvsplat](https://github.com/donydchen/mvsplat) - 🌊 \[ECCV'24 Oral] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
@@ -289,8 +291,6 @@
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 *   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 ## C++
 
