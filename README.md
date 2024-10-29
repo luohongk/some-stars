@@ -448,7 +448,7 @@
 
 ## Jupyter Notebook
 
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) -
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 
 *   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
 
