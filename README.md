@@ -276,7 +276,7 @@
 
 *   [danping/CoSLAM](https://github.com/danping/CoSLAM) - CoSLAM is a visual SLAM software that aims to use multiple freely moving cameras to simultaneously compute their egomotion and the 3D map of the surrounding scenes in a highly dynamic environment.
 
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A robust real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
 
 *   [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 
