@@ -9,12 +9,13 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Go](#go)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C](#c-1)
 *   [CMake](#cmake)
-*   [TypeScript](#typescript)
 *   [Lua](#lua)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
@@ -28,11 +29,11 @@
 *   [Clojure](#clojure)
 *   [Makefile](#makefile)
 *   [Java](#java)
-*   [Go](#go)
 *   [Vim Script](#vim-script)
-*   [C#](#c-2)
 
 ## Python
+
+*   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
 
 *   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 
@@ -260,6 +261,26 @@
 
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
+## Go
+
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+
+*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+
+## TypeScript
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
+
+*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
 ## miscellaneous
 
 *   [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM) - A curated list of Object SLAM papers and resources
@@ -355,8 +376,6 @@
 *   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
 
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
-
-*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
 ## C++
 
@@ -574,8 +593,6 @@
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
 ## C
 
 *   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
@@ -585,18 +602,6 @@
 ## CMake
 
 *   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
-
-## TypeScript
-
-*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
-
-*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-
-*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## Lua
 
@@ -662,10 +667,6 @@
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
-## Go
-
-*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-
 ## Vim Script
 
 *   [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
@@ -673,7 +674,3 @@
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 *   [linrongbin16/lin.vim](https://github.com/linrongbin16/lin.vim) - Lin Rongbin's (Neo)Vim Distribution
-
-## C\#
-
-*   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
