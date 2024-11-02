@@ -30,6 +30,7 @@
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+*   [C#](#c-2)
 
 ## Python
 
@@ -318,8 +319,6 @@
 *   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 
 *   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - LiDAR Place Recognition
-
-*   [Simulation-Group/ESGaussian](https://github.com/Simulation-Group/ESGaussian) - ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion
 
 *   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
 
@@ -674,3 +673,7 @@
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 *   [linrongbin16/lin.vim](https://github.com/linrongbin16/lin.vim) - Lin Rongbin's (Neo)Vim Distribution
+
+## C\#
+
+*   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
