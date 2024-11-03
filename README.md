@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -25,12 +26,19 @@
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
-*   [TeX](#tex)
 *   [Clojure](#clojure)
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## TeX
+
+*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
+
+*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
+
+*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - :memo: 武汉大学毕业论文 LaTeX 模版 2024
 
 ## C++
 
@@ -289,10 +297,6 @@
 *   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
 
 *   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
-
-*   [BertaBescos/DynaSLAM](https://github.com/BertaBescos/DynaSLAM) - DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
-
-*   [HKUST-Aerial-Robotics/FC-Planner](https://github.com/HKUST-Aerial-Robotics/FC-Planner) - \[ICRA'24 Best UAV Paper Award Finalist] An Efficient Gloabl Planner for Aerial Coverage
 
 ## miscellaneous
 
@@ -847,10 +851,6 @@
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
-## TeX
-
-*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - :memo: 武汉大学毕业论文 LaTeX 模版 2024
 
 ## Clojure
 
