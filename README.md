@@ -108,6 +108,8 @@
 
 *   [ethz-asl/okvis](https://github.com/ethz-asl/okvis) - OKVIS: Open Keyframe-based Visual-Inertial SLAM.
 
+*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
+
 *   [smartroboticslab/okvis2](https://github.com/smartroboticslab/okvis2) - Open Keyframe-based Visual-Inertial SLAM (Version 2)
 
 *   [HViktorTsoi/FAST\_LIO\_LOCALIZATION](https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION) - A simple localization framework that can re-localize in built maps based on FAST-LIO.
@@ -361,8 +363,6 @@
 *   [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
 
 *   [YangSiri/OR-LIM](https://github.com/YangSiri/OR-LIM) - OR-LIM: Observability-aware robust LiDAR-Inertial-Mapping  under High Dynamic Sensor Motion
-
-*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
 
 *   [DeepLabc/LargeScale\_3DGS](https://github.com/DeepLabc/LargeScale_3DGS) - 3D Gaussian Splatting Papers Relating to Large-Scale Scene.
 
