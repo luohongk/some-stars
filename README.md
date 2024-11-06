@@ -8,13 +8,14 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [C++](#c)
 *   [TeX](#tex)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [TypeScript](#typescript)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [C](#c-1)
 *   [CMake](#cmake)
 *   [Lua](#lua)
@@ -31,6 +32,56 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## Rust
+
+*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
+
+## Jupyter Notebook
+
+*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
+
+*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
+
+*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
+
+*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+
+*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
+
+*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
+
+*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 ## Python
 
@@ -708,8 +759,6 @@
 
 *   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
-*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
-
 ## Go
 
 *   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -732,50 +781,6 @@
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 
-## Jupyter Notebook
-
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-
-*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
-
-*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
-
-*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
-
-*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
-
-*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
-
-*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
-
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
-
-*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-
-*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
-
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-
 ## C
 
 *   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
@@ -791,8 +796,6 @@
 *   [MichaelBeechan/PPP-RTK](https://github.com/MichaelBeechan/PPP-RTK) - SPP、RTD、PPP、RTK、PPP-RTK、RAIM、ARAIM et al
 
 *   [mulin33/Programming\_Study](https://github.com/mulin33/Programming_Study) - 用于学习编程技能，包括C/C++，数据结构，Linux，嵌入式等(For learning programming skills, including C/C++, data structures, Linux, embedded, etc)
-
-*   [Amoiensis/Matrix\_hub](https://github.com/Amoiensis/Matrix_hub) - A lib of Matrix operation for C language. (矩阵运算库--C语言)
 
 ## CMake
 
