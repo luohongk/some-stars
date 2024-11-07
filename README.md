@@ -257,7 +257,7 @@
 
 *   [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 
-*   [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Accepted to ICRA'24)
+*   [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (ICRA'24)
 
 *   [liuyuan-pal/SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - \[ICLR 2024 Spotlight] SyncDreamer: Generating Multiview-consistent Images from a Single-view Image
 
