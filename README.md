@@ -203,7 +203,7 @@
 
 *   [jkulhanek/wild-gaussians](https://github.com/jkulhanek/wild-gaussians) - \[NeurIPS'24] WildGaussians: 3D Gaussian Splatting In the Wild
 
-*   [cas-lab-munich/SigmaRL](https://github.com/cas-lab-munich/SigmaRL) - SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning
+*   [bassamlab/SigmaRL](https://github.com/bassamlab/SigmaRL) - SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning
 
 *   [DLR-MI/UTrack](https://github.com/DLR-MI/UTrack) - Multi-Object Tracking with Uncertain Detections \[ECCV 2024 UnCV]
 
