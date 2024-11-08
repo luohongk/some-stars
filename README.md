@@ -35,6 +35,8 @@
 
 ## Python
 
+*   [GREAT-WHU/GREAT-Dataset](https://github.com/GREAT-WHU/GREAT-Dataset) -
+
 *   [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 
 *   [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
@@ -774,8 +776,6 @@
 *   [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
-
-*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
 ## Go
 
