@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [YWL0720/I2EKF-LO](https://github.com/YWL0720/I2EKF-LO) - \[IROS 2024] I2EKF-LO: A Dual-Iteration Extended Kalman Filter based  LiDAR Odometry
+
 *   [arclab-hku/Event\_based\_VO-VIO-SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) - Our Works in Event-based VO/VIO/SLAM
 
 *   [LeonardoDiCaprio1/Map\_ORBSLAM\_ROS](https://github.com/LeonardoDiCaprio1/Map_ORBSLAM_ROS) - You can densely map datasets through RVIZ and create your own TUM dataset to create maps
@@ -748,8 +750,6 @@
 *   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
 
 *   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## TypeScript
 
