@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
-*   [Rust](#rust)
 *   [TeX](#tex)
 *   [Go](#go)
 *   [C](#c-1)
@@ -32,6 +32,12 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## Rust
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
 
 ## C++
 
@@ -585,8 +591,6 @@
 
 *   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
 
-*   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
-
 ## miscellaneous
 
 *   [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - \[IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
@@ -768,10 +772,6 @@
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
-
-## Rust
-
-*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
 
 ## TeX
 
