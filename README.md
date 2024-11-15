@@ -36,6 +36,10 @@
 
 ## C++
 
+*   [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
+
+*   [facebookresearch/Replica-Dataset](https://github.com/facebookresearch/Replica-Dataset) - The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .
+
 *   [stereolabs/zed-sdk](https://github.com/stereolabs/zed-sdk) - ⚡️The spatial perception framework for rapidly building smart robots and spaces
 
 *   [stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) - ROS wrapper for the ZED SDK
@@ -291,8 +295,6 @@
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
-
-*   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 ## Cython
 
@@ -581,8 +583,6 @@
 *   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
 
 *   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
 ## TypeScript
 
