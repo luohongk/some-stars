@@ -36,6 +36,10 @@
 
 ## C++
 
+*   [lturing/ORB\_SLAM3\_ROS](https://github.com/lturing/ORB_SLAM3_ROS) -
+
+*   [lturing/vins\_fusion\_pangolin](https://github.com/lturing/vins_fusion_pangolin) -
+
 *   [unitreerobotics/point\_lio\_unilidar](https://github.com/unitreerobotics/point_lio_unilidar) - Point-LIO for Unitree L1 LiDAR.
 
 *   [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
@@ -581,10 +585,6 @@
 *   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
 
 *   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
-
-*   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 
 ## miscellaneous
 
