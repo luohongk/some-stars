@@ -426,7 +426,7 @@
 
 *   [DLR-MI/UTrack](https://github.com/DLR-MI/UTrack) - Multi-Object Tracking with Uncertain Detections \[ECCV 2024 UnCV]
 
-*   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+*   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 
 *   [TempleRAIL/drl\_vo\_nav](https://github.com/TempleRAIL/drl_vo_nav) - \[T-RO 2023] DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity Obstacles
 
