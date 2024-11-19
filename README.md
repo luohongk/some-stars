@@ -9,13 +9,13 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
-*   [Makefile](#makefile)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
+*   [Makefile](#makefile)
 *   [Python](#python)
 *   [Cython](#cython)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TeX](#tex)
 *   [Go](#go)
 *   [C](#c-1)
@@ -35,6 +35,10 @@
 *   [C#](#c-2)
 
 ## miscellaneous
+
+*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+
+*   [kmk97/DGS-SLAM](https://github.com/kmk97/DGS-SLAM) -
 
 *   [SJTU-ViSYS/M2DGR](https://github.com/SJTU-ViSYS/M2DGR) - M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots(RA-L2021 & ICRA2022)
 
@@ -152,13 +156,59 @@
 
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
-## Makefile
+## Jupyter Notebook
 
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+*   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
 
-*   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
+*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
+
+*   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
+
+*   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+
+*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
+
+*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
+
+*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
+
+*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
+
+*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+
+*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
+
+*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
 ## C++
+
+*   [UnknownFreeOccupied/ufomap](https://github.com/UnknownFreeOccupied/ufomap) - UFOMap: An Efficient Probabilistic 3D Mapping Framework That Embraces the Unknown
 
 *   [lturing/ORB\_SLAM3\_ROS](https://github.com/lturing/ORB_SLAM3_ROS) -
 
@@ -420,9 +470,11 @@
 
 *   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
 
-*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+## Makefile
 
-*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
 
 ## Python
 
@@ -702,10 +754,6 @@
 
 *   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 
-*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
-
-*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
-
 ## Cython
 
 *   [stereolabs/zed-python-api](https://github.com/stereolabs/zed-python-api) - Python API for the ZED SDK
@@ -735,54 +783,6 @@
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 *   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
-
-## Jupyter Notebook
-
-*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
-
-*   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
-
-*   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
-
-*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
-
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-
-*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
-
-*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
-
-*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
-
-*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
-
-*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
-
-*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
-
-*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
-
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
-
-*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-
-*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
-
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
 ## TeX
 
