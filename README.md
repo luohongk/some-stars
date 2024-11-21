@@ -44,7 +44,7 @@
 
 *   [lturing/vins\_fusion\_pangolin](https://github.com/lturing/vins_fusion_pangolin) -
 
-*   [unitreerobotics/point\_lio\_unilidar](https://github.com/unitreerobotics/point_lio_unilidar) - Point-LIO for Unitree L1 LiDAR.
+*   [unitreerobotics/point\_lio\_unilidar](https://github.com/unitreerobotics/point_lio_unilidar) - Point-LIO algorithm for Unitree LiDAR products.
 
 *   [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
 
