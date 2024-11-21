@@ -10,6 +10,7 @@
 
 *   [C++](#c)
 *   [Python](#python)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
@@ -26,7 +27,6 @@
 *   [MATLAB](#matlab)
 *   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
-*   [HTML](#html)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
@@ -35,6 +35,8 @@
 *   [C#](#c-2)
 
 ## C++
+
+*   [tum-vision/dvo\_slam](https://github.com/tum-vision/dvo_slam) - Dense Visual Odometry and SLAM
 
 *   [Zhefan-Xu/time\_optimizer](https://github.com/Zhefan-Xu/time_optimizer) - \[IEEE ICRA'24] Optimal Trajectory Time Allocation Library for Autonomous Robots (C++/ROS)
 
@@ -294,9 +296,9 @@
 
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 
-*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
-
 ## Python
+
+*   [ori-drs/oxford\_spires\_dataset](https://github.com/ori-drs/oxford_spires_dataset) -
 
 *   [blazzbyte/OpenInterpreterUI](https://github.com/blazzbyte/OpenInterpreterUI) - Simplify code execution with Open Interpreter UI Project with Streamlit. A user-friendly GUI for Python, JavaScript, and more. Pay-as-you-go, no subscriptions. Ideal for beginners.
 
@@ -576,7 +578,11 @@
 
 *   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
 
-*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
+## HTML
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## miscellaneous
 
@@ -808,8 +814,6 @@
 
 *   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
-*   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.
-
 ## CMake
 
 *   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
@@ -847,10 +851,6 @@
 *   [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) - AcadHomepage: A Modern and Responsive Academic Personal Homepage
 
 *   [mcdviral/mcdviral.github.io](https://github.com/mcdviral/mcdviral.github.io) -
-
-## HTML
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## Dart
 
