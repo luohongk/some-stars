@@ -8,16 +8,16 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [Cuda](#cuda)
+*   [JavaScript](#javascript)
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Fortran](#fortran)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Matlab](#matlab)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [HTML](#html)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Cython](#cython)
 *   [TypeScript](#typescript)
@@ -37,9 +37,25 @@
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
 
+## Cuda
+
+*   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
+
+*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
+
+## JavaScript
+
+*   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
+
 ## Python
 
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
+
+*   [TianxingChen/G3Flow](https://github.com/TianxingChen/G3Flow) - G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
 
 *   [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
 
@@ -312,10 +328,6 @@
 *   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 
 *   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
-
-## Cuda
-
-*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
 ## miscellaneous
 
@@ -693,15 +705,29 @@
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
 
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
-
 ## Fortran
 
 *   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
 
-## Jupyter Notebook
+## Matlab
 
-*   [TianxingChen/G3Flow](https://github.com/TianxingChen/G3Flow) - G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
+*   [Relja/netvlad](https://github.com/Relja/netvlad) - NetVLAD: CNN architecture for weakly supervised place recognition
+
+## Go
+
+*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+
+*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+
+## HTML
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
+
+## Jupyter Notebook
 
 *   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
 
@@ -750,32 +776,6 @@
 *   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 *   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-## Matlab
-
-*   [Relja/netvlad](https://github.com/Relja/netvlad) - NetVLAD: CNN architecture for weakly supervised place recognition
-
-## Go
-
-*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-
-*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-
-## JavaScript
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-## HTML
-
-*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## Makefile
 
