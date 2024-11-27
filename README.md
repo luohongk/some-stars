@@ -73,6 +73,8 @@
 
 *   [Parskatt/RoMa](https://github.com/Parskatt/RoMa) - \[CVPR 2024] RoMa: Robust Dense Feature Matching; RoMa is the robust dense feature matcher capable of estimating pixel-dense warps and reliable certainties for almost any image pair.
 
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+
 *   [KwanWaiPang/Gaussian-SLAM\_comment](https://github.com/KwanWaiPang/Gaussian-SLAM_comment) - Gaussian-SLAM的中文注释
 
 *   [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
@@ -730,8 +732,6 @@
 ## Jupyter Notebook
 
 *   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
-
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 
 *   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
 
