@@ -18,7 +18,6 @@
 *   [Go](#go)
 *   [HTML](#html)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Makefile](#makefile)
 *   [Cython](#cython)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -33,6 +32,7 @@
 *   [Dart](#dart)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
+*   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
@@ -733,6 +733,8 @@
 
 *   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
 
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
 *   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
 
 *   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
@@ -776,12 +778,6 @@
 *   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 *   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-## Makefile
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
 
 ## Cython
 
@@ -876,6 +872,10 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Makefile
+
+*   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
 
 ## Java
 
