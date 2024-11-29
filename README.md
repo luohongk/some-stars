@@ -9,6 +9,7 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Cuda](#cuda)
@@ -38,6 +39,8 @@
 *   [C#](#c-2)
 
 ## Python
+
+*   [AliYoussef97/SuperPoint-PrP](https://github.com/AliYoussef97/SuperPoint-PrP) -
 
 *   [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 
@@ -316,6 +319,10 @@
 *   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
+
+## Shell
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## miscellaneous
 
@@ -691,8 +698,6 @@
 
 *   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
 
-*   [openxrlab/xrslam](https://github.com/openxrlab/xrslam) - OpenXRLab Visual-inertial SLAM Toolbox and Benchmark
-
 ## Cuda
 
 *   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
@@ -776,8 +781,6 @@
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 *   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 ## Cython
 
