@@ -40,6 +40,8 @@
 
 ## Python
 
+*   [1837669410/ownflow](https://github.com/1837669410/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
+
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
 *   [AliYoussef97/SuperPoint-PrP](https://github.com/AliYoussef97/SuperPoint-PrP) -
@@ -825,8 +827,6 @@
 *   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## CMake
 
