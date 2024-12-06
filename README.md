@@ -740,7 +740,7 @@
 
 *   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (Pypi: autogen-agentchat)
 
 *   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
 
