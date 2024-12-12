@@ -340,6 +340,8 @@
 
 *   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 
+*   [nv-tlabs/SCube](https://github.com/nv-tlabs/SCube) - \[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats
+
 *   [princeton-vl/RAFT-Stereo](https://github.com/princeton-vl/RAFT-Stereo) -
 
 *   [ChenHoy/DROID-Splat](https://github.com/ChenHoy/DROID-Splat) - End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering
@@ -605,8 +607,6 @@
 *   [HuaiyuanXu/3D-Occupancy-Perception](https://github.com/HuaiyuanXu/3D-Occupancy-Perception) - \[Information Fusion 2024] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
 
 *   [chicleee/Image-Matching-Paper-List](https://github.com/chicleee/Image-Matching-Paper-List) - A personal list of papers and resources of image matching and pose estimation, including perspective images and panoramas.
-
-*   [nv-tlabs/SCube](https://github.com/nv-tlabs/SCube) - \[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats
 
 *   [sheng00125/LIV-GaussMap](https://github.com/sheng00125/LIV-GaussMap) -
 
