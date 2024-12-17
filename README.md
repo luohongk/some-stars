@@ -222,8 +222,6 @@
 
 *   [MisEty/RTG-SLAM](https://github.com/MisEty/RTG-SLAM) - RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting (ACM SIGGRAPH 2024)
 
-*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
-
 *   [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -
 
 *   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
@@ -751,6 +749,8 @@
 *   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
 
 *   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
+
+*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 
 *   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 
