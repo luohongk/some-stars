@@ -154,6 +154,8 @@
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 
+*   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
+
 *   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
 
 *   [jianzongwu/Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) - (TPAMI 2024) A Survey on Open Vocabulary Learning
@@ -205,8 +207,6 @@
 *   [akawincent/ZED-data-collector](https://github.com/akawincent/ZED-data-collector) - In this project, ZED camera is used to extract image, IMU, pose data and convert them into a dataset format as ground truth for evaluation of other SLAM systems
 
 *   [Parskatt/RoMa](https://github.com/Parskatt/RoMa) - \[CVPR 2024] RoMa: Robust Dense Feature Matching; RoMa is the robust dense feature matcher capable of estimating pixel-dense warps and reliable certainties for almost any image pair.
-
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 
 *   [KwanWaiPang/Gaussian-SLAM\_comment](https://github.com/KwanWaiPang/Gaussian-SLAM_comment) - Gaussian-SLAM的中文注释
 
@@ -391,8 +391,6 @@
 *   [ericzzj1989/BALF](https://github.com/ericzzj1989/BALF) - \[WACV 2024] BALF: Simple and Efficient Blur Aware Local Feature Detector
 
 *   [lyakaap/NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch) - PyTorch implementation of NetVLAD & Online Hardest Triplet Loss.
-
-*   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 
 *   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) - DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction
 
@@ -743,6 +741,8 @@
 *   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
 
 *   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 
 *   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
 
