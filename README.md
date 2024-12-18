@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [C++](#c)
@@ -37,6 +38,10 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## Swift
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
 ## miscellaneous
 
@@ -167,8 +172,6 @@
 *   [bdvisl/DriveInsight](https://github.com/bdvisl/DriveInsight) -
 
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
-
-*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
 ## Python
 
