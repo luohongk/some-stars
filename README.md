@@ -41,6 +41,8 @@
 
 ## miscellaneous
 
+*   [Active-SLAM/Active-SLAM-Paper-List](https://github.com/Active-SLAM/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
+
 *   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 *   [linyicheng1/Quaternion-Kinematics-for-the-Error-State-Kalman-Filter](https://github.com/linyicheng1/Quaternion-Kinematics-for-the-Error-State-Kalman-Filter) - Quaternion Kinematics for the Error-State Kalman Filter (中文全文翻译)
@@ -850,8 +852,6 @@
 *   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
 
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
-
-*   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
 
 ## Swift
 
