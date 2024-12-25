@@ -379,7 +379,7 @@
 
 *   [GANWANSHUI/GaussianOcc](https://github.com/GANWANSHUI/GaussianOcc) - GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
 
-*   [GradientSpaces/LoopSplat](https://github.com/GradientSpaces/LoopSplat) - \[3DV 2025] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
+*   [GradientSpaces/LoopSplat](https://github.com/GradientSpaces/LoopSplat) - \[3DV 2025, Oral] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
 
 *   [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
 
