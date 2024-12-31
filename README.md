@@ -471,7 +471,7 @@
 
 *   [QiZS-BIT/GSPR](https://github.com/QiZS-BIT/GSPR) - GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving
 
-*   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南
+*   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 
 *   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
 
