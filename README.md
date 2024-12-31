@@ -8,16 +8,17 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
+*   [MATLAB](#matlab)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [C++](#c)
 *   [Swift](#swift)
-*   [Shell](#shell)
 *   [Cuda](#cuda)
 *   [JavaScript](#javascript)
 *   [Fortran](#fortran)
-*   [Matlab](#matlab)
+*   [Matlab](#matlab-1)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Cython](#cython)
@@ -28,7 +29,6 @@
 *   [CMake](#cmake)
 *   [Lua](#lua)
 *   [CSS](#css)
-*   [MATLAB](#matlab-1)
 *   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
 *   [Dart](#dart)
@@ -39,7 +39,15 @@
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
 
+## Shell
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
+
 ## Python
+
+*   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
 *   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
 
@@ -379,6 +387,14 @@
 
 *   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 
+## MATLAB
+
+*   [i2Nav-WHU/KF-GINS-Matlab](https://github.com/i2Nav-WHU/KF-GINS-Matlab) - An EKF-based GNSS/INS Integrated Navigation Systems in Matlab (Matlab Version of KF-GINS)
+
+*   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
+
+*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
+
 ## miscellaneous
 
 *   [siyuanliii/SLAck](https://github.com/siyuanliii/SLAck) - Official Implementation of ECCV2024 paper: SLAck
@@ -534,10 +550,6 @@
 *   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
 
 *   [DoongLi/awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
-
-*   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
-
-*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
 ## HTML
 
@@ -873,10 +885,6 @@
 
 *   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
-## Shell
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
-
 ## Cuda
 
 *   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
@@ -892,8 +900,6 @@
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## Fortran
 
@@ -1044,12 +1050,6 @@
 *   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
 
 *   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
-
-## MATLAB
-
-*   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
-
-*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
 
 ## Dockerfile
 
