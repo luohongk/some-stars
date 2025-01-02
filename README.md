@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Shell](#shell)
 *   [MATLAB](#matlab)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -38,6 +38,14 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## Shell
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## Rust
 
@@ -452,14 +460,6 @@
 *   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
 *   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-
-## Shell
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## MATLAB
 
