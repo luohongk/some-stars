@@ -346,7 +346,7 @@
 
 *   [lyakaap/NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch) - PyTorch implementation of NetVLAD & Online Hardest Triplet Loss.
 
-*   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) - \[RAL] DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction
+*   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) - \[RA-L] DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction
 
 *   [nianticlabs/acezero](https://github.com/nianticlabs/acezero) - \[ECCV 2024 - Oral] ACE0 is a learning-based structure-from-motion approach that estimates camera parameters of sets of images by learning a multi-view consistent, implicit scene representation.
 
