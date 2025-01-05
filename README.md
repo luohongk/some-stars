@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Astro](#astro)
-*   [Python](#python)
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [MATLAB](#matlab)
@@ -40,75 +40,9 @@
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
 
-## Jupyter Notebook
-
-*   [DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart) - Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）
-
-*   [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021, T-PAMI 2022
-
-*   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-
-*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
-
-*   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
-
-*   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
-
-*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
-
-*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
-
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-
-*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
-
-*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
-
-*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
-
-*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
-
-*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
-
-*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
-
-*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
-
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
-
-*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-
-*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-## Astro
-
-*   [RomanHauksson/academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) - Simple project page template for your research paper, built with Astro and Tailwind CSS
-
 ## Python
+
+*   [naver/mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 
 *   [opendilab/LightZero](https://github.com/opendilab/LightZero) - \[NeurIPS 2023 Spotlight] LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (awesome MCTS)
 
@@ -448,7 +382,73 @@
 
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 
-*   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
+## Jupyter Notebook
+
+*   [DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart) - Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）
+
+*   [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021, T-PAMI 2022
+
+*   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+
+*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
+
+*   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
+
+*   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+
+*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
+
+*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
+
+*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
+
+*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
+
+*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
+
+*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+
+*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
+
+*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
+
+*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+## Astro
+
+*   [RomanHauksson/academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) - Simple project page template for your research paper, built with Astro and Tailwind CSS
 
 ## Shell
 
