@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -18,7 +19,6 @@
 *   [MATLAB](#matlab)
 *   [HTML](#html)
 *   [C++](#c)
-*   [Swift](#swift)
 *   [Cuda](#cuda)
 *   [Fortran](#fortran)
 *   [Matlab](#matlab-1)
@@ -39,6 +39,20 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 *   [C#](#c-2)
+
+## Swift
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
 ## miscellaneous
 
@@ -955,20 +969,6 @@
 *   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
 
 *   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
-
-*   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
-
-## Swift
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
 ## Cuda
 
