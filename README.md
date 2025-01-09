@@ -42,6 +42,8 @@
 
 ## miscellaneous
 
+*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+
 *   [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 + Oh My Zsh 打造舒适终端体验
 
 *   [dtc111111/awesome-3dgs-for-robotics](https://github.com/dtc111111/awesome-3dgs-for-robotics) -
@@ -382,6 +384,8 @@
 
 *   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
 
+*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
+
 *   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 *   [eth-ait/GaussianHaircut](https://github.com/eth-ait/GaussianHaircut) - Gaussian Haircut: Human Hair Reconstruction with Strand-Aligned 3D Gaussians
@@ -607,8 +611,6 @@
 *   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
 
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
 
 *   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
 
@@ -973,8 +975,6 @@
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
-*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
 
 ## Cuda
 
