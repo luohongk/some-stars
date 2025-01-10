@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [Swift](#swift)
@@ -30,7 +31,6 @@
 *   [C](#c-2)
 *   [CMake](#cmake)
 *   [Lua](#lua)
-*   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
 *   [Dart](#dart)
@@ -39,6 +39,16 @@
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## CSS
+
+*   [luohongk/AcademicHomepage](https://github.com/luohongk/AcademicHomepage) - 本项目是一个优美的学术主页
+
+*   [zzwu29/Arxiv](https://github.com/zzwu29/Arxiv) -
+
+*   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
+
+*   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
 
 ## miscellaneous
 
@@ -250,7 +260,7 @@
 
 *   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 
-*   [1837669410/ownflow](https://github.com/1837669410/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
+*   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
 
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
@@ -358,7 +368,7 @@
 
 *   [uzh-rpg/deep\_ev\_tracker](https://github.com/uzh-rpg/deep_ev_tracker) - Repository relating to "Data-driven Feature Tracking for Event Cameras" (CVPR, 2023, Award Candidate).
 
-*   [1837669410/moco-pytorch](https://github.com/1837669410/moco-pytorch) - moco的学习例子，利用mnist数据集实现
+*   [LemonAttn/moco-pytorch](https://github.com/LemonAttn/moco-pytorch) - moco的学习例子，利用mnist数据集实现
 
 *   [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - \[ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
 
@@ -567,8 +577,6 @@
 *   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
-
-*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 
 ## JavaScript
 
@@ -1051,14 +1059,6 @@
 ## Lua
 
 *   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
-
-## CSS
-
-*   [zzwu29/Arxiv](https://github.com/zzwu29/Arxiv) -
-
-*   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
-
-*   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
 
 ## Dockerfile
 
