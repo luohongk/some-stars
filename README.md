@@ -9,8 +9,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
+*   [CSS](#css)
 *   [C#](#c)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
@@ -41,6 +41,8 @@
 *   [Vim Script](#vim-script)
 
 ## Python
+
+*   [google-deepmind/mujoco\_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
 
 *   [Aceinna/gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
 
@@ -388,19 +390,9 @@
 
 *   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
 
-*   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
-
-## CSS
-
-*   [luohongk/AcademicHomepage](https://github.com/luohongk/AcademicHomepage) - 本项目是一个优美的学术主页
-
-*   [zzwu29/Arxiv](https://github.com/zzwu29/Arxiv) -
-
-*   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
-
-*   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
-
 ## miscellaneous
+
+*   [GarlanLou/LF-GNSS](https://github.com/GarlanLou/LF-GNSS) - LF-GNSS: an open-sourced deep learning and Kalman filter integrated framework for satellite positioning.
 
 *   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 
@@ -559,6 +551,16 @@
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
 *   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
+
+## CSS
+
+*   [luohongk/AcademicHomepage](https://github.com/luohongk/AcademicHomepage) - This project is a beautiful personal academic homepage template created by me. Welcome to use it.
+
+*   [zzwu29/Arxiv](https://github.com/zzwu29/Arxiv) -
+
+*   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
+
+*   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
 
 ## C\#
 
@@ -983,8 +985,6 @@
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
-
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
 
 ## Cuda
 
