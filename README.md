@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -21,7 +22,6 @@
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [MATLAB](#matlab)
-*   [HTML](#html)
 *   [Cuda](#cuda)
 *   [Fortran](#fortran)
 *   [Matlab](#matlab-1)
@@ -39,6 +39,16 @@
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## HTML
+
+*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## Python
 
@@ -385,8 +395,6 @@
 *   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
 
 *   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
-
-*   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
 
 ## miscellaneous
 
@@ -997,14 +1005,6 @@
 *   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
 
 *   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
-
-## HTML
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## Cuda
 
