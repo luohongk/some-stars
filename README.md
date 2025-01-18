@@ -474,8 +474,6 @@
 
 *   [HCPLab-SYSU/Embodied\_AI\_Paper\_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) - \[Embodied-AI-Survey-2024] Paper list and projects for Embodied AI
 
-*   [hku-mars/LAMM](https://github.com/hku-mars/LAMM) -
-
 *   [JusticeFighterDance/JusticeFighter110](https://github.com/JusticeFighterDance/JusticeFighter110) - 田柯宇 (Tian Keyu)恶意攻击集群事件的证据揭露
 
 *   [william-sto/JusticeNeverTooLate](https://github.com/william-sto/JusticeNeverTooLate) - 字节跳动瓜最终真实情况，用事实说话，正义会迟到但不会缺席！
@@ -685,6 +683,8 @@
 *   [rubengooj/pl-slam](https://github.com/rubengooj/pl-slam) - This code contains an algorithm to compute stereo visual SLAM by using both point and line segment features.
 
 *   [DapengFeng/cartgs](https://github.com/DapengFeng/cartgs) - CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
+
+*   [hku-mars/LAMM](https://github.com/hku-mars/LAMM) -
 
 *   [alsora/ros2-ORB\_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library
 
