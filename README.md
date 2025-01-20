@@ -42,6 +42,8 @@
 
 ## C++
 
+*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
+
 *   [lpercc/HA3D\_simulator](https://github.com/lpercc/HA3D_simulator) - Official implementation of Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions (NeurIPS DB Track'24 Spotlight).
 
 *   [google/minja](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates
@@ -332,8 +334,6 @@
 
 *   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 
-*   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
-
 ## miscellaneous
 
 *   [cheryyunl/awesome-generalist-agents](https://github.com/cheryyunl/awesome-generalist-agents) - A curated list of papers for generalist agents
@@ -374,7 +374,7 @@
 
 *   [GeekLiB/Lee-SLAM-source](https://github.com/GeekLiB/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
 
-*   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) -
+*   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) - Event-based Vision Resources. Community effort to collect knowledge on event-based vision technology (papers, workshops, datasets, code, videos, etc)
 
 *   [bkhanal-11/awesome-360-depth-estimation](https://github.com/bkhanal-11/awesome-360-depth-estimation) - State-of-the-art papers for depth estimation of 360 images.
 
