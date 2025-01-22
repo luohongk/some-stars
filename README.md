@@ -1038,7 +1038,7 @@
 
 *   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
 
-*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - :memo: 武汉大学毕业论文 LaTeX 模版 2024
+*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
 
 ## C
 
