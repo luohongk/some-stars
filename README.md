@@ -74,6 +74,8 @@
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
+*   [MachinePerceptionLab/QQ-SLAM](https://github.com/MachinePerceptionLab/QQ-SLAM) -
+
 *   [YvanYin/Metric3D](https://github.com/YvanYin/Metric3D) - The repo for "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image" and "Metric3Dv2: A Versatile Monocular Geometric Foundation Model..."
 
 *   [modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
@@ -414,8 +416,6 @@
 
 *   [siyuanliii/SLAck](https://github.com/siyuanliii/SLAck) - Official Implementation of ECCV2024 paper: SLAck
 
-*   [MachinePerceptionLab/QQ-SLAM](https://github.com/MachinePerceptionLab/QQ-SLAM) -
-
 *   [Active-SLAM/Active-SLAM-Paper-List](https://github.com/Active-SLAM/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 
 *   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -506,7 +506,7 @@
 
 *   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 
-*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) -
+*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) - \[ICLR 2025] The official implementation of SSR
 
 *   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
 
