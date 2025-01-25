@@ -42,7 +42,9 @@
 
 ## Python
 
-*   [luohongk/awesome-Localization-and-3D-reconstruction-from-arxiv](https://github.com/luohongk/awesome-Localization-and-3D-reconstruction-from-arxiv) - 这个仓库是在arxiv上收集的有关定位导航，三维重建，VLN，VLA的相关论文
+*   [Irvingao/Point-DETR3D](https://github.com/Irvingao/Point-DETR3D) - \[AAAI 2024] Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-Supervised 3D Object Detection
+
+*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 这个仓库是在arxiv上收集的有关定位导航，三维重建，VLN，VLA的相关论文。每天都会自动更新！issue区域是最新10篇论文
 
 *   [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - \[ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 
@@ -557,8 +559,6 @@
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
-*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
 ## C++
 
