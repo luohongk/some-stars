@@ -192,7 +192,7 @@
 
 *   [mengkai98/BA\_Play](https://github.com/mengkai98/BA_Play) - 随手写个BA玩玩
 
-*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025 Submitted) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
+*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
 *   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion) + real-world application (MD-LVIO)
 
