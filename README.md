@@ -198,7 +198,7 @@
 
 *   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
-*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion) + real-world application (MD-LVIO)
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025) + real-world application (MD-LVIO)
 
 *   [udaysankar01/xfeat\_cpp](https://github.com/udaysankar01/xfeat_cpp) - The C++ Implementation of XFeat (Accelerated Features).
 
@@ -332,7 +332,7 @@
 
 ## Jupyter Notebook
 
-*   [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+*   [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 
 *   [DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart) - Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）
 
@@ -704,7 +704,7 @@
 
 *   [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - \[CVPR'24 Best Student Paper] Mip-Splatting: Alias-free 3D Gaussian Splatting
 
-*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching toolbox webui
+*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching webui
 
 *   [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - \[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 
