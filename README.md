@@ -228,7 +228,7 @@
 
 *   [cjy1992/interp-e2e-driving](https://github.com/cjy1992/interp-e2e-driving) - Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning
 
-*   [chenzomi12/AIFoundation](https://github.com/chenzomi12/AIFoundation) - AIFoundation 主要是指AI系统遇到大模型，从底层到上层如何系统级地支持大模型训练和推理，全栈的核心技术。
+*   [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
 
 *   [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - \[CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
 
