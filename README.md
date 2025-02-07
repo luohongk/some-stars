@@ -502,7 +502,7 @@
 
 *   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 
-*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - LiDAR Place Recognition
+*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - Heterogeneous LiDAR Place Recognition
 
 *   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
 
