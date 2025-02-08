@@ -388,6 +388,8 @@
 
 *   [yang-zj1026/VLN-CE-Isaac](https://github.com/yang-zj1026/VLN-CE-Isaac) - Vision-Language Navigation Benchmark in Isaac Lab
 
+*   [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
+
 *   [LYX0501/InstructNav](https://github.com/LYX0501/InstructNav) -
 
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -735,8 +737,6 @@
 *   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
 
 *   [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
-
-*   [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
 
 *   [fudan-zvg/DG-SLAM](https://github.com/fudan-zvg/DG-SLAM) - \[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
 
