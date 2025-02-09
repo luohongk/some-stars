@@ -782,7 +782,7 @@
 
 *   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - Official code for Neural LightRig.
 
-*   [miaoyin390/GaussianSpa](https://github.com/miaoyin390/GaussianSpa) - The official implementation for https://gaussianspa.github.io/
+*   [miaoyin390/GaussianSpa](https://github.com/miaoyin390/GaussianSpa) - The official implementation for https://gs-spa.github.io/
 
 *   [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - \[IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
 
