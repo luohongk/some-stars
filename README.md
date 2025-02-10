@@ -472,6 +472,8 @@
 
 *   [hkchengrex/Cutie](https://github.com/hkchengrex/Cutie) - \[CVPR 2024 Highlight] Putting the Object Back Into Video Object Segmentation
 
+*   [520xyxyzq/3DGS-CD](https://github.com/520xyxyzq/3DGS-CD) - 3DGS-based change detection for physical object rearrangement
+
 *   [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 
 *   [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
@@ -827,8 +829,6 @@
 *   [sheng00125/LIV-GaussMap](https://github.com/sheng00125/LIV-GaussMap) -
 
 *   [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources
-
-*   [520xyxyzq/3DGS-CD](https://github.com/520xyxyzq/3DGS-CD) - 3DGS-based change detection for physical object rearrangement
 
 *   [52CV/awesome-huggingface](https://github.com/52CV/awesome-huggingface) - 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
 
