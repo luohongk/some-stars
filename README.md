@@ -42,7 +42,7 @@
 
 ## miscellaneous
 
-*   [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - A list for Embodied AI Jobs (PhD, RA, intern, full-time, etc | 具身智能招贤榜
+*   [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - A list for Embodied AI / Robotics Jobs (PhD, RA, intern, full-time, etc | 具身智能招贤榜
 
 *   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment
 
