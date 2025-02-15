@@ -8,9 +8,10 @@
 
 ## Table of Contents
 
+*   [C++](#c)
+*   [LLVM](#llvm)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
@@ -39,6 +40,370 @@
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## C++
+
+*   [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
+
+*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
+
+*   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
+
+*   [YungeCui/BoW3D](https://github.com/YungeCui/BoW3D) - \[RA-L] BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM.
+
+*   [hku-mars/SUPER](https://github.com/hku-mars/SUPER) -
+
+*   [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
+
+*   [liquorleaf/OmniGS](https://github.com/liquorleaf/OmniGS) - \[WACV 2025] OmniGS: Fast Radiance Field Reconstruction using Omnidirectional Gaussian Splatting
+
+*   [johannes-graeter/limo](https://github.com/johannes-graeter/limo) - Lidar-Monocular Visual Odometry
+
+*   [HKUST-Aerial-Robotics/ESVO](https://github.com/HKUST-Aerial-Robotics/ESVO) - This repository maintains the implementation of "Event-based Stereo Visual Odometry".
+
+*   [strasdat/Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
+
+*   [YWL0720/YOLO\_ORB\_SLAM3](https://github.com/YWL0720/YOLO_ORB_SLAM3) - This is an improved version of ORB-SLAM3 that adds an object detection module implemented with YOLOv5 to achieve SLAM in dynamic environments.
+
+*   [ACFR-RPG/DynOSAM](https://github.com/ACFR-RPG/DynOSAM) - Offical code release for DynoSAM: Dynamic Object Smoothing And Mapping \[Submitted TRO Visual SLAM SI]. A visual SLAM framework and pipeline for Dynamic environements, estimating for the motion/pose of objects and their structure, as well as the camera odometry and static map.
+
+*   [suchetanrs/ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
+
+*   [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
+
+*   [hku-mars/FAST\_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
+
+*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
+
+*   [lpercc/HA3D\_simulator](https://github.com/lpercc/HA3D_simulator) - Official implementation of Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions (NeurIPS DB Track'24 Spotlight).
+
+*   [google/minja](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates
+
+*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - eKalibr: Event-Based Visual Calibration Framework
+
+*   [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
+
+*   [tqdm/tqdm.cpp](https://github.com/tqdm/tqdm.cpp) - C++ port of tqdm
+
+*   [ethz-asl/lidar\_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
+
+*   [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
+
+*   [MrNeRF/Light\_Glue\_CPP](https://github.com/MrNeRF/Light_Glue_CPP) - CPP Implementation of "LightGlue: Local Feature Matching at Light Speed"
+
+*   [HKUST-Aerial-Robotics/RIO](https://github.com/HKUST-Aerial-Robotics/RIO) - Optimization Based and Point Uncertainty Aware Radar-inertial Odometry for 4D Radar System
+
+*   [OctoMap/octomap\_msgs](https://github.com/OctoMap/octomap_msgs) - ROS package to provide messages and serializations / conversion for the OctoMap library
+
+*   [pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀
+
+*   [SJTU-ViSYS/Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion) - Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)
+
+*   [tum-vision/dvo\_slam](https://github.com/tum-vision/dvo_slam) - Dense Visual Odometry and SLAM
+
+*   [Zhefan-Xu/time\_optimizer](https://github.com/Zhefan-Xu/time_optimizer) - \[IEEE ICRA'24] Optimal Trajectory Time Allocation Library for Autonomous Robots (C++/ROS)
+
+*   [UnknownFreeOccupied/ufomap](https://github.com/UnknownFreeOccupied/ufomap) - UFOMap: An Efficient Probabilistic 3D Mapping Framework That Embraces the Unknown
+
+*   [lturing/ORB\_SLAM3\_ROS](https://github.com/lturing/ORB_SLAM3_ROS) -
+
+*   [lturing/vins\_fusion\_pangolin](https://github.com/lturing/vins_fusion_pangolin) -
+
+*   [unitreerobotics/point\_lio\_unilidar](https://github.com/unitreerobotics/point_lio_unilidar) - Point-LIO algorithm for Unitree LiDAR products.
+
+*   [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
+
+*   [facebookresearch/Replica-Dataset](https://github.com/facebookresearch/Replica-Dataset) - The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .
+
+*   [stereolabs/zed-sdk](https://github.com/stereolabs/zed-sdk) - ⚡️The spatial perception framework for rapidly building smart robots and spaces
+
+*   [stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) - ROS wrapper for the ZED SDK
+
+*   [hku-mars/ikd-Tree](https://github.com/hku-mars/ikd-Tree) - This repository provides implementation of an incremental k-d tree for robotic applications.
+
+*   [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
+
+*   [Glencsa/YOLOv8-ORB-SLAM3](https://github.com/Glencsa/YOLOv8-ORB-SLAM3) - YOLOv8-ORB-SLAM3: Semantic SLAM with dynamic feature point removal
+
+*   [YWL0720/I2EKF-LO](https://github.com/YWL0720/I2EKF-LO) - \[IROS 2024] I2EKF-LO: A Dual-Iteration Extended Kalman Filter based  LiDAR Odometry
+
+*   [arclab-hku/Event\_based\_VO-VIO-SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) - Our Works in Event-based VO/VIO/SLAM
+
+*   [LeonardoDiCaprio1/Map\_ORBSLAM\_ROS](https://github.com/LeonardoDiCaprio1/Map_ORBSLAM_ROS) - You can densely map datasets through RVIZ and create your own TUM dataset to create maps
+
+*   [qdLMF/VINS-Fusion-GPU-BA](https://github.com/qdLMF/VINS-Fusion-GPU-BA) - A CUDA reimplementation of Bundle Adjustment for VINS-Fusion
+
+*   [halismai/photobundle](https://github.com/halismai/photobundle) - Photometric Bundle Adjustment for Vision-Based SLAM
+
+*   [NKU-MobFly-Robotics/LRAE](https://github.com/NKU-MobFly-Robotics/LRAE) - LRAE: Large-Region-Aware Safe and Fast Autonomous Exploration of Ground Robots for Uneven Terrains, RA-L, 2024
+
+*   [TUMFTM/ORB\_SLAM3\_RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) - RGB-L: An Extension to Integrate LiDAR Data into ORB-SLAM3
+
+*   [ZJU-FAST-Lab/ego-planner](https://github.com/ZJU-FAST-Lab/ego-planner) -
+
+*   [HKUST-Aerial-Robotics/FM-Fusion](https://github.com/HKUST-Aerial-Robotics/FM-Fusion) - \[RA-L] FM-Fusion: Instance-aware Semantic Mapping Boosted by Vision-Language Foundation Models
+
+*   [GDUT-Kyle/faster\_lio\_sam](https://github.com/GDUT-Kyle/faster_lio_sam) - FASTER-LIO-SAM: A SLAM system based on iVox and GTSAM.
+
+*   [NAIL-HNU/ESVO2](https://github.com/NAIL-HNU/ESVO2) -
+
+*   [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - \[RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
+
+*   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
+
+*   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) -
+
+*   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
+
+*   [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
+
+*   [farhad-dalirani/StereoVision-SLAM](https://github.com/farhad-dalirani/StereoVision-SLAM) - StereoVision-SLAM is a real-time visual stereo SLAM (Simultaneous Localization and Mapping)
+
+*   [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio) - Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels
+
+*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+
+*   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+
+*   [Geekgineer/CloudPeek](https://github.com/Geekgineer/CloudPeek) - CloudPeek is a lightweight, cross-platform, single-header C++ point cloud viewer. It’s designed for simplicity and efficiency, requiring no heavy libraries like PCL or Open3D. Ideal for visualizing and interacting with 3D data from LiDAR, photogrammetry, or other datasets, CloudPeek delivers powerful, real-time exploration in a minimalistic package
+
+*   [zhuge2333/4DRadarSLAM](https://github.com/zhuge2333/4DRadarSLAM) -
+
+*   [rubengooj/pl-slam](https://github.com/rubengooj/pl-slam) - This code contains an algorithm to compute stereo visual SLAM by using both point and line segment features.
+
+*   [DapengFeng/cartgs](https://github.com/DapengFeng/cartgs) - CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
+
+*   [hku-mars/LAMM](https://github.com/hku-mars/LAMM) -
+
+*   [alsora/ros2-ORB\_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library
+
+*   [GREAT-WHU/RoadLib](https://github.com/GREAT-WHU/RoadLib) - A lightweight library for instance-level visual road marking extraction, parameterization, mapping, etc.
+
+*   [TohsakaZ/ppp\_ex](https://github.com/TohsakaZ/ppp_ex) - Prise Point Positioning Experiment
+
+*   [hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM) -
+
+*   [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
+
+*   [udaysankar01/xfeatSLAM](https://github.com/udaysankar01/xfeatSLAM) - Real-time SLAM with deep features (XFeat + ORB-SLAM3)
+
+*   [yanyan-li/Structure-SLAM-PointLine](https://github.com/yanyan-li/Structure-SLAM-PointLine) - This is a basic point-line SLAM system based on ORBSLAM2.
+
+*   [APRIL-ZJU/lidar\_IMU\_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - \[IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
+
+*   [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
+
+*   [alejandrofontan/AnyFeature-VSLAM](https://github.com/alejandrofontan/AnyFeature-VSLAM) - Any-Feature V-SLAM is an automated visual SLAM library for Monocular cameras capable of switching to a chosen type of feature effortlessly and without manual intervention.
+
+*   [fishmarch/MS-SLAM](https://github.com/fishmarch/MS-SLAM) - \[JFR 2024] This is the official implementation of MS-SLAM, a memory-efficient visual SLAM system removing redundant map points to save memory consumption.
+
+*   [2013fangwentao/Multi\_Sensor\_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion) - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合
+
+*   [ethz-asl/kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
+
+*   [LuoXubo/JointLoc](https://github.com/LuoXubo/JointLoc) - \[IROS 2024] JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation
+
+*   [ethz-asl/okvis](https://github.com/ethz-asl/okvis) - OKVIS: Open Keyframe-based Visual-Inertial SLAM.
+
+*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
+
+*   [smartroboticslab/okvis2](https://github.com/smartroboticslab/okvis2) - Open Keyframe-based Visual-Inertial SLAM (Version 2)
+
+*   [HViktorTsoi/FAST\_LIO\_LOCALIZATION](https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION) - A simple localization framework that can re-localize in built maps based on FAST-LIO.
+
+*   [GREAT-WHU/GREAT-PVT](https://github.com/GREAT-WHU/GREAT-PVT) -
+
+*   [mengkai98/BA\_Play](https://github.com/mengkai98/BA_Play) - 随手写个BA玩玩
+
+*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
+
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025) + real-world application (MD-LVIO)
+
+*   [udaysankar01/xfeat\_cpp](https://github.com/udaysankar01/xfeat_cpp) - The C++ Implementation of XFeat (Accelerated Features).
+
+*   [chengwei0427/ct-lio](https://github.com/chengwei0427/ct-lio) - CT-LIO: Continuous-Time LiDAR-Inertial Odometry
+
+*   [felixendres/rgbdslam\_v2](https://github.com/felixendres/rgbdslam_v2) - RGB-D SLAM for ROS
+
+*   [Eliaul/Eq-LIO](https://github.com/Eliaul/Eq-LIO) - A tightly coupled LIO framework based on the equivariant filter.
+
+*   [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
+
+*   [HuajianUP/Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) - \[CVPR 2024] Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras
+
+*   [HKUST-Aerial-Robotics/EPSILON](https://github.com/HKUST-Aerial-Robotics/EPSILON) -
+
+*   [rmsalinas/DBow3](https://github.com/rmsalinas/DBow3) - Improved version of DBow2
+
+*   [MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF) -  This project allows the  alignment and correction of LiDAR-based SLAM session data with a reference map or another session, also the retrieval of 6-DoF poses with accuracy of up to 3 cm given an accurate TLS point cloud as a reference map (this map should be accurate at least regarding the position of permanent elements such as walls and columns).
+
+*   [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
+
+*   [kuankuan-yue/VINS-FUSION-leanrning](https://github.com/kuankuan-yue/VINS-FUSION-leanrning) - VINS-FUSION中文注释版.目前网络上对于VINS-mono的代码已经有很多讲解和注释了，但是对于VINS-FUSION（以下简称VF）的注释还是很少的，刚好本人最近也正在学习VIO的相关知识，所以对VF按照程序执行顺序进行了十分详细的注释，同时为了和大家进行交流学习，所以把相关注释代码进行开源。因水平有限，错误肯定不少，还请各位大佬们指正。
+
+*   [gtrll/gpslam](https://github.com/gtrll/gpslam) - Sparse Gaussian Processes for SLAM
+
+*   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+
+*   [i3tyc/AdaptSLAM](https://github.com/i3tyc/AdaptSLAM) - AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization
+
+*   [Zhefan-Xu/onboard\_detector](https://github.com/Zhefan-Xu/onboard_detector) - \[IEEE RA-L'24] Dynamic Obstacle Detection and Tracking (DODT) algorithm for Autonomous Robots (C++/ROS)
+
+*   [nkliuhui/sync\_gps\_lidar\_imu\_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam) - lidar-imu-cam-GPS时间戳硬件同步方案
+
+*   [tum-vision/lsd\_slam](https://github.com/tum-vision/lsd_slam) - LSD-SLAM
+
+*   [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) -
+
+*   [HeYijia/VINS-Course](https://github.com/HeYijia/VINS-Course) - VINS-Mono code without Ceres or ROS
+
+*   [SainingZhang/UC-GS](https://github.com/SainingZhang/UC-GS) - \[BMVC 2024] Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty
+
+*   [AndreasArendt/OpenRTK](https://github.com/AndreasArendt/OpenRTK) - Open Source precise GNSS Software
+
+*   [PetWorm/LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
+
+*   [ManiiXu/VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning) - VINS-Mono代码注释，仅供学习
+
+*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀
+
+*   [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
+
+*   [CG050523/PPP-Navigation](https://github.com/CG050523/PPP-Navigation) - 伪距单点定位程序实现，仅学习使用
+
+*   [Alex-Beh/yolov5\_ros](https://github.com/Alex-Beh/yolov5_ros) -
+
+*   [VIS4ROB-lab/ccm\_slam](https://github.com/VIS4ROB-lab/ccm_slam) - CCM-SLAM: Robust and Efficient Centralized Collaborative Monocular SLAM for Robotic Teams
+
+*   [microsoft/Azure-Kinect-Sensor-SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK) - A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.
+
+*   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
+
+*   [yanyan-li/PlanarSLAM](https://github.com/yanyan-li/PlanarSLAM) - A RGB-D SLAM system for structural scenes, which makes use of point-line-plane features and the Manhattan World assumption.
+
+*   [STAR-Center/VINS-RGBD](https://github.com/STAR-Center/VINS-RGBD) -
+
+*   [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
+
+*   [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM) - LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
+
+*   [danping/CoSLAM](https://github.com/danping/CoSLAM) - CoSLAM is a visual SLAM software that aims to use multiple freely moving cameras to simultaneously compute their egomotion and the 3D map of the surrounding scenes in a highly dynamic environment.
+
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
+
+*   [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
+
+*   [JakobEngel/dso](https://github.com/JakobEngel/dso) - Direct Sparse Odometry
+
+*   [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
+
+*   [ethz-asl/wavemap](https://github.com/ethz-asl/wavemap) - Fast, efficient and accurate multi-resolution, multi-sensor 3D occupancy mapping
+
+*   [RonaldSun/VI-Stereo-DSO](https://github.com/RonaldSun/VI-Stereo-DSO) - Direct sparse odometry combined with stereo cameras and IMU
+
+*   [GREAT-WHU/iKalibr](https://github.com/GREAT-WHU/iKalibr) -
+
+*   [MIT-SPARK/Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO) - Robust Pose Graph Optimization
+
+*   [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
+
+*   [engcang/vins-application](https://github.com/engcang/vins-application) - VINS-Fusion, VINS-Fisheye, OpenVINS, EnVIO, ROVIO, S-MSCKF, ORB-SLAM2, NVIDIA Elbrus application of different sets of cameras and imu on different board including desktop and Jetson boards
+
+*   [floatlazer/semantic\_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
+
+*   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
+
+*   [BaowenZ/RaDe-GS](https://github.com/BaowenZ/RaDe-GS) - RaDe-GS: Rasterizing Depth in Gaussian Splatting
+
+*   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - \[IEEE T-RO 2025] iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems
+
+*   [emiliofidalgo/ibow-lcd](https://github.com/emiliofidalgo/ibow-lcd) - Appearance-based Loop Closure Detection using Incremental Bags of Binary Words
+
+*   [bxh1/VIDO-SLAM](https://github.com/bxh1/VIDO-SLAM) - VIDO-SLAM is a  Visual Inertial SLAM system for dynamic environments, and it can  also estimate dynamic objects motion and track objects.
+
+*   [url-kaist/dynaVINS](https://github.com/url-kaist/dynaVINS) - DynaVINS : A Visual-Inertial SLAM for Dynamic Environments
+
+*   [MAVIS-SLAM/OpenMAVIS](https://github.com/MAVIS-SLAM/OpenMAVIS) - An open-source implementation of MAVIS-SLAM.
+
+*   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
+
+*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
+
+*   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
+
+*   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
+
+*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
+
+*   [yuefanhao/SuperPoint-SuperGlue-TensorRT](https://github.com/yuefanhao/SuperPoint-SuperGlue-TensorRT) - SuperPoint and SuperGlue with TensorRT. Deploy with C++.
+
+*   [kajo-kurisu/D\_VINS](https://github.com/kajo-kurisu/D_VINS) - Merge superpoint、lightglue、MixVPR into VINS-FUSION for loop closure with TensorRT
+
+*   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
+
+*   [openxrlab/xrslam](https://github.com/openxrlab/xrslam) - OpenXRLab Visual-inertial SLAM Toolbox and Benchmark
+
+*   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+
+*   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
+
+*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
+
+*   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
+
+*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+*   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+
+*   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
+
+*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
+
+*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
+
+*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+
+*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
+
+*   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
+
+*   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
+
+*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+
+*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+
+*   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
+
+*   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
+
+*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
+
+*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
+
+*   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
+
+*   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
+
+*   [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) - \[CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System
+
+*   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
+
+*   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
+
+*   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
+
+*   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
+
+*   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
+
+*   [BertaBescos/DynaSLAM](https://github.com/BertaBescos/DynaSLAM) - DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
+
+*   [HKUST-Aerial-Robotics/FC-Planner](https://github.com/HKUST-Aerial-Robotics/FC-Planner) - \[ICRA'24 Best UAV Paper Award Finalist] An Efficient Global Planner for Aerial Coverage
+
+## LLVM
+
+*   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Python
 
@@ -392,6 +757,66 @@
 
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
+*   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
+
+*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
+
+*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
+
+*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
+
+*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+
+*   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
+
+*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+
+*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
+*   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
+
+*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
+
+*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
+
+*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
+
+*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
+
+*   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
+
+*   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
+
+*   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
+
+*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+
+*   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
+
+*   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
+*   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+
+*   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
+
+*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
+
+*   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
+
+*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
+
+*   [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - \[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
+
+*   [PRBonn/PIN\_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency \[TRO' 24]
+
 ## miscellaneous
 
 *   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
@@ -570,289 +995,31 @@
 
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
 
-## C++
+*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
-*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
-*   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
+*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
-*   [YungeCui/BoW3D](https://github.com/YungeCui/BoW3D) - \[RA-L] BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM.
+*   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
-*   [hku-mars/SUPER](https://github.com/hku-mars/SUPER) -
+*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
-*   [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
+*   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
 
-*   [liquorleaf/OmniGS](https://github.com/liquorleaf/OmniGS) - \[WACV 2025] OmniGS: Fast Radiance Field Reconstruction using Omnidirectional Gaussian Splatting
+*   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
-*   [johannes-graeter/limo](https://github.com/johannes-graeter/limo) - Lidar-Monocular Visual Odometry
+*   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
 
-*   [HKUST-Aerial-Robotics/ESVO](https://github.com/HKUST-Aerial-Robotics/ESVO) - This repository maintains the implementation of "Event-based Stereo Visual Odometry".
+*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
-*   [strasdat/Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
+*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 
-*   [YWL0720/YOLO\_ORB\_SLAM3](https://github.com/YWL0720/YOLO_ORB_SLAM3) - This is an improved version of ORB-SLAM3 that adds an object detection module implemented with YOLOv5 to achieve SLAM in dynamic environments.
+*   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
 
-*   [ACFR-RPG/DynOSAM](https://github.com/ACFR-RPG/DynOSAM) - Offical code release for DynoSAM: Dynamic Object Smoothing And Mapping \[Submitted TRO Visual SLAM SI]. A visual SLAM framework and pipeline for Dynamic environements, estimating for the motion/pose of objects and their structure, as well as the camera odometry and static map.
+*   [lovechoudoufu/wechat\_for\_linux](https://github.com/lovechoudoufu/wechat_for_linux) - wechat\_for\_linux；weixin\_for\_linux；wechat-beta；微信；linux原生微信
 
-*   [suchetanrs/ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
-
-*   [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
-
-*   [hku-mars/FAST\_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
-
-*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
-
-*   [lpercc/HA3D\_simulator](https://github.com/lpercc/HA3D_simulator) - Official implementation of Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions (NeurIPS DB Track'24 Spotlight).
-
-*   [google/minja](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates
-
-*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - eKalibr: Event-Based Visual Calibration Framework
-
-*   [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
-
-*   [tqdm/tqdm.cpp](https://github.com/tqdm/tqdm.cpp) - C++ port of tqdm
-
-*   [ethz-asl/lidar\_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
-
-*   [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
-
-*   [MrNeRF/Light\_Glue\_CPP](https://github.com/MrNeRF/Light_Glue_CPP) - CPP Implementation of "LightGlue: Local Feature Matching at Light Speed"
-
-*   [HKUST-Aerial-Robotics/RIO](https://github.com/HKUST-Aerial-Robotics/RIO) - Optimization Based and Point Uncertainty Aware Radar-inertial Odometry for 4D Radar System
-
-*   [OctoMap/octomap\_msgs](https://github.com/OctoMap/octomap_msgs) - ROS package to provide messages and serializations / conversion for the OctoMap library
-
-*   [pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀
-
-*   [SJTU-ViSYS/Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion) - Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)
-
-*   [tum-vision/dvo\_slam](https://github.com/tum-vision/dvo_slam) - Dense Visual Odometry and SLAM
-
-*   [Zhefan-Xu/time\_optimizer](https://github.com/Zhefan-Xu/time_optimizer) - \[IEEE ICRA'24] Optimal Trajectory Time Allocation Library for Autonomous Robots (C++/ROS)
-
-*   [UnknownFreeOccupied/ufomap](https://github.com/UnknownFreeOccupied/ufomap) - UFOMap: An Efficient Probabilistic 3D Mapping Framework That Embraces the Unknown
-
-*   [lturing/ORB\_SLAM3\_ROS](https://github.com/lturing/ORB_SLAM3_ROS) -
-
-*   [lturing/vins\_fusion\_pangolin](https://github.com/lturing/vins_fusion_pangolin) -
-
-*   [unitreerobotics/point\_lio\_unilidar](https://github.com/unitreerobotics/point_lio_unilidar) - Point-LIO algorithm for Unitree LiDAR products.
-
-*   [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
-
-*   [facebookresearch/Replica-Dataset](https://github.com/facebookresearch/Replica-Dataset) - The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .
-
-*   [stereolabs/zed-sdk](https://github.com/stereolabs/zed-sdk) - ⚡️The spatial perception framework for rapidly building smart robots and spaces
-
-*   [stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) - ROS wrapper for the ZED SDK
-
-*   [hku-mars/ikd-Tree](https://github.com/hku-mars/ikd-Tree) - This repository provides implementation of an incremental k-d tree for robotic applications.
-
-*   [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
-
-*   [Glencsa/YOLOv8-ORB-SLAM3](https://github.com/Glencsa/YOLOv8-ORB-SLAM3) - YOLOv8-ORB-SLAM3: Semantic SLAM with dynamic feature point removal
-
-*   [YWL0720/I2EKF-LO](https://github.com/YWL0720/I2EKF-LO) - \[IROS 2024] I2EKF-LO: A Dual-Iteration Extended Kalman Filter based  LiDAR Odometry
-
-*   [arclab-hku/Event\_based\_VO-VIO-SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) - Our Works in Event-based VO/VIO/SLAM
-
-*   [LeonardoDiCaprio1/Map\_ORBSLAM\_ROS](https://github.com/LeonardoDiCaprio1/Map_ORBSLAM_ROS) - You can densely map datasets through RVIZ and create your own TUM dataset to create maps
-
-*   [qdLMF/VINS-Fusion-GPU-BA](https://github.com/qdLMF/VINS-Fusion-GPU-BA) - A CUDA reimplementation of Bundle Adjustment for VINS-Fusion
-
-*   [halismai/photobundle](https://github.com/halismai/photobundle) - Photometric Bundle Adjustment for Vision-Based SLAM
-
-*   [NKU-MobFly-Robotics/LRAE](https://github.com/NKU-MobFly-Robotics/LRAE) - LRAE: Large-Region-Aware Safe and Fast Autonomous Exploration of Ground Robots for Uneven Terrains, RA-L, 2024
-
-*   [TUMFTM/ORB\_SLAM3\_RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) - RGB-L: An Extension to Integrate LiDAR Data into ORB-SLAM3
-
-*   [ZJU-FAST-Lab/ego-planner](https://github.com/ZJU-FAST-Lab/ego-planner) -
-
-*   [HKUST-Aerial-Robotics/FM-Fusion](https://github.com/HKUST-Aerial-Robotics/FM-Fusion) - \[RA-L] FM-Fusion: Instance-aware Semantic Mapping Boosted by Vision-Language Foundation Models
-
-*   [GDUT-Kyle/faster\_lio\_sam](https://github.com/GDUT-Kyle/faster_lio_sam) - FASTER-LIO-SAM: A SLAM system based on iVox and GTSAM.
-
-*   [NAIL-HNU/ESVO2](https://github.com/NAIL-HNU/ESVO2) -
-
-*   [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - \[RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
-
-*   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
-
-*   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) -
-
-*   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
-
-*   [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
-
-*   [farhad-dalirani/StereoVision-SLAM](https://github.com/farhad-dalirani/StereoVision-SLAM) - StereoVision-SLAM is a real-time visual stereo SLAM (Simultaneous Localization and Mapping)
-
-*   [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio) - Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels
-
-*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
-
-*   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-
-*   [Geekgineer/CloudPeek](https://github.com/Geekgineer/CloudPeek) - CloudPeek is a lightweight, cross-platform, single-header C++ point cloud viewer. It’s designed for simplicity and efficiency, requiring no heavy libraries like PCL or Open3D. Ideal for visualizing and interacting with 3D data from LiDAR, photogrammetry, or other datasets, CloudPeek delivers powerful, real-time exploration in a minimalistic package
-
-*   [zhuge2333/4DRadarSLAM](https://github.com/zhuge2333/4DRadarSLAM) -
-
-*   [rubengooj/pl-slam](https://github.com/rubengooj/pl-slam) - This code contains an algorithm to compute stereo visual SLAM by using both point and line segment features.
-
-*   [DapengFeng/cartgs](https://github.com/DapengFeng/cartgs) - CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
-
-*   [hku-mars/LAMM](https://github.com/hku-mars/LAMM) -
-
-*   [alsora/ros2-ORB\_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library
-
-*   [GREAT-WHU/RoadLib](https://github.com/GREAT-WHU/RoadLib) - A lightweight library for instance-level visual road marking extraction, parameterization, mapping, etc.
-
-*   [TohsakaZ/ppp\_ex](https://github.com/TohsakaZ/ppp_ex) - Prise Point Positioning Experiment
-
-*   [hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM) -
-
-*   [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
-
-*   [udaysankar01/xfeatSLAM](https://github.com/udaysankar01/xfeatSLAM) - Real-time SLAM with deep features (XFeat + ORB-SLAM3)
-
-*   [yanyan-li/Structure-SLAM-PointLine](https://github.com/yanyan-li/Structure-SLAM-PointLine) - This is a basic point-line SLAM system based on ORBSLAM2.
-
-*   [APRIL-ZJU/lidar\_IMU\_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - \[IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
-
-*   [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
-
-*   [alejandrofontan/AnyFeature-VSLAM](https://github.com/alejandrofontan/AnyFeature-VSLAM) - Any-Feature V-SLAM is an automated visual SLAM library for Monocular cameras capable of switching to a chosen type of feature effortlessly and without manual intervention.
-
-*   [fishmarch/MS-SLAM](https://github.com/fishmarch/MS-SLAM) - \[JFR 2024] This is the official implementation of MS-SLAM, a memory-efficient visual SLAM system removing redundant map points to save memory consumption.
-
-*   [2013fangwentao/Multi\_Sensor\_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion) - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合
-
-*   [ethz-asl/kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
-
-*   [LuoXubo/JointLoc](https://github.com/LuoXubo/JointLoc) - \[IROS 2024] JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation
-
-*   [ethz-asl/okvis](https://github.com/ethz-asl/okvis) - OKVIS: Open Keyframe-based Visual-Inertial SLAM.
-
-*   [jimazeyu/GraspSplats](https://github.com/jimazeyu/GraspSplats) - GraspSplats: Efficient Manipulation with 3D Feature Splatting
-
-*   [smartroboticslab/okvis2](https://github.com/smartroboticslab/okvis2) - Open Keyframe-based Visual-Inertial SLAM (Version 2)
-
-*   [HViktorTsoi/FAST\_LIO\_LOCALIZATION](https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION) - A simple localization framework that can re-localize in built maps based on FAST-LIO.
-
-*   [GREAT-WHU/GREAT-PVT](https://github.com/GREAT-WHU/GREAT-PVT) -
-
-*   [mengkai98/BA\_Play](https://github.com/mengkai98/BA_Play) - 随手写个BA玩玩
-
-*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
-
-*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025) + real-world application (MD-LVIO)
-
-*   [udaysankar01/xfeat\_cpp](https://github.com/udaysankar01/xfeat_cpp) - The C++ Implementation of XFeat (Accelerated Features).
-
-*   [chengwei0427/ct-lio](https://github.com/chengwei0427/ct-lio) - CT-LIO: Continuous-Time LiDAR-Inertial Odometry
-
-*   [felixendres/rgbdslam\_v2](https://github.com/felixendres/rgbdslam_v2) - RGB-D SLAM for ROS
-
-*   [Eliaul/Eq-LIO](https://github.com/Eliaul/Eq-LIO) - A tightly coupled LIO framework based on the equivariant filter.
-
-*   [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
-
-*   [HuajianUP/Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) - \[CVPR 2024] Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras
-
-*   [HKUST-Aerial-Robotics/EPSILON](https://github.com/HKUST-Aerial-Robotics/EPSILON) -
-
-*   [rmsalinas/DBow3](https://github.com/rmsalinas/DBow3) - Improved version of DBow2
-
-*   [MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF) -  This project allows the  alignment and correction of LiDAR-based SLAM session data with a reference map or another session, also the retrieval of 6-DoF poses with accuracy of up to 3 cm given an accurate TLS point cloud as a reference map (this map should be accurate at least regarding the position of permanent elements such as walls and columns).
-
-*   [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
-
-*   [kuankuan-yue/VINS-FUSION-leanrning](https://github.com/kuankuan-yue/VINS-FUSION-leanrning) - VINS-FUSION中文注释版.目前网络上对于VINS-mono的代码已经有很多讲解和注释了，但是对于VINS-FUSION（以下简称VF）的注释还是很少的，刚好本人最近也正在学习VIO的相关知识，所以对VF按照程序执行顺序进行了十分详细的注释，同时为了和大家进行交流学习，所以把相关注释代码进行开源。因水平有限，错误肯定不少，还请各位大佬们指正。
-
-*   [gtrll/gpslam](https://github.com/gtrll/gpslam) - Sparse Gaussian Processes for SLAM
-
-*   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-
-*   [i3tyc/AdaptSLAM](https://github.com/i3tyc/AdaptSLAM) - AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization
-
-*   [Zhefan-Xu/onboard\_detector](https://github.com/Zhefan-Xu/onboard_detector) - \[IEEE RA-L'24] Dynamic Obstacle Detection and Tracking (DODT) algorithm for Autonomous Robots (C++/ROS)
-
-*   [nkliuhui/sync\_gps\_lidar\_imu\_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam) - lidar-imu-cam-GPS时间戳硬件同步方案
-
-*   [tum-vision/lsd\_slam](https://github.com/tum-vision/lsd_slam) - LSD-SLAM
-
-*   [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) -
-
-*   [HeYijia/VINS-Course](https://github.com/HeYijia/VINS-Course) - VINS-Mono code without Ceres or ROS
-
-*   [SainingZhang/UC-GS](https://github.com/SainingZhang/UC-GS) - \[BMVC 2024] Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty
-
-*   [AndreasArendt/OpenRTK](https://github.com/AndreasArendt/OpenRTK) - Open Source precise GNSS Software
-
-*   [PetWorm/LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
-
-*   [ManiiXu/VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning) - VINS-Mono代码注释，仅供学习
-
-*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀
-
-*   [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
-
-*   [CG050523/PPP-Navigation](https://github.com/CG050523/PPP-Navigation) - 伪距单点定位程序实现，仅学习使用
-
-*   [Alex-Beh/yolov5\_ros](https://github.com/Alex-Beh/yolov5_ros) -
-
-*   [VIS4ROB-lab/ccm\_slam](https://github.com/VIS4ROB-lab/ccm_slam) - CCM-SLAM: Robust and Efficient Centralized Collaborative Monocular SLAM for Robotic Teams
-
-*   [microsoft/Azure-Kinect-Sensor-SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK) - A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.
-
-*   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
-
-*   [yanyan-li/PlanarSLAM](https://github.com/yanyan-li/PlanarSLAM) - A RGB-D SLAM system for structural scenes, which makes use of point-line-plane features and the Manhattan World assumption.
-
-*   [STAR-Center/VINS-RGBD](https://github.com/STAR-Center/VINS-RGBD) -
-
-*   [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
-
-*   [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM) - LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
-
-*   [danping/CoSLAM](https://github.com/danping/CoSLAM) - CoSLAM is a visual SLAM software that aims to use multiple freely moving cameras to simultaneously compute their egomotion and the 3D map of the surrounding scenes in a highly dynamic environment.
-
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
-
-*   [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
-
-*   [JakobEngel/dso](https://github.com/JakobEngel/dso) - Direct Sparse Odometry
-
-*   [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
-
-*   [ethz-asl/wavemap](https://github.com/ethz-asl/wavemap) - Fast, efficient and accurate multi-resolution, multi-sensor 3D occupancy mapping
-
-*   [RonaldSun/VI-Stereo-DSO](https://github.com/RonaldSun/VI-Stereo-DSO) - Direct sparse odometry combined with stereo cameras and IMU
-
-*   [GREAT-WHU/iKalibr](https://github.com/GREAT-WHU/iKalibr) -
-
-*   [MIT-SPARK/Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO) - Robust Pose Graph Optimization
-
-*   [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
-
-*   [engcang/vins-application](https://github.com/engcang/vins-application) - VINS-Fusion, VINS-Fisheye, OpenVINS, EnVIO, ROVIO, S-MSCKF, ORB-SLAM2, NVIDIA Elbrus application of different sets of cameras and imu on different board including desktop and Jetson boards
-
-*   [floatlazer/semantic\_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
-
-*   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
-
-*   [BaowenZ/RaDe-GS](https://github.com/BaowenZ/RaDe-GS) - RaDe-GS: Rasterizing Depth in Gaussian Splatting
-
-*   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - \[IEEE T-RO 2025] iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems
-
-*   [emiliofidalgo/ibow-lcd](https://github.com/emiliofidalgo/ibow-lcd) - Appearance-based Loop Closure Detection using Incremental Bags of Binary Words
-
-*   [bxh1/VIDO-SLAM](https://github.com/bxh1/VIDO-SLAM) - VIDO-SLAM is a  Visual Inertial SLAM system for dynamic environments, and it can  also estimate dynamic objects motion and track objects.
-
-*   [url-kaist/dynaVINS](https://github.com/url-kaist/dynaVINS) - DynaVINS : A Visual-Inertial SLAM for Dynamic Environments
-
-*   [MAVIS-SLAM/OpenMAVIS](https://github.com/MAVIS-SLAM/OpenMAVIS) - An open-source implementation of MAVIS-SLAM.
-
-*   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
+*   [NKvision428/Tasks\_for\_Rookies](https://github.com/NKvision428/Tasks_for_Rookies) - 视觉实验室新手任务
 
 ## Jupyter Notebook
 
@@ -908,6 +1075,18 @@
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
+
+*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
 ## Shell
 
 *   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -930,6 +1109,10 @@
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
 ## HTML
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -941,6 +1124,10 @@
 *   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
 
 *   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
+
+*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
+
+*   [mayuelala/mayuelala.github.io](https://github.com/mayuelala/mayuelala.github.io) - My HomePage
 
 ## TypeScript
 
@@ -962,6 +1149,8 @@
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
 ## CSS
 
 *   [luohongk/AcademicHomepage](https://github.com/luohongk/AcademicHomepage) - This project is a beautiful personal academic homepage template created by me. Welcome to use it.
@@ -977,6 +1166,8 @@
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 *   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
+
+*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 
 ## Swift
 
@@ -1051,6 +1242,18 @@
 *   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
+
+*   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.
+
+*   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
+
+*   [MichaelBeechan/PPP-RTK](https://github.com/MichaelBeechan/PPP-RTK) - SPP、RTD、PPP、RTK、PPP-RTK、RAIM、ARAIM et al
+
+*   [mulin33/Programming\_Study](https://github.com/mulin33/Programming_Study) - 用于学习编程技能，包括C/C++，数据结构，Linux，嵌入式等(For learning programming skills, including C/C++, data structures, Linux, embedded, etc)
+
+*   [Amoiensis/Matrix\_hub](https://github.com/Amoiensis/Matrix_hub) - A lib of Matrix operation for C language. (矩阵运算库--C语言)
 
 ## CMake
 
