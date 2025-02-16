@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Dockerfile](#dockerfile)
 *   [C++](#c)
 *   [LLVM](#llvm)
 *   [Python](#python)
@@ -32,7 +33,6 @@
 *   [C](#c-2)
 *   [CMake](#cmake)
 *   [Lua](#lua)
-*   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
@@ -41,7 +41,17 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
+## Dockerfile
+
+*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
+
+*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
+
 ## C++
+
+*   [linyicheng1/ceres-example](https://github.com/linyicheng1/ceres-example) - some ceres examples with notes
+
+*   [XRIM-Lab/GS-CPR](https://github.com/XRIM-Lab/GS-CPR) - \[ICLR2025] Official repo of "GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting"
 
 *   [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
 
@@ -398,8 +408,6 @@
 *   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
 
 *   [BertaBescos/DynaSLAM](https://github.com/BertaBescos/DynaSLAM) - DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
-
-*   [HKUST-Aerial-Robotics/FC-Planner](https://github.com/HKUST-Aerial-Robotics/FC-Planner) - \[ICRA'24 Best UAV Paper Award Finalist] An Efficient Global Planner for Aerial Coverage
 
 ## LLVM
 
@@ -815,8 +823,6 @@
 
 *   [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - \[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 
-*   [PRBonn/PIN\_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency \[TRO' 24]
-
 ## miscellaneous
 
 *   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
@@ -1018,8 +1024,6 @@
 *   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
 
 *   [lovechoudoufu/wechat\_for\_linux](https://github.com/lovechoudoufu/wechat_for_linux) - wechat\_for\_linux；weixin\_for\_linux；wechat-beta；微信；linux原生微信
-
-*   [NKvision428/Tasks\_for\_Rookies](https://github.com/NKvision428/Tasks_for_Rookies) - 视觉实验室新手任务
 
 ## Jupyter Notebook
 
@@ -1262,10 +1266,6 @@
 ## Lua
 
 *   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
-
-## Dockerfile
-
-*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## SCSS
 
