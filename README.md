@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Makefile](#makefile)
 *   [C++](#c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -37,11 +38,18 @@
 *   [Dart](#dart)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
-*   [Makefile](#makefile)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
+## Makefile
+
+*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
+
+*   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
+
 ## C++
+
+*   [HKUST-Aerial-Robotics/G3Reg](https://github.com/HKUST-Aerial-Robotics/G3Reg) - A fast and robust global registration library for outdoor LiDAR point clouds.
 
 *   [hku-mars/FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 
@@ -408,6 +416,10 @@
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
 ## Python
+
+*   [fraunhoferhhi/AT-GS](https://github.com/fraunhoferhhi/AT-GS) - Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
+
+*   [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - YOLOv12: Attention-Centric Real-Time Object Detectors
 
 *   [HKUDS/GraphGPT](https://github.com/HKUDS/GraphGPT) - \[SIGIR'2024] "GraphGPT: Graph Instruction Tuning for Large Language Models"
 
@@ -815,8 +827,6 @@
 
 *   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
-*   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
-
 ## TypeScript
 
 *   [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
@@ -1035,10 +1045,6 @@
 
 *   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
-*   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
-
-*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
-
 ## Dockerfile
 
 *   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
@@ -1138,8 +1144,6 @@
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## HTML
 
@@ -1288,10 +1292,6 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## Makefile
-
-*   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
 
 ## Java
 
