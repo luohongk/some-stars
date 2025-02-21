@@ -47,8 +47,6 @@
 
 *   [szx-0633/DeepSeek-R1-learning-note](https://github.com/szx-0633/DeepSeek-R1-learning-note) - My learning note about DeepSeek-R1 reasoning LLM
 
-*   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
-
 *   [John19187/v2ray-SSR-Clash-Verge-Shadowrocke](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke) - 2025年2月-免费高速（23.5M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
 
 *   [Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting) - 2024 Gaussian Splatting Paper List(Arxiv)
@@ -260,6 +258,8 @@
 *   [XRIM-Lab/GS-CPR](https://github.com/XRIM-Lab/GS-CPR) - \[ICLR 2025] Official repo of "GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting"
 
 *   [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
+
+*   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
 
 *   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
 
