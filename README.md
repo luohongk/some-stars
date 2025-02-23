@@ -227,7 +227,7 @@
 
 *   [jiaoZ7688/YOLOPX](https://github.com/jiaoZ7688/YOLOPX) -
 
-*   [Nightmare-n/DepthAnyVideo](https://github.com/Nightmare-n/DepthAnyVideo) - Depth Any Video with Scalable Synthetic Data
+*   [Nightmare-n/DepthAnyVideo](https://github.com/Nightmare-n/DepthAnyVideo) - Depth Any Video with Scalable Synthetic Data (ICLR 2025)
 
 *   [linyicheng1/EdgePoint](https://github.com/linyicheng1/EdgePoint) - EdgePoint: Learning Efficient Keypoint Extraction and Description for Edge Devices
 
