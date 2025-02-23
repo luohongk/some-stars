@@ -43,6 +43,8 @@
 
 ## Python
 
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
 *   [url-kaist/MambaGlue](https://github.com/url-kaist/MambaGlue) - MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25
 
 *   [fraunhoferhhi/AT-GS](https://github.com/fraunhoferhhi/AT-GS) - Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
@@ -825,8 +827,6 @@
 
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
 
-*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
-
 ## miscellaneous
 
 *   [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) -
@@ -841,7 +841,7 @@
 
 *   [Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting) - 2024 Gaussian Splatting Paper List(Arxiv)
 
-*   [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - A list for Embodied AI / Robotics Jobs (PhD, RA, intern, full-time, etc | 具身智能招贤榜
+*   [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - DeepTimber社区具身智能招贤榜 | A list for Embodied AI / Robotics Jobs (PhD, RA, intern, full-time, etc
 
 *   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment
 
