@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Makefile](#makefile)
@@ -41,35 +41,11 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
-## TypeScript
-
-*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-
-*   [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
-
-*   [David-patrick-chuks/Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
-
-*   [MegaScenes/web-viewer](https://github.com/MegaScenes/web-viewer) - web viewer for 3d reconstructions
-
-*   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
-
-*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-
-*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
 ## Python
+
+*   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
+
+*   [AirVLN/AirVLN](https://github.com/AirVLN/AirVLN) -
 
 *   [xuxw98/ESAM](https://github.com/xuxw98/ESAM) - \[ICLR 2025, Oral] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
 
@@ -473,7 +449,33 @@
 
 *   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
 
-*   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
+## TypeScript
+
+*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+
+*   [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
+
+*   [David-patrick-chuks/Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+
+*   [MegaScenes/web-viewer](https://github.com/MegaScenes/web-viewer) - web viewer for 3d reconstructions
+
+*   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [amir9480/vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
+
+*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## C++
 
@@ -563,7 +565,7 @@
 
 *   [google/minja](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates
 
-*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - eKalibr: Event-Based Visual Calibration Framework
+*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - eKalibr: Event Camera Calibration Framework
 
 *   [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 
@@ -797,7 +799,7 @@
 
 *   [BaowenZ/RaDe-GS](https://github.com/BaowenZ/RaDe-GS) - RaDe-GS: Rasterizing Depth in Gaussian Splatting
 
-*   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - \[IEEE T-RO 2025] iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems
+*   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - \[IEEE T-RO 2025] iKalibr: Multi-Sensor Calibration (Extrinsics & Time Offsets)
 
 *   [emiliofidalgo/ibow-lcd](https://github.com/emiliofidalgo/ibow-lcd) - Appearance-based Loop Closure Detection using Incremental Bags of Binary Words
 
@@ -854,8 +856,6 @@
 *   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
-
-*   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
 
 ## miscellaneous
 
