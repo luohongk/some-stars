@@ -167,7 +167,7 @@
 
 *   [RuijieZhu94/MotionGS](https://github.com/RuijieZhu94/MotionGS) - \[NeurIPS 2024] MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
 
-*   [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
+*   [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
 
 *   [zhuhu00/Awesome\_Dynamic\_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.)
 
@@ -417,7 +417,7 @@
 
 *   [songw-zju/LiDAR2Map](https://github.com/songw-zju/LiDAR2Map) - The official implementation of "LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation" (CVPR 2023)
 
-*   [zhaihongjia/SplatLoc](https://github.com/zhaihongjia/SplatLoc) - SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality
+*   [zhaihongjia/SplatLoc](https://github.com/zhaihongjia/SplatLoc) - \[TVCG 2025] SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality
 
 *   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
