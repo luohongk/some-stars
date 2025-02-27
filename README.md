@@ -327,7 +327,7 @@
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
-*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
+*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
@@ -359,7 +359,7 @@
 
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
 
-*   [TianxingChen/G3Flow](https://github.com/TianxingChen/G3Flow) - G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
+*   [TianxingChen/G3Flow](https://github.com/TianxingChen/G3Flow) - \[CVPR 25] G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
 
 *   [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
 
@@ -437,7 +437,7 @@
 
 *   [StanfordVL/3DSceneGraph](https://github.com/StanfordVL/3DSceneGraph) - The data skeleton from "3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera" http://3dscenegraph.stanford.edu
 
-*   [cvg/depthsplat](https://github.com/cvg/depthsplat) - DepthSplat: Connecting Gaussian Splatting and Depth
+*   [cvg/depthsplat](https://github.com/cvg/depthsplat) - \[CVPR'25] DepthSplat: Connecting Gaussian Splatting and Depth
 
 *   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 
