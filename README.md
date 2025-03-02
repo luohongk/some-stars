@@ -135,7 +135,7 @@
 
 *   [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
 
-*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - World's First Large-scale High-quality Robotic Manipulation Benchmark
+*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
@@ -661,7 +661,7 @@
 
 *   [YWL0720/I2EKF-LO](https://github.com/YWL0720/I2EKF-LO) - \[IROS 2024] I2EKF-LO: A Dual-Iteration Extended Kalman Filter based  LiDAR Odometry
 
-*   [arclab-hku/Event\_based\_VO-VIO-SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) - Our Works in Event-based VO/VIO/SLAM
+*   [arclab-hku/Event\_based\_VO-VIO-SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) - HKU-Dataset for Event-based VO/VIO/SLAM
 
 *   [LeonardoDiCaprio1/Map\_ORBSLAM\_ROS](https://github.com/LeonardoDiCaprio1/Map_ORBSLAM_ROS) - You can densely map datasets through RVIZ and create your own TUM dataset to create maps
 
