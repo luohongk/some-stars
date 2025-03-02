@@ -43,6 +43,8 @@
 
 ## Python
 
+*   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
+
 *   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - Code base for Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 
 *   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
@@ -450,8 +452,6 @@
 *   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 
 *   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-
-*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
 ## Jupyter Notebook
 
