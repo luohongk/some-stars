@@ -53,6 +53,8 @@
 
 *   [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025)
 
+*   [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
+
 *   [iris0329/SeeGround](https://github.com/iris0329/SeeGround) - \[CVPR'25] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding
 
 *   [pengwangucla/DeLS-3D](https://github.com/pengwangucla/DeLS-3D) - The code for DeLS-3D of CVPR 2018
@@ -457,8 +459,6 @@
 
 *   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
-*   [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
-
 *   [CurryYuan/ZSVG3D](https://github.com/CurryYuan/ZSVG3D) - \[CVPR 2024] Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding
 
 *   [robot-pesg/BotanicGarden](https://github.com/robot-pesg/BotanicGarden) - BotanicGarden: A high-quality dataset for robot navigation in unstructured natural environments
@@ -525,7 +525,7 @@
 
 *   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
-*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
+*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
 
 *   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 
