@@ -43,6 +43,12 @@
 
 ## Python
 
+*   [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - \[CVPR 2025] Real-time dense scene reconstruction with SLAM3R
+
+*   [fanegg/Feat2GS](https://github.com/fanegg/Feat2GS) - \[CVPR2025] Feat2GS: Probing Visual Foundation Models with Gaussian Splatting
+
+*   [MrZihan/Sim2Real-VLN-3DFF](https://github.com/MrZihan/Sim2Real-VLN-3DFF) - Official implementation of Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation  (CoRL'24).
+
 *   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
 
 *   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - Code base for Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
@@ -453,8 +459,6 @@
 
 *   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-
 ## Jupyter Notebook
 
 *   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
@@ -516,8 +520,6 @@
 *   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 *   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
 ## C++
 
@@ -888,8 +890,6 @@
 *   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
-
-*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
 
 ## miscellaneous
 
