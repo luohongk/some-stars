@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
+*   [Cuda](#cuda)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
-*   [Cuda](#cuda)
 *   [TypeScript](#typescript)
 *   [Makefile](#makefile)
 *   [Dockerfile](#dockerfile)
@@ -41,6 +41,14 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
+## Cuda
+
+*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
+
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+
+*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
+
 ## Python
 
 *   [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - \[CVPR 2025] Real-time dense scene reconstruction with SLAM3R
@@ -56,6 +64,8 @@
 *   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
 
 *   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
+
+*   [WU-CVGL/Omni-Scene](https://github.com/WU-CVGL/Omni-Scene) - \[CVPR2025] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
 
 *   [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025)
 
@@ -889,11 +899,7 @@
 
 *   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-*   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
-
 ## miscellaneous
-
-*   [WU-CVGL/Omni-Scene](https://github.com/WU-CVGL/Omni-Scene) - \[CVPR2025] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
 
 *   [liw95/LightLoc](https://github.com/liw95/LightLoc) - \[CVPR2025] LightLoc: Learning Outdoor LiDAR Localization at Light Speed
 
@@ -1090,12 +1096,6 @@
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
-## Cuda
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-
-*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
 ## TypeScript
 
