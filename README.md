@@ -59,7 +59,7 @@
 
 *   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
 
-*   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - Code base for Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
+*   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - \[CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 
 *   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
 
@@ -79,7 +79,7 @@
 
 *   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 
-*   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
+*   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - \[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 
 *   [AirVLN/AirVLN](https://github.com/AirVLN/AirVLN) -
 
