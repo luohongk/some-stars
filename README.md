@@ -229,7 +229,7 @@
 
 *   [rubengooj/pl-slam](https://github.com/rubengooj/pl-slam) - This code contains an algorithm to compute stereo visual SLAM by using both point and line segment features.
 
-*   [DapengFeng/cartgs](https://github.com/DapengFeng/cartgs) - CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
+*   [DapengFeng/cartgs](https://github.com/DapengFeng/cartgs) - \[RA-L] CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
 
 *   [hku-mars/LAMM](https://github.com/hku-mars/LAMM) -
 
@@ -431,7 +431,7 @@
 
 *   [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025)
 
-*   [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
+*   [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
 
 *   [iris0329/SeeGround](https://github.com/iris0329/SeeGround) - \[CVPR'25] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding
 
@@ -563,7 +563,7 @@
 
 *   [fudan-zvg/gaussian-raytracing](https://github.com/fudan-zvg/gaussian-raytracing) -
 
-*   [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
+*   [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - \[ICLR' 25] SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
 
 *   [akawincent/ZED-data-collector](https://github.com/akawincent/ZED-data-collector) - In this project, ZED camera is used to extract image, IMU, pose data and convert them into a dataset format as ground truth for evaluation of other SLAM systems
 
