@@ -43,6 +43,8 @@
 
 ## Python
 
+*   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation
+
 *   [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat
 
 *   [JeffLIrion/python-graphslam](https://github.com/JeffLIrion/python-graphslam) - Graph SLAM solver in Python
@@ -830,8 +832,6 @@
 *   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
-
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
 
 ## Cuda
 
