@@ -43,6 +43,8 @@
 
 ## Python
 
+*   [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat
+
 *   [JeffLIrion/python-graphslam](https://github.com/JeffLIrion/python-graphslam) - Graph SLAM solver in Python
 
 *   [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -467,6 +469,8 @@
 
 ## C++
 
+*   [JD-hust/gs-dso](https://github.com/JD-hust/gs-dso) - a monocular direct sparse odometry with prior continuous 3D gaussian maps for indoor environments
+
 *   [YWL0720/YOLO\_ORB\_SLAM3\_with\_pointcloud\_map](https://github.com/YWL0720/YOLO_ORB_SLAM3_with_pointcloud_map) - This code is an extended version of YOLO\_ORB\_SLAM3, which adds the functionality of creating dense point cloud maps.
 
 *   [engcang/FAST-LIO-SAM](https://github.com/engcang/FAST-LIO-SAM) - a SLAM implementation combining FAST-LIO2 with pose graph optimization and loop closing based on LIO-SAM paper
@@ -829,8 +833,6 @@
 
 *   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
 
-*   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
-
 ## Cuda
 
 *   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
@@ -1094,8 +1096,6 @@
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 ## TypeScript
 
