@@ -43,6 +43,8 @@
 
 ## Python
 
+*   [YicongHong/Recurrent-VLN-BERT](https://github.com/YicongHong/Recurrent-VLN-BERT) - Code of the CVPR 2021 Oral paper: A Recurrent Vision-and-Language BERT for Navigation
+
 *   [gaoxiangjun/Mani-GS](https://github.com/gaoxiangjun/Mani-GS) - \[CVPR' 2025'] Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
 
 *   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
@@ -468,8 +470,6 @@
 *   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
-
-*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 
 ## C++
 
