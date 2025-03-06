@@ -43,6 +43,10 @@
 
 ## Python
 
+*   [gaoxiangjun/Mani-GS](https://github.com/gaoxiangjun/Mani-GS) - \[CVPR' 2025'] Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
+
+*   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
+
 *   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation
 
 *   [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat
@@ -466,8 +470,6 @@
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
 
 *   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
-
-*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 
 ## C++
 
@@ -1160,8 +1162,6 @@
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 
 ## HTML
 
