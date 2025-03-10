@@ -43,6 +43,8 @@
 
 ## C++
 
+*   [SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC) - \[IROS 2024] A 3D Global Descriptor For Loop Closure Detection. NDT-Map-Code.
+
 *   [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) -
 
 *   [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
@@ -397,11 +399,9 @@
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
 
-*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
-
-*   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
-
 ## Python
+
+*   [robot-learning-freiburg/LCDNet](https://github.com/robot-learning-freiburg/LCDNet) - PyTorch code for training LCDNet for loop closure detection in LiDAR SLAM. http://rl.uni-freiburg.de/research/lidar-slam-lc
 
 *   [MarSaKi/VLN-BEVBert](https://github.com/MarSaKi/VLN-BEVBert) - \[ICCV 2023} Official repo of "BEVBert: Multimodal Map Pre-training for Language-guided Navigation"
 
