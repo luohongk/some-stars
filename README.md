@@ -43,6 +43,8 @@
 
 ## Python
 
+*   [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
+
 *   [whu-lyh/SaliencyI2PLoc](https://github.com/whu-lyh/SaliencyI2PLoc) - Official code of SaliencyI2PLoc
 
 *   [robot-learning-freiburg/LCDNet](https://github.com/robot-learning-freiburg/LCDNet) - PyTorch code for training LCDNet for loop closure detection in LiDAR SLAM. http://rl.uni-freiburg.de/research/lidar-slam-lc
@@ -131,8 +133,6 @@
 
 *   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
 
-*   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
-
 *   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 
 *   [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - \[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
@@ -155,7 +155,7 @@
 
 *   [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) - Daily ArXiv Papers.
 
-*   [microsoft/MoGe](https://github.com/microsoft/MoGe) - MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
+*   [microsoft/MoGe](https://github.com/microsoft/MoGe) - \[CVPR'25] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
 
 *   [NVlabs/InstantSplat](https://github.com/NVlabs/InstantSplat) - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds
 
