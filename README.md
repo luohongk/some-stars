@@ -131,6 +131,8 @@
 
 *   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
 
+*   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
+
 *   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 
 *   [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - \[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
@@ -1110,8 +1112,6 @@
 *   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 ## TypeScript
 
