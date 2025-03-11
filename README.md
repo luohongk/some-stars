@@ -79,7 +79,7 @@
 
 *   [MrZihan/Sim2Real-VLN-3DFF](https://github.com/MrZihan/Sim2Real-VLN-3DFF) - Official implementation of Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation  (CoRL'24).
 
-*   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
+*   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[IEEE RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
 
 *   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - \[CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 
