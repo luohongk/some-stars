@@ -700,7 +700,7 @@
 
 *   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 
-*   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
+*   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - \[AAAI 2025] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
 
 *   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 
