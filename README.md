@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [MATLAB](#matlab)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -26,7 +27,6 @@
 *   [Swift](#swift)
 *   [Astro](#astro)
 *   [Rust](#rust)
-*   [MATLAB](#matlab)
 *   [Fortran](#fortran)
 *   [Matlab](#matlab-1)
 *   [Go](#go)
@@ -41,6 +41,16 @@
 *   [Clojure](#clojure)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## MATLAB
+
+*   [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
+
+*   [i2Nav-WHU/KF-GINS-Matlab](https://github.com/i2Nav-WHU/KF-GINS-Matlab) - An EKF-based GNSS/INS Integrated Navigation Systems in Matlab (Matlab Version of KF-GINS)
+
+*   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
+
+*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
 
 ## Python
 
@@ -1192,8 +1202,6 @@
 
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
-*   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
-
 ## Vue
 
 *   [JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue) - A vue-based project page template for academic papers. (in development) https://junyaohu.github.io/academic-project-page-template-vue
@@ -1411,14 +1419,6 @@
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 *   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
-
-## MATLAB
-
-*   [i2Nav-WHU/KF-GINS-Matlab](https://github.com/i2Nav-WHU/KF-GINS-Matlab) - An EKF-based GNSS/INS Integrated Navigation Systems in Matlab (Matlab Version of KF-GINS)
-
-*   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
-
-*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
 
 ## Fortran
 
