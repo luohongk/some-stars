@@ -44,7 +44,7 @@
 
 ## Python
 
-*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - VGGT Visual Geometry Grounded Transformer
+*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - (CVPR2025) VGGT Visual Geometry Grounded Transformer
 
 *   [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - Official implementation of the SIGGRAPH 2024 paper "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
 
