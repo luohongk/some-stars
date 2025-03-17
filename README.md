@@ -240,6 +240,8 @@
 
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 
+*   [fudan-zvg/DG-SLAM](https://github.com/fudan-zvg/DG-SLAM) - \[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
+
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 
 *   [Irvingao/Point-DETR3D](https://github.com/Irvingao/Point-DETR3D) - \[AAAI 2024] Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-Supervised 3D Object Detection
@@ -1091,8 +1093,6 @@
 *   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
 
 *   [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
-
-*   [fudan-zvg/DG-SLAM](https://github.com/fudan-zvg/DG-SLAM) - \[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
 
 *   [BestJunYu/Awesome-Physics-aware-Generation](https://github.com/BestJunYu/Awesome-Physics-aware-Generation) - Physical laws underpin all existence, and harnessing them for generative modeling opens boundless possibilities for advancing science and shaping the future!
 
