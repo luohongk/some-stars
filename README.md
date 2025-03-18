@@ -44,7 +44,7 @@
 
 ## Python
 
-*   [WangL-UCAS/Polinsar](https://github.com/WangL-UCAS/Polinsar) -
+*   [PengYu-Team/GEODE\_dataset](https://github.com/PengYu-Team/GEODE_dataset) - Extending the Robustness of LiDAR SLAM to Geometrically Degenerate Scenarios
 
 *   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 
