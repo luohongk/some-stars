@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [WangL-UCAS/Polinsar](https://github.com/WangL-UCAS/Polinsar) -
+
 *   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 
 *   [alejandrofontan/VSLAM-LAB](https://github.com/alejandrofontan/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
@@ -1263,8 +1265,6 @@
 *   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
 *   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 
 ## JavaScript
 
