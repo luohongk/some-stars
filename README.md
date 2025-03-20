@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [roomtour3d/roomtour3d-NaviLLM](https://github.com/roomtour3d/roomtour3d-NaviLLM) - \[CVPR 2025] RoomTour3D - Geometry-aware, cheap and automatic data from web videos for embodied navigation
+
 *   [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 
 *   [PengYu-Team/GEODE\_dataset](https://github.com/PengYu-Team/GEODE_dataset) - Extending the Robustness of LiDAR SLAM to Geometrically Degenerate Scenarios
@@ -553,8 +555,6 @@
 *   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
-
-*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 
 ## miscellaneous
 
