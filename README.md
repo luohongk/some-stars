@@ -130,7 +130,7 @@
 
 *   [SJTU-ViSYS/M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus) - Extension and update of M2DGR: a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)
 
-*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - Official code for Neural LightRig.
+*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Official code for Neural LightRig.
 
 *   [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - \[IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
 
