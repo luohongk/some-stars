@@ -206,8 +206,6 @@
 
 *   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 
-*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) - \[ICLR 2025] The official implementation of SSR
-
 *   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
 
 *   [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
@@ -595,6 +593,8 @@
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 *   [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
+
+*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) - \[ICLR 2025] The official implementation of SSR
 
 *   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
 
