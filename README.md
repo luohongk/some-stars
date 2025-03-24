@@ -128,7 +128,7 @@
 
 *   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
 
-*   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
+*   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - (RA-L2025) ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
 
 *   [WU-CVGL/Omni-Scene](https://github.com/WU-CVGL/Omni-Scene) - \[CVPR2025] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
 
@@ -235,6 +235,8 @@
 *   [modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
 
 *   [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+
+*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Official code for Neural LightRig.
 
 *   [gramuah/ros4vsn](https://github.com/gramuah/ros4vsn) - Evaluation of Visual Semantic Navigation Models in Real Robots
 
@@ -649,8 +651,6 @@
 *   [linyicheng1/Quaternion-Kinematics-for-the-Error-State-Kalman-Filter](https://github.com/linyicheng1/Quaternion-Kinematics-for-the-Error-State-Kalman-Filter) - Quaternion Kinematics for the Error-State Kalman Filter (中文全文翻译)
 
 *   [SJTU-ViSYS/M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus) - Extension and update of M2DGR: a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)
-
-*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Official code for Neural LightRig.
 
 *   [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - \[IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
 
