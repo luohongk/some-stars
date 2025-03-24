@@ -44,6 +44,10 @@
 
 ## Python
 
+*   [LSXI7/MINIMA](https://github.com/LSXI7/MINIMA) - \[CVPR 2025] MINIMA: Modality Invariant Image Matching
+
+*   [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Solve Visual Understanding with Reinforced VLMs
+
 *   [shengjun-zhang/GGN](https://github.com/shengjun-zhang/GGN) - \[NeurIPS 2024] Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images
 
 *   [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
@@ -561,8 +565,6 @@
 *   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
 
 *   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 
 ## miscellaneous
 
@@ -1393,8 +1395,6 @@
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 *   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
-
-*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 
 ## Swift
 
