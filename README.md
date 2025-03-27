@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
+
 *   [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - \[CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
 
 *   [rerun-io/pi0-lerobot](https://github.com/rerun-io/pi0-lerobot) -
@@ -1463,8 +1465,6 @@
 *   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.
 
 *   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
-
-*   [MichaelBeechan/PPP-RTK](https://github.com/MichaelBeechan/PPP-RTK) - SPP、RTD、PPP、RTK、PPP-RTK、RAIM、ARAIM et al
 
 ## CMake
 
