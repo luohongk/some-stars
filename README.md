@@ -870,7 +870,7 @@
 
 *   [lovelyyoshino/FAST\_LIO2\_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted) - FAST\_LIO2\_Noted 中文注释版
 
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - \[JSEN]  A real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - \[IEEE Sensors Journal (JSEN) ]  A real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
 
 *   [linyicheng1/ceres-example](https://github.com/linyicheng1/ceres-example) - some ceres examples with notes
 
