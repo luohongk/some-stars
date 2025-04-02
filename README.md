@@ -312,7 +312,7 @@
 
 *   [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -
 
-*   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
+*   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - \[ICLR'25 Oral] No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
 
 *   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 
