@@ -266,7 +266,7 @@
 
 *   [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 
-*   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
+*   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
 
 *   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
 
