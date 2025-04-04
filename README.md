@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Cuda](#cuda)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -20,7 +21,6 @@
 *   [Makefile](#makefile)
 *   [Dockerfile](#dockerfile)
 *   [LLVM](#llvm)
-*   [Shell](#shell)
 *   [HTML](#html)
 *   [CSS](#css)
 *   [C#](#c-1)
@@ -41,6 +41,20 @@
 *   [Clojure](#clojure)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## Shell
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
+
+*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
+
+*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## Cuda
 
@@ -74,7 +88,7 @@
 
 *   [HCI-LMC/VLN-SUSA](https://github.com/HCI-LMC/VLN-SUSA) - Official code for "Agent Journey Beyond RGB: Unveiling Hybrid Semantic-Spatial Environmental Representations for Vision-and-Language Navigation"
 
-*   [peakpang/UGP](https://github.com/peakpang/UGP) - \[CVPR 2025] Unlocking Generalization Power in LiDAR Point Cloud Registration
+*   [peakpang/UGP](https://github.com/peakpang/UGP) - \[CVPR 2025 Highlight] Unlocking Generalization Power in LiDAR Point Cloud Registration
 
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
@@ -318,7 +332,7 @@
 
 *   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "PhD-Level AI Agents: Fully-Automated Scientific Discovery with Our AI-Researcher Powered by LLMs"
 
-*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025] VGGT: Visual Geometry Grounded Transformer
+*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
 
 *   [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - Official implementation of the SIGGRAPH 2024 paper "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
 
@@ -446,7 +460,7 @@
 
 *   [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) - Daily ArXiv Papers.
 
-*   [microsoft/MoGe](https://github.com/microsoft/MoGe) - \[CVPR'25] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
+*   [microsoft/MoGe](https://github.com/microsoft/MoGe) - \[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
 
 *   [NVlabs/InstantSplat](https://github.com/NVlabs/InstantSplat) - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds
 
@@ -1216,10 +1230,6 @@
 
 *   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 
-*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-
-*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
-
 ## Jupyter Notebook
 
 *   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
@@ -1365,16 +1375,6 @@
 ## LLVM
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-
-## Shell
-
-*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## HTML
 
