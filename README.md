@@ -200,8 +200,6 @@
 
 *   [HCPLab-SYSU/Embodied\_AI\_Paper\_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) - \[Embodied-AI-Survey-2024] Paper list and projects for Embodied AI
 
-*   [JusticeFighterDance/JusticeFighter110](https://github.com/JusticeFighterDance/JusticeFighter110) - 田柯宇 (Tian Keyu)恶意攻击集群事件的证据揭露
-
 *   [william-sto/JusticeNeverTooLate](https://github.com/william-sto/JusticeNeverTooLate) - 字节跳动瓜最终真实情况，用事实说话，正义会迟到但不会缺席！
 
 *   [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
@@ -1218,6 +1216,10 @@
 
 *   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 
+*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+
+*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
+
 ## Jupyter Notebook
 
 *   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
@@ -1317,8 +1319,6 @@
 *   [i2Nav-WHU/KF-GINS-Matlab](https://github.com/i2Nav-WHU/KF-GINS-Matlab) - An EKF-based GNSS/INS Integrated Navigation Systems in Matlab (Matlab Version of KF-GINS)
 
 *   [zhao-zhibo/INS](https://github.com/zhao-zhibo/INS) - INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业.
-
-*   [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -
 
 ## Vue
 
