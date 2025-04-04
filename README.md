@@ -486,7 +486,7 @@
 
 *   [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 
-*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Official code for Neural LightRig.
+*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
 
 *   [gramuah/ros4vsn](https://github.com/gramuah/ros4vsn) - Evaluation of Visual Semantic Navigation Models in Real Robots
 
