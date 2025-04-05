@@ -486,7 +486,7 @@
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
-*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
+*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 (Highlight)] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
