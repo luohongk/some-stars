@@ -9,9 +9,9 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Cuda](#cuda)
+*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
@@ -44,7 +44,11 @@
 
 ## Python
 
+*   [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
+
 *   [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
+
+*   [yuancaimaiyi/collaborationSfM](https://github.com/yuancaimaiyi/collaborationSfM) - 众包SfM
 
 *   [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - \[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning.
 
@@ -568,11 +572,35 @@
 
 *   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
-*   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
+## Shell
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
+
+*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
+
+*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
+
+## Cuda
+
+*   [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
+
+*   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) -
+
+*   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
+
+*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
+
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+
+*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
 ## miscellaneous
-
-*   [yuancaimaiyi/collaborationSfM](https://github.com/yuancaimaiyi/collaborationSfM) - 众包SfM
 
 *   [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - \[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
 
@@ -785,34 +813,6 @@
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
-## Shell
-
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
-
-*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
-
-*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
-
-## Cuda
-
-*   [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
-
-*   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) -
-
-*   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
-
-*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-
-*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
 ## C++
 
