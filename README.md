@@ -9,9 +9,9 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Cuda](#cuda)
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
@@ -43,6 +43,8 @@
 *   [Vim Script](#vim-script)
 
 ## Python
+
+*   [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
 
 *   [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - \[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning.
 
@@ -146,9 +148,11 @@
 
 *   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
 
-*   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - (RA-L2025) ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
+*   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - \[RA-L2025] ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
 
 *   [WU-CVGL/Omni-Scene](https://github.com/WU-CVGL/Omni-Scene) - \[CVPR2025] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
+
+*   [liw95/LightLoc](https://github.com/liw95/LightLoc) - \[CVPR2025] LightLoc: Learning Outdoor LiDAR Localization at Light Speed
 
 *   [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025)
 
@@ -566,35 +570,9 @@
 
 *   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
 
-## Shell
-
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
-
-*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
-
-*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
-
-## Cuda
-
-*   [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
-
-*   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) -
-
-*   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
-
-*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-
-*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
-
 ## miscellaneous
+
+*   [yuancaimaiyi/collaborationSfM](https://github.com/yuancaimaiyi/collaborationSfM) - 众包SfM
 
 *   [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - \[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
 
@@ -627,8 +605,6 @@
 *   [HKUST-Aerial-Robotics/SLIM](https://github.com/HKUST-Aerial-Robotics/SLIM) -
 
 *   [flyingGH/open\_vio](https://github.com/flyingGH/open_vio) - 基于vins-fusion 修改，提取关键帧用于三维重建
-
-*   [liw95/LightLoc](https://github.com/liw95/LightLoc) - \[CVPR2025] LightLoc: Learning Outdoor LiDAR Localization at Light Speed
 
 *   [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc) - 中文文档：IMU预积分总结与公式推导
 
@@ -810,7 +786,33 @@
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
-*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+## Shell
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
+
+*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
+
+*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
+
+## Cuda
+
+*   [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
+
+*   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) -
+
+*   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
+
+*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
+
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+
+*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
 ## C++
 
@@ -1227,8 +1229,6 @@
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
 
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
-*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 
 ## Jupyter Notebook
 
