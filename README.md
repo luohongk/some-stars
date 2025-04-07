@@ -70,6 +70,8 @@
 
 *   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 2025] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
 
+*   [SHAILAB-IPEC/OpenFly-Platform](https://github.com/SHAILAB-IPEC/OpenFly-Platform) -
+
 *   [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
 
 *   [SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC) - \[IROS 2024] A 3D Global Descriptor For Loop Closure Detection. NDT-Map-Code.
@@ -830,7 +832,7 @@
 
 *   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
 
-*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - code will be available soon
+*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - official implementation of LM-Gaussian
 
 *   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
@@ -1041,8 +1043,6 @@
 *   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
 
 *   [LeeBY68/Hier-SLAM](https://github.com/LeeBY68/Hier-SLAM) - 🌳 \[ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation
-
-*   [SHAILAB-IPEC/OpenFly-Platform](https://github.com/SHAILAB-IPEC/OpenFly-Platform) -
 
 *   [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 
