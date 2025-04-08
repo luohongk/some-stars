@@ -32,13 +32,13 @@
 *   [Go](#go)
 *   [Cython](#cython)
 *   [TeX](#tex)
-*   [C](#c-2)
 *   [CMake](#cmake)
 *   [Lua](#lua)
 *   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
+*   [C](#c-2)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
@@ -130,7 +130,7 @@
 
 *   [gaoxiangjun/Mani-GS](https://github.com/gaoxiangjun/Mani-GS) - \[CVPR' 2025'] Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
 
-*   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
+*   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025 - Highlight] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
 
 *   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation
 
@@ -787,6 +787,8 @@
 *   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
 
 *   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) -
+
+*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 *   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
 
@@ -1458,14 +1460,6 @@
 
 *   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
 
-## C
-
-*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
-
-*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-
 ## CMake
 
 *   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
@@ -1495,6 +1489,12 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## C
+
+*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## Java
 
