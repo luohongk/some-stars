@@ -68,6 +68,8 @@
 
 *   [GradientSpaces/WildGS-SLAM](https://github.com/GradientSpaces/WildGS-SLAM) - \[CVPR 2025] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments
 
+*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
+
 *   [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 
 *   [zd11024/NaviLLM](https://github.com/zd11024/NaviLLM) - \[CVPR 2024] The code for paper 'Towards Learning a Generalist Model for Embodied Navigation'
@@ -474,7 +476,7 @@
 
 *   [cvg/GeoCalib](https://github.com/cvg/GeoCalib) - GeoCalib: Learning Single-image Calibration with Geometric Optimization (ECCV 2024)
 
-*   [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.
+*   [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.
 
 *   [lus6-Jenny/RING](https://github.com/lus6-Jenny/RING) - \[IEEE T-RO 2023] Source code of RING and RING++ for loop closure detection in LiDAR SLAM.
 
@@ -1011,8 +1013,6 @@
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
 
 *   [smartroboticslab/SuperEvent](https://github.com/smartroboticslab/SuperEvent) - Data-driven keypoint detection and description in event streams
-
-*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
 
 *   [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - \[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
 
