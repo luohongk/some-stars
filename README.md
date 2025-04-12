@@ -9,8 +9,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [Cuda](#cuda)
 *   [C++](#c)
+*   [Cuda](#cuda)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
@@ -43,6 +43,10 @@
 *   [Vim Script](#vim-script)
 
 ## Python
+
+*   [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes.
+
+*   [apple/ml-matrix3d](https://github.com/apple/ml-matrix3d) - \[CVPR 2025 Highlight] Matrix3D: Large Photogrammetry Model All-in-One
 
 *   [FlagOpen/RoboBrain](https://github.com/FlagOpen/RoboBrain) - \[CVPR 2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Official Repository.
 
@@ -590,21 +594,9 @@
 
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
-## Cuda
-
-*   [computerhistory/AlexNet-Source-Code](https://github.com/computerhistory/AlexNet-Source-Code) - This package contains the original 2012 AlexNet code.
-
-*   [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
-
-*   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
-
-*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-
-*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
-
 ## C++
+
+*   [KumarRobotics/SLIDE\_SLAM](https://github.com/KumarRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
 *   [lixiny/ORB-SLAM2-DualCam](https://github.com/lixiny/ORB-SLAM2-DualCam) - 🎓  SJTU M.S. Dissertation. 基于多相机的同步定位与建图方法研究
 
@@ -1004,6 +996,20 @@
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
 
+## Cuda
+
+*   [computerhistory/AlexNet-Source-Code](https://github.com/computerhistory/AlexNet-Source-Code) - This package contains the original 2012 AlexNet code.
+
+*   [carlinds/splatad](https://github.com/carlinds/splatad) - SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving
+
+*   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
+
+*   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
+
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+
+*   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
+
 ## miscellaneous
 
 *   [chengwei0427/II-NVM](https://github.com/chengwei0427/II-NVM) - \[RAL 2025] II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping
@@ -1214,10 +1220,6 @@
 
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
 
-*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
 ## Jupyter Notebook
 
 *   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1289,8 +1291,6 @@
 *   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 ## Shell
 
