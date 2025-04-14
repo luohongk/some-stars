@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - Unsupervised time series anomaly detection library
+
 *   [lus6-Jenny/RINGSharp](https://github.com/lus6-Jenny/RINGSharp) - \[IEEE T-RO 2025] RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning.
 
 *   [yuliangguo/depth\_any\_camera](https://github.com/yuliangguo/depth_any_camera) - \[CVPR 2025] Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera
@@ -211,6 +213,8 @@
 *   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 
 *   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO under review] SG-Reg: Generalizable and Efficient Scene Graph Registration
+
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
 *   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - \[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 
@@ -888,8 +892,6 @@
 
 *   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 
-*   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
-
 ## C++
 
 *   [weihaoysgs/vins-fast](https://github.com/weihaoysgs/vins-fast) - VINS has been completely reconstructed and rewritten using C++ object-oriented, and supports stereo or stereo+ IMU.
@@ -1379,8 +1381,6 @@
 *   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
 
 *   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
