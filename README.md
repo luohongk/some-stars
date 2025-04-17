@@ -44,6 +44,8 @@
 
 ## C++
 
+*   [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
+
 *   [FeiGeChuanShu/Mask2Former-ncnn](https://github.com/FeiGeChuanShu/Mask2Former-ncnn) - naive c++ version of Mask2Former with ncnn
 
 *   [DreamWaterFound/Prerequisites-of-On-line-Semantic-VSLAM](https://github.com/DreamWaterFound/Prerequisites-of-On-line-Semantic-VSLAM) - 在线语义视觉SLAM基础：C++语言程序中调用Python实现的图像分割网络、获取分割结果
@@ -284,7 +286,7 @@
 
 *   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
 
-*   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) -
+*   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) - \[T-IM 2025] TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal
 
 *   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
@@ -1381,8 +1383,6 @@
 *   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
-
-*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
 ## Cuda
 
