@@ -774,7 +774,7 @@
 
 *   [Irvingao/Point-DETR3D](https://github.com/Irvingao/Point-DETR3D) - \[AAAI 2024] Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-Supervised 3D Object Detection
 
-*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 这个仓库是在arxiv上收集的有关定位导航，三维重建，VLN，VLA的相关论文。每天都会自动更新！issue区域是最新10篇论文
+*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
 
 *   [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - \[ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 
