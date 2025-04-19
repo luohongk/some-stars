@@ -546,7 +546,7 @@
 
 *   [KTH-RPL/OneMap](https://github.com/KTH-RPL/OneMap) - \[ICRA'25] One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation
 
-*   [isri-aist/RoboManipBaselines](https://github.com/isri-aist/RoboManipBaselines) - Software that integrates various imitation learning methods and benchmark task environments to provide baselines for robot manipulation
+*   [isri-aist/RoboManipBaselines](https://github.com/isri-aist/RoboManipBaselines) - A software framework integrating various imitation learning methods and benchmark environments for robotic manipulation
 
 *   [AlbertoJaenal/MapAbstractionVPR](https://github.com/AlbertoJaenal/MapAbstractionVPR) - Implementation for Image database abstracion
 
