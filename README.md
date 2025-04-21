@@ -44,6 +44,8 @@
 
 ## C++
 
+*   [RayShark0605/On\_the\_fly\_SfM](https://github.com/RayShark0605/On_the_fly_SfM) -
+
 *   [hku-mars/FAST-Calib](https://github.com/hku-mars/FAST-Calib) - A Handy Extrinsic Calibration Tool for LiDAR-camera Systems.
 
 *   [deepglint/FAST\_LIO\_LOCALIZATION\_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID) - Localization by LiDAR for Humanoid(like Unitree G1)
@@ -520,8 +522,6 @@
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
 ## Python
 
 *   [Jirl-upenn/VLMnav](https://github.com/Jirl-upenn/VLMnav) - End-to-End Navigation with VLMs
@@ -645,6 +645,8 @@
 *   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "PhD-Level AI Agents: Fully-Automated Scientific Discovery with Our AI-Researcher Powered by LLMs"
 
 *   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
+
+*   [LeeBY68/Hier-SLAM](https://github.com/LeeBY68/Hier-SLAM) - 🌳 \[ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation
 
 *   [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - Official implementation of the SIGGRAPH 2024 paper "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
 
@@ -1195,8 +1197,6 @@
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 *   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
-
-*   [LeeBY68/Hier-SLAM](https://github.com/LeeBY68/Hier-SLAM) - 🌳 \[ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation
 
 *   [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 
