@@ -9,8 +9,8 @@
 ## Table of Contents
 
 *   [C++](#c)
-*   [Dockerfile](#dockerfile)
 *   [Python](#python)
+*   [Dockerfile](#dockerfile)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [C#](#c-1)
@@ -43,6 +43,8 @@
 *   [Vim Script](#vim-script)
 
 ## C++
+
+*   [deepglint/FAST\_LIO\_LOCALIZATION\_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID) - Localization by LiDAR for Humanoid(like Unitree G1)
 
 *   [MIT-SPARK/Kimera-VIO-ROS](https://github.com/MIT-SPARK/Kimera-VIO-ROS) - ROS wrapper for Kimera-VIO
 
@@ -518,15 +520,9 @@
 
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
 
-## Dockerfile
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
-
-*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
-
 ## Python
+
+*   [Jirl-upenn/VLMnav](https://github.com/Jirl-upenn/VLMnav) - End-to-End Navigation with VLMs
 
 *   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 
@@ -1148,7 +1144,13 @@
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
 
-*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+## Dockerfile
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
+
+*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## miscellaneous
 
@@ -1585,8 +1587,6 @@
 *   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
 
 *   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
-
-*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 
 ## CSS
 
