@@ -220,8 +220,6 @@
 
 *   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
-*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
-
 *   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 
 *   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Robust and Versatile Monocular Visual-Inertial State Estimator
@@ -806,7 +804,7 @@
 
 *   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 
-*   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO under review] SG-Reg: Generalizable and Efficient Scene Graph Registration
+*   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO 2025] SG-Reg: Generalizable and Efficient Scene Graph Registration
 
 *   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
@@ -1519,6 +1517,8 @@
 *   [YOUNG-bit/open\_semantic\_slam](https://github.com/YOUNG-bit/open_semantic_slam) - ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
 
 *   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
+
+*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
