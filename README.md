@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [pablovela5620/mini-dpvo](https://github.com/pablovela5620/mini-dpvo) -
+
 *   [EricTan7/RAM](https://github.com/EricTan7/RAM) - \[CVPR2025] Official implementation of RAM
 
 *   [Jirl-upenn/VLMnav](https://github.com/Jirl-upenn/VLMnav) - End-to-End Navigation with VLMs
@@ -1223,8 +1225,6 @@
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
-
-*   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 ## Dockerfile
 
