@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [DefaultRui/VLN-VER](https://github.com/DefaultRui/VLN-VER) - \[CVPR24] Volumetric Environment Representation for Vision-Language Navigation
+
 *   [pablovela5620/mini-dpvo](https://github.com/pablovela5620/mini-dpvo) -
 
 *   [EricTan7/RAM](https://github.com/EricTan7/RAM) - \[CVPR2025] Official implementation of RAM
@@ -747,8 +749,6 @@
 *   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 *   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
 ## C++
 
