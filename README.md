@@ -678,6 +678,8 @@
 
 *   [MIT-SPARK/Kimera-VIO-ROS](https://github.com/MIT-SPARK/Kimera-VIO-ROS) - ROS wrapper for Kimera-VIO
 
+*   [LC-Robotics/FreeDOM](https://github.com/LC-Robotics/FreeDOM) - FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation \[RA-L 25]
+
 *   [NVIDIA-ISAAC-ROS/isaac\_ros\_visual\_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) - Visual SLAM/odometry package based on NVIDIA-accelerated cuVSLAM
 
 *   [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
@@ -1239,8 +1241,6 @@
 *   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## miscellaneous
-
-*   [LC-Robotics/FreeDOM](https://github.com/LC-Robotics/FreeDOM) - FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation \[RA-L 25]
 
 *   [matterport/habitat-matterport-3dresearch](https://github.com/matterport/habitat-matterport-3dresearch) -
 
