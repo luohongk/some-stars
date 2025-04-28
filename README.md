@@ -1148,6 +1148,8 @@
 
 *   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
 
+*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+
 ## miscellaneous
 
 *   [TJU-Aerial-Robotics/YOPO-Tracker](https://github.com/TJU-Aerial-Robotics/YOPO-Tracker) - An End-to-End Agile Tracking and Navigation Method for UAVs
@@ -1169,8 +1171,6 @@
 *   [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) -
 
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
-
-*   [smartroboticslab/SuperEvent](https://github.com/smartroboticslab/SuperEvent) - Data-driven keypoint detection and description in event streams
 
 *   [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - \[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
 
