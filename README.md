@@ -1530,7 +1530,7 @@
 
 *   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
 
-*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 
 *   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
 
