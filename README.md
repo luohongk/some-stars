@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [NVIDIA-AI-IOT/ros2\_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - ROS2 nodes for LLM, VLM, VLA
+
 *   [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
 
 *   [facebookresearch/flow\_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
@@ -291,8 +293,6 @@
 *   [yuanzhoulvpi2017/vscode\_debug\_transformers](https://github.com/yuanzhoulvpi2017/vscode_debug_transformers) -
 
 *   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
-
-*   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 
 *   [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - \[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
 
@@ -697,6 +697,8 @@
 *   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
 *   [CurryYuan/ZSVG3D](https://github.com/CurryYuan/ZSVG3D) - \[CVPR 2024] Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding
+
+*   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 
 *   [robot-pesg/BotanicGarden](https://github.com/robot-pesg/BotanicGarden) - BotanicGarden: A high-quality dataset for robot navigation in unstructured natural environments
 
@@ -1233,8 +1235,6 @@
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 
 *   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
-
-*   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 
 ## miscellaneous
 
