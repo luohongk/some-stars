@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [jiangxinke/Agentic-RAG-R1](https://github.com/jiangxinke/Agentic-RAG-R1) - Agentic RAG R1 Framework via Reinforcement Learning
+
 *   [NVIDIA-AI-IOT/ros2\_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - ROS2 nodes for LLM, VLM, VLA
 
 *   [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
@@ -96,7 +98,7 @@
 
 *   [yuliangguo/depth\_any\_camera](https://github.com/yuliangguo/depth_any_camera) - \[CVPR 2025] Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera
 
-*   [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes.
+*   [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes. Accepted at RSS 2025.
 
 *   [apple/ml-matrix3d](https://github.com/apple/ml-matrix3d) - \[CVPR 2025 Highlight] Matrix3D: Large Photogrammetry Model All-in-One
 
@@ -1693,8 +1695,6 @@
 *   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 *   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3 and is kept reasonably closely synced to that branch.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.
-
-*   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
 
 ## Java
 
