@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [TeX](#tex)
 *   [Python](#python)
+*   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
@@ -42,17 +42,13 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
-## TeX
-
-*   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
-
-*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
-
-*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
-
-*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
-
 ## Python
+
+*   [FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match) - Official code for "To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition" CVPR IMW 2025
+
+*   [amaralibey/MixVPR](https://github.com/amaralibey/MixVPR) - MixVPR: Feature Mixing for Visual Place Recognition (WACV 2023)
+
+*   [amaralibey/gsv-cities](https://github.com/amaralibey/gsv-cities) - GSV-Cities: a large-scale dataset for visual place recognition
 
 *   [jiangxinke/Agentic-RAG-R1](https://github.com/jiangxinke/Agentic-RAG-R1) - Agentic RAG R1 Framework via Reinforcement Learning
 
@@ -678,7 +674,15 @@
 
 *   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
 
-*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
+## TeX
+
+*   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
+
+*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
+
+*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
+
+*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
 
 ## Jupyter Notebook
 
@@ -1243,10 +1247,6 @@
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
 
 *   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
-
-*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-
-*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
 
 ## miscellaneous
 
