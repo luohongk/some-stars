@@ -44,6 +44,10 @@
 
 ## Python
 
+*   [DefaultRui/BEV-Scene-Graph](https://github.com/DefaultRui/BEV-Scene-Graph) - \[ICCV23] Bird’s-Eye-View Scene Graph for Vision-Language Navigation
+
+*   [chen-judge/MapGPT](https://github.com/chen-judge/MapGPT) - \[ACL 24] The official implementation of MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation.
+
 *   [FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match) - Official code for "To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition" CVPR IMW 2025
 
 *   [amaralibey/MixVPR](https://github.com/amaralibey/MixVPR) - MixVPR: Feature Mixing for Visual Place Recognition (WACV 2023)
@@ -350,7 +354,7 @@
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
-*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 Highlight] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
+*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 Highlight & ECCV Workshop 24 Best Paper] RoboTwin Dual-arm Robot Manipulation Simulation Platform
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
@@ -671,8 +675,6 @@
 *   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
 *   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
-
-*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
 
 ## TeX
 
@@ -1245,8 +1247,6 @@
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
 
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
-*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 
 ## miscellaneous
 
