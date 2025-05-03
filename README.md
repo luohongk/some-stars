@@ -9,8 +9,8 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
-*   [TeX](#tex)
 *   [Python](#python)
+*   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
 *   [Dockerfile](#dockerfile)
@@ -43,6 +43,8 @@
 *   [Vim Script](#vim-script)
 
 ## miscellaneous
+
+*   [iminolee/Awesome-Vision-and-Language-Navigation](https://github.com/iminolee/Awesome-Vision-and-Language-Navigation) - A curated list of awesome Vision-and-Language Navigation(VLN) resources (continually updated)
 
 *   [zhangyuejoslin/VLN-Survey-with-Foundation-Models](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models) - \[TMLR 2024] repository for VLN with foundation models
 
@@ -272,19 +274,9 @@
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
-## TeX
-
-*   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
-
-*   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
-
-*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
-
-*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
-
-*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
-
 ## Python
+
+*   [MrZihan/HNR-VLN](https://github.com/MrZihan/HNR-VLN) - Official implementation of Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation (CVPR'24 Highlight).
 
 *   [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 
@@ -916,7 +908,17 @@
 
 *   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+## TeX
+
+*   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
+
+*   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
+
+*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
+
+*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
+
+*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
 
 ## Jupyter Notebook
 
@@ -1475,8 +1477,6 @@
 *   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
-
-*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
 
 ## Dockerfile
 
