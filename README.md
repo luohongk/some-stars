@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [gradslam/gradslam](https://github.com/gradslam/gradslam) - gradslam is an open source differentiable dense SLAM library for PyTorch
+
 *   [MrZihan/GridMM](https://github.com/MrZihan/GridMM) - Official implementation of GridMM: Grid Memory Map for Vision-and-Language Navigation (ICCV'23).
 
 *   [liangpan99/TokenHSI](https://github.com/liangpan99/TokenHSI) - \[CVPR 2025 Oral] TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization
@@ -1141,8 +1143,6 @@
 *   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
-
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
 
 ## miscellaneous
 
