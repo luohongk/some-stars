@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TeX](#tex)
 *   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
@@ -41,6 +41,100 @@
 *   [C](#c-2)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## Jupyter Notebook
+
+*   [bagh2178/SG-Nav](https://github.com/bagh2178/SG-Nav) - \[NeurIPS 2024] SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation
+
+*   [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - \[CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
+
+*   [zhanshijinwat/Steel-LLM](https://github.com/zhanshijinwat/Steel-LLM) - Train a 1B LLM with 1T tokens from scratch by personal
+
+*   [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
+
+*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - Learning-based Event-Inertial Odometry
+
+*   [mit-acl/dynus](https://github.com/mit-acl/dynus) -
+
+*   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
+
+*   [CompVis/depth-fm](https://github.com/CompVis/depth-fm) - \[AAAI 2025] DepthFM: Fast Monocular Depth Estimation with Flow Matching
+
+*   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
+
+*   [luohongk/Embodied-Navigation](https://github.com/luohongk/Embodied-Navigation) - 关于Embodied-Navigation的仓库，主要用于整理我在定位，感知，规控，3D Vision, VLN中的部分知识
+
+*   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
+
+*   [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond
+
+*   [HCPLab-SYSU/LH-VLN](https://github.com/HCPLab-SYSU/LH-VLN) - Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method (CVPR-25)
+
+*   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+
+*   [CurryYuan/ZSVG3D](https://github.com/CurryYuan/ZSVG3D) - \[CVPR 2024] Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding
+
+*   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
+
+*   [robot-pesg/BotanicGarden](https://github.com/robot-pesg/BotanicGarden) - BotanicGarden: A high-quality dataset for robot navigation in unstructured natural environments
+
+*   [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart) - Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）
+
+*   [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021, T-PAMI 2022
+
+*   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
+
+*   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] \[3DV Nectar 2025] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
+
+*   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+
+*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
+
+*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
+
+*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
+
+*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
+
+*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+
+*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
+
+*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 ## Python
 
@@ -1142,8 +1236,6 @@
 
 *   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-*   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
-
 ## miscellaneous
 
 *   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
@@ -1168,7 +1260,7 @@
 
 *   [chengwei0427/II-NVM](https://github.com/chengwei0427/II-NVM) - \[RA-L 2025] II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping
 
-*   [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) -
+*   [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) - A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches.
 
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
 
@@ -1373,98 +1465,6 @@
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-## Jupyter Notebook
-
-*   [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - \[CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
-
-*   [zhanshijinwat/Steel-LLM](https://github.com/zhanshijinwat/Steel-LLM) - Train a 1B LLM with 1T tokens from scratch by personal
-
-*   [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
-
-*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - Learning-based Event-Inertial Odometry
-
-*   [mit-acl/dynus](https://github.com/mit-acl/dynus) -
-
-*   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
-
-*   [CompVis/depth-fm](https://github.com/CompVis/depth-fm) - \[AAAI 2025] DepthFM: Fast Monocular Depth Estimation with Flow Matching
-
-*   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
-
-*   [luohongk/Embodied-Navigation](https://github.com/luohongk/Embodied-Navigation) - 关于Embodied-Navigation的仓库，主要用于整理我在定位，感知，规控，3D Vision, VLN中的部分知识
-
-*   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
-
-*   [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond
-
-*   [HCPLab-SYSU/LH-VLN](https://github.com/HCPLab-SYSU/LH-VLN) - Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method (CVPR-25)
-
-*   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-
-*   [CurryYuan/ZSVG3D](https://github.com/CurryYuan/ZSVG3D) - \[CVPR 2024] Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding
-
-*   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
-
-*   [robot-pesg/BotanicGarden](https://github.com/robot-pesg/BotanicGarden) - BotanicGarden: A high-quality dataset for robot navigation in unstructured natural environments
-
-*   [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart) - Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）
-
-*   [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021, T-PAMI 2022
-
-*   [hesamsheikh/ml-retreat](https://github.com/hesamsheikh/ml-retreat) - Machine Learning Journal for Intermediate to Advanced Topics.
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
-
-*   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] \[3DV Nectar 2025] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
-
-*   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
-
-*   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
-
-*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
-
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-
-*   [TommyZihao/vlm\_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
-
-*   [cumtcssuld/RSP\_of\_CUMTCS](https://github.com/cumtcssuld/RSP_of_CUMTCS) - 【矿大计算机学院资源共享计划（Resource SharingPlan of CUMTCS）】本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！（每当有重大更新，我们都会将整个库克隆到码云，点击下边链接，到我们的码云仓库可以获得更好的下载体验）
-
-*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
-
-*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
-
-*   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
-
-*   [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [Fafa-DL/Lhy\_Machine\_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
-
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
-
-*   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-
-*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
-*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 ## TeX
 
