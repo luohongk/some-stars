@@ -220,7 +220,7 @@
 
 *   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
 
-*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Candidate] FoundationStereo: Zero-Shot Stereo Matching
+*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
 
 *   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
 
