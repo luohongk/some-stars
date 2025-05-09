@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [Brummi/anycam](https://github.com/Brummi/anycam) - Official repository for "AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos" (CVPR 2025)
+
 *   [lyp-deeplearning/LiftFeat](https://github.com/lyp-deeplearning/LiftFeat) - Code for "LiftFeat: 3D Geometry-Aware Local Feature Matching", ICRA2025
 
 *   [gradslam/gradslam](https://github.com/gradslam/gradslam) - gradslam is an open source differentiable dense SLAM library for PyTorch
@@ -675,8 +677,6 @@
 *   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
-
-*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 
 ## Jupyter Notebook
 
