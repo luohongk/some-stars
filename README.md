@@ -498,6 +498,8 @@
 
 *   [linyicheng1/EdgePoint](https://github.com/linyicheng1/EdgePoint) - EdgePoint: Learning Efficient Keypoint Extraction and Description for Edge Devices
 
+*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - Heterogeneous LiDAR Place Recognition
+
 *   [uzh-rpg/bflow](https://github.com/uzh-rpg/bflow) - Official implementation of "Dense Continuous-Time Optical Flow from Event Cameras"
 
 *   [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - \[NeurIPS 2024 Spotlight]"LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
@@ -1407,8 +1409,6 @@
 *   [hongwenjun/tmux\_for\_windows](https://github.com/hongwenjun/tmux_for_windows) - tmux是一个开源工具，用于在一个终端窗口中运行多个终端会话。本工具从msys2里提取，可以在Git for Windows的Git Bash (MingW64)下正常使用。
 
 *   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-
-*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - Heterogeneous LiDAR Place Recognition
 
 *   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
 
