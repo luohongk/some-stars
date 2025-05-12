@@ -734,7 +734,7 @@
 
 *   [linyicheng1/EdgePoint](https://github.com/linyicheng1/EdgePoint) - EdgePoint: Learning Efficient Keypoint Extraction and Description for Edge Devices
 
-*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - Heterogeneous LiDAR Place Recognition
+*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - \[ICRA2025] HeLiOS: Heterogeneous LiDAR Place Recognition
 
 *   [uzh-rpg/bflow](https://github.com/uzh-rpg/bflow) - Official implementation of "Dense Continuous-Time Optical Flow from Event Cameras"
 
