@@ -17,13 +17,13 @@
 *   [TypeScript](#typescript)
 *   [C#](#c-1)
 *   [Cuda](#cuda)
+*   [HTML](#html)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [MATLAB](#matlab)
 *   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [LLVM](#llvm)
-*   [HTML](#html)
 *   [CSS](#css)
 *   [Swift](#swift)
 *   [Astro](#astro)
@@ -43,6 +43,8 @@
 *   [Vim Script](#vim-script)
 
 ## Python
+
+*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 
 *   [bagh2178/UniGoal](https://github.com/bagh2178/UniGoal) - \[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
 
@@ -162,8 +164,6 @@
 
 *   [GradientSpaces/WildGS-SLAM](https://github.com/GradientSpaces/WildGS-SLAM) - \[CVPR 2025] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments
 
-*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
-
 *   [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 
 *   [zd11024/NaviLLM](https://github.com/zd11024/NaviLLM) - \[CVPR 2024] The code for paper 'Towards Learning a Generalist Model for Embodied Navigation'
@@ -210,7 +210,7 @@
 
 *   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 
-*   [alejandrofontan/VSLAM-LAB](https://github.com/alejandrofontan/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
+*   [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
 
 *   [QVPR/Patch-NetVLAD](https://github.com/QVPR/Patch-NetVLAD) - Code for the CVPR2021 paper "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition"
 
@@ -592,7 +592,7 @@
 
 *   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 
-*   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - (RA-L 2024) This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition.
+*   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
 
 *   [IPNL-POLYU/UrbanNavDataset](https://github.com/IPNL-POLYU/UrbanNavDataset) - UrbanNav:An Open-sourced Multisensory Dataset for Benchmarking Positioning Algorithms Designed for Urban Areas
 
@@ -685,8 +685,6 @@
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
 *   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
-
-*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
 ## miscellaneous
 
@@ -1540,6 +1538,18 @@
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
+## HTML
+
+*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
+
+*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
+
 ## Shell
 
 *   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
@@ -1593,16 +1603,6 @@
 ## LLVM
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-
-## HTML
-
-*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## CSS
 
