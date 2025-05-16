@@ -221,7 +221,7 @@
 
 *   [jiachenzhu/DyT](https://github.com/jiachenzhu/DyT) - Code release for DynamicTanh (DyT)
 
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "PhD-Level AI Agents: Fully-Automated Scientific Discovery with Our AI-Researcher Powered by LLMs"
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
 
 *   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
 
