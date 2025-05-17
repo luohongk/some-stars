@@ -429,7 +429,7 @@
 
 *   [facebookresearch/neuralfeels](https://github.com/facebookresearch/neuralfeels) - Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation
 
-*   [ori-drs/oxford\_spires\_dataset](https://github.com/ori-drs/oxford_spires_dataset) -
+*   [ori-drs/oxford\_spires\_dataset](https://github.com/ori-drs/oxford_spires_dataset) - Lidar-visual dataset with ground truth 3D map for SLAM/NeRF
 
 *   [blazzbyte/OpenInterpreterUI](https://github.com/blazzbyte/OpenInterpreterUI) - Simplify code execution with Open Interpreter UI Project with Streamlit. A user-friendly GUI for Python, JavaScript, and more. Pay-as-you-go, no subscriptions. Ideal for beginners.
 
