@@ -45,6 +45,12 @@
 
 ## Python
 
+*   [hanruihua/neupan\_ros](https://github.com/hanruihua/neupan_ros) - ROS Wrapper of NeuPAN planner
+
+*   [AgibotTech/agibot\_x1\_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1.
+
+*   [unitreerobotics/unitree\_rl\_gym](https://github.com/unitreerobotics/unitree_rl_gym) -
+
 *   [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highlight paper: Matching Anything by Segmenting Anything
 
 *   [OpenDriveLab/UniVLA](https://github.com/OpenDriveLab/UniVLA) - \[RSS 2025] Learning to Act Anywhere with Task-centric Latent Actions
@@ -693,7 +699,69 @@
 
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
+*   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
+
+*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
+
+*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
+
+*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
+
+*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+
+*   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
+
+*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+
+*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
+*   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
+
+*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
+
+*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
+
+*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
+
+*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
+
+*   [IRMVLab/SNI-SLAM](https://github.com/IRMVLab/SNI-SLAM) - \[CVPR'24] SNI-SLAM: Semantic Neural Implicit SLAM
+
+*   [simondlevy/TinyEKF](https://github.com/simondlevy/TinyEKF) - Lightweight C/C++ Extended Kalman Filter with Python for prototyping
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
+
+*   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
+
+*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+
+*   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
+
+*   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
+*   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+
+*   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
+
+*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
+
+*   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
+
+*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
+
+*   [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - \[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
+
 ## C++
+
+*   [unitreerobotics/unitree\_ros\_to\_real](https://github.com/unitreerobotics/unitree_ros_to_real) -
+
+*   [unitreerobotics/unitree\_mujoco](https://github.com/unitreerobotics/unitree_mujoco) -
 
 *   [Geekgineer/YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP) - A high-performance C++ headers for real-time object detection and segmentation using YOLO models, leveraging ONNX Runtime and OpenCV for seamless integration. Supports multiple YOLO (v5, v7, v8, v9, v10, v11, v12) with optimized inference on CPU and GPU. Includes sample code, scripts for image, video, and live camera inference, and quantization.
 
@@ -1147,6 +1215,76 @@
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
 
+*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
+
+*   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
+
+*   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
+
+*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
+
+*   [yuefanhao/SuperPoint-SuperGlue-TensorRT](https://github.com/yuefanhao/SuperPoint-SuperGlue-TensorRT) - SuperPoint and SuperGlue with TensorRT. Deploy with C++.
+
+*   [kajo-kurisu/D\_VINS](https://github.com/kajo-kurisu/D_VINS) - Merge superpoint、lightglue、MixVPR into VINS-FUSION for loop closure with TensorRT
+
+*   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
+
+*   [openxrlab/xrslam](https://github.com/openxrlab/xrslam) - OpenXRLab Visual-inertial SLAM Toolbox and Benchmark
+
+*   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+
+*   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
+
+*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
+
+*   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
+
+*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+*   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+
+*   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
+
+*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
+
+*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
+
+*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+
+*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
+
+*   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
+
+*   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
+
+*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+
+*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+
+*   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
+
+*   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
+
+*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
+
+*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
+
+*   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
+
+*   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
+
+*   [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) - \[CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System
+
+*   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
+
+*   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
+
+*   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
+
+*   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
+
+*   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
+
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -1180,6 +1318,8 @@
 *   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## miscellaneous
 
@@ -1409,6 +1549,28 @@
 
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
 
+*   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
+
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+
+*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
+
+*   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
+
+*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+
+*   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
+
+*   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
+
+*   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
+
+*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
+
+*   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
+
+*   [lovechoudoufu/wechat\_for\_linux](https://github.com/lovechoudoufu/wechat_for_linux) - wechat\_for\_linux；weixin\_for\_linux；wechat-beta；微信；linux原生微信
+
 ## Jupyter Notebook
 
 *   [bagh2178/SG-Nav](https://github.com/bagh2178/SG-Nav) - \[NeurIPS 2024] SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation
@@ -1499,6 +1661,20 @@
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
+*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+*   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
+
+*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
+
 ## TeX
 
 *   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
@@ -1524,6 +1700,10 @@
 *   [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）！
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
+
+*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 
 ## Cuda
 
@@ -1552,6 +1732,10 @@
 *   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
 
 *   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
+
+*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
+
+*   [mayuelala/mayuelala.github.io](https://github.com/mayuelala/mayuelala.github.io) - My HomePage
 
 ## Shell
 
@@ -1584,6 +1768,10 @@
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
+
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## MATLAB
 
@@ -1698,6 +1886,18 @@
 ## C
 
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
+
+*   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.  Click on the "Releases" label below to see the latest Windows pre-release.
+
+*   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
+
+*   [MichaelBeechan/PPP-RTK](https://github.com/MichaelBeechan/PPP-RTK) - SPP、RTD、PPP、RTK、PPP-RTK、RAIM、ARAIM et al
+
+*   [mulin33/Programming\_Study](https://github.com/mulin33/Programming_Study) - 用于学习编程技能，包括C/C++，数据结构，Linux，嵌入式等(For learning programming skills, including C/C++, data structures, Linux, embedded, etc)
+
+*   [Amoiensis/Matrix\_hub](https://github.com/Amoiensis/Matrix_hub) - A lib of Matrix operation for C language. (矩阵运算库--C语言)
 
 ## Java
 
