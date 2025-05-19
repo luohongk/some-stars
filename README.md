@@ -861,6 +861,8 @@
 
 *   [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
 
+*   [HKUST-Aerial-Robotics/SLIM](https://github.com/HKUST-Aerial-Robotics/SLIM) -
+
 *   [SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC) - \[IROS 2024] A 3D Global Descriptor For Loop Closure Detection. NDT-Map-Code.
 
 *   [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) -
@@ -1374,8 +1376,6 @@
 *   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
 
 *   [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
-
-*   [HKUST-Aerial-Robotics/SLIM](https://github.com/HKUST-Aerial-Robotics/SLIM) -
 
 *   [flyingGH/open\_vio](https://github.com/flyingGH/open_vio) - 基于vins-fusion 修改，提取关键帧用于三维重建
 
