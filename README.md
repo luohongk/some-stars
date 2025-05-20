@@ -465,7 +465,7 @@
 
 *   [MisEty/RTG-SLAM](https://github.com/MisEty/RTG-SLAM) - RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting (ACM SIGGRAPH 2024)
 
-*   [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) -
+*   [Tencent-Hunyuan/Tencent-Hunyuan-Large](https://github.com/Tencent-Hunyuan/Tencent-Hunyuan-Large) -
 
 *   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - \[ICLR'25 Oral] No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
 
@@ -1597,7 +1597,7 @@
 
 *   [luohongk/Embodied-Navigation](https://github.com/luohongk/Embodied-Navigation) - 关于Embodied-Navigation的仓库，主要用于整理我在定位，感知，规控，3D Vision, VLN中的部分知识
 
-*   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
+*   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 
 *   [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond
 
