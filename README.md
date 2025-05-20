@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
 *   [hanruihua/neupan\_ros](https://github.com/hanruihua/neupan_ros) - ROS Wrapper of NeuPAN planner
 
 *   [AgibotTech/agibot\_x1\_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1.
@@ -1566,10 +1570,6 @@
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
 
 *   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
-
-*   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
-
-*   [lovechoudoufu/wechat\_for\_linux](https://github.com/lovechoudoufu/wechat_for_linux) - wechat\_for\_linux；weixin\_for\_linux；wechat-beta；微信；linux原生微信
 
 ## Jupyter Notebook
 
