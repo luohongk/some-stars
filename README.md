@@ -63,7 +63,7 @@
 
 *   [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 
-*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
 
 *   [bagh2178/UniGoal](https://github.com/bagh2178/UniGoal) - \[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
 
@@ -1535,7 +1535,7 @@
 
 *   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
 
-*   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) -
+*   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) - Bibliographic list for papers of image matching
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 
