@@ -239,7 +239,7 @@
 
 *   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
 
-*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
+*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award Candidate] VGGT: Visual Geometry Grounded Transformer
 
 *   [LeeBY68/Hier-SLAM](https://github.com/LeeBY68/Hier-SLAM) - 🌳 \[ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation
 
