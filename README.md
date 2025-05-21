@@ -1349,7 +1349,7 @@
 
 *   [LiHaoy-ux/MLINE-VINS](https://github.com/LiHaoy-ux/MLINE-VINS) -
 
-*   [Songwxuan/RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List](https://github.com/Songwxuan/RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List) - 🔥RSS2025 & CVPR2025 & ICLR2025 Embodied AI Paper List  Resources. Star ⭐ the repo and follow me if you like what you see 🤩.
+*   [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - \[Actively Maintained] A list of Embodied AI papers accepted by top conferences papers (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
 
 *   [iceberg1369/PPPLib\_v2.0](https://github.com/iceberg1369/PPPLib_v2.0) -
 
@@ -1629,7 +1629,7 @@
 
 *   [CyberOrigin2077/Cyber](https://github.com/CyberOrigin2077/Cyber) - This repo is designed for General Robotic Operation System
 
-*   [Tencent/HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+*   [Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 
 *   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 
