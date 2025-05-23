@@ -45,6 +45,8 @@
 
 ## C++
 
+*   [zhh2005757/FAST-LIO-Multi-Sensor-Fusion](https://github.com/zhh2005757/FAST-LIO-Multi-Sensor-Fusion) - Fusing GNSS and wheel measurements based on FAST-LIO and IKFOM
+
 *   [yjsx/CELLmap](https://github.com/yjsx/CELLmap) - \[ICRA 2025]CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation
 
 *   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
@@ -1288,8 +1290,6 @@
 *   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
 
 *   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
-
-*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
 
 ## miscellaneous
 
