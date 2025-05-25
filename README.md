@@ -45,6 +45,8 @@
 
 ## C++
 
+*   [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
+
 *   [zhh2005757/FAST-LIO-Multi-Sensor-Fusion](https://github.com/zhh2005757/FAST-LIO-Multi-Sensor-Fusion) - Fusing GNSS and wheel measurements based on FAST-LIO and IKFOM
 
 *   [yjsx/CELLmap](https://github.com/yjsx/CELLmap) - \[ICRA 2025]CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation
@@ -574,6 +576,8 @@
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
 ## Python
+
+*   [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - \[CVPR 2024] Real-Time Open-Vocabulary Object Detection
 
 *   [GengzeZhou/NavGPT-2](https://github.com/GengzeZhou/NavGPT-2) - \[ECCV 2024] Official implementation of NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models
 
@@ -1286,10 +1290,6 @@
 *   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 
 *   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
-
-*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
-
-*   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
 
 ## miscellaneous
 
