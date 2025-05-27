@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction
+
 *   [NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM](https://github.com/NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM) -
 
 *   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
@@ -760,8 +762,6 @@
 *   [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641   +   Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM  https://arxiv.org/abs/2210.01276
 
 *   [electech6/NeRF-Based-SLAM-Incredible-Insights](https://github.com/electech6/NeRF-Based-SLAM-Incredible-Insights) -
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## miscellaneous
 
