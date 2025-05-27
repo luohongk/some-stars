@@ -801,8 +801,6 @@
 
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
 
-*   [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - \[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
-
 *   [aikit-wrc/robosense\_ac\_slam](https://github.com/aikit-wrc/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 
 *   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - 2D Gaussian Splatting based LiDAR Odometry And Mapping
@@ -1092,6 +1090,8 @@
 *   [lian-yue0515/D-LI-Init](https://github.com/lian-yue0515/D-LI-Init) - Dynamic Initialization for LiDAR-inertial SLAM
 
 *   [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) - SAPIEN Embodied AI Platform
+
+*   [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - \[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
 
 *   [christopherdoer/rio](https://github.com/christopherdoer/rio) - RIO - EKF-based Radar Inertial Odometry using 4D mmWave radar sensors
 
