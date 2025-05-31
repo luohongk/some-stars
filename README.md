@@ -49,8 +49,6 @@
 
 *   [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 
-*   [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
-
 *   [MoonshotAI/Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 
 *   [KwanWaiPang/Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) - Paper Survey for Deep Visual (-Inertial) Odometry
@@ -836,6 +834,8 @@
 *   [YanyuanQiao/Open-Nav](https://github.com/YanyuanQiao/Open-Nav) - \[ICRA 2025] Official implementation of Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs
 
 *   [facebookresearch/habitat-challenge](https://github.com/facebookresearch/habitat-challenge) - Code for the habitat challenge
+
+*   [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
 
 *   [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - \[CVPR 2024] Real-Time Open-Vocabulary Object Detection
 
