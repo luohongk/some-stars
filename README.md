@@ -1663,7 +1663,7 @@
 
 *   [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 
-*   [David-patrick-chuks/Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+*   [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 
 *   [MegaScenes/web-viewer](https://github.com/MegaScenes/web-viewer) - web viewer for 3d reconstructions
 
