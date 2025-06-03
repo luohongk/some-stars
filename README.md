@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [lichunshang/deep\_ekf\_vio](https://github.com/lichunshang/deep_ekf_vio) -
+
 *   [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation
 
 *   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers
@@ -903,8 +905,6 @@
 
 *   [franciscoliu/Awesome-GenAI-Unlearning](https://github.com/franciscoliu/Awesome-GenAI-Unlearning) -
 
-*   [wlxing1901/eroam](https://github.com/wlxing1901/eroam) -
-
 *   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
 
 *   [kmk97/DGS-SLAM](https://github.com/kmk97/DGS-SLAM) -
@@ -1153,7 +1153,7 @@
 
 *   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - A MCP based chatbot
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - A MCP based chatbot | 一个基于MCP的语音交互机器人
 
 *   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Super Tightly Coupled Visual-Inertial State Estimator
 
@@ -1259,6 +1259,8 @@
 
 *   [SJTU-ViSYS/Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion) - Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)
 
+*   [wlxing1901/eroam](https://github.com/wlxing1901/eroam) -
+
 *   [tum-vision/dvo\_slam](https://github.com/tum-vision/dvo_slam) - Dense Visual Odometry and SLAM
 
 *   [Zhefan-Xu/time\_optimizer](https://github.com/Zhefan-Xu/time_optimizer) - \[IEEE ICRA'24] Optimal Trajectory Time Allocation Library for Autonomous Robots (C++/ROS)
@@ -1312,8 +1314,6 @@
 *   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
 
 *   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) - \[T-IM 2025] TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal
-
-*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 *   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
 
@@ -1543,8 +1543,6 @@
 
 *   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
 
-*   [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) - \[CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System
-
 ## Jupyter Notebook
 
 *   [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
@@ -1728,6 +1726,8 @@
 *   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
+
+*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 ## HTML
 
