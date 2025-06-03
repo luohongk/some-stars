@@ -801,7 +801,7 @@
 
 *   [LiHaoy-ux/MLINE-VINS](https://github.com/LiHaoy-ux/MLINE-VINS) -
 
-*   [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - \[Actively Maintained] A list of Embodied AI papers accepted by top conferences papers (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
+*   [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - \[Actively Maintained🔥] A list of Embodied AI papers accepted by top conferences papers (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
 
 *   [iceberg1369/PPPLib\_v2.0](https://github.com/iceberg1369/PPPLib_v2.0) -
 
@@ -1153,7 +1153,7 @@
 
 *   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - A MCP based chatbot | 一个基于MCP的语音交互机器人
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 *   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Super Tightly Coupled Visual-Inertial State Estimator
 
@@ -1817,7 +1817,7 @@
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 
 *   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 
