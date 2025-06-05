@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
+
 *   [Eku127/DualMap](https://github.com/Eku127/DualMap) - Public release of our paper DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes
 
 *   [lichunshang/deep\_ekf\_vio](https://github.com/lichunshang/deep_ekf_vio) -
@@ -1542,8 +1544,6 @@
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
-*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
 
 ## Jupyter Notebook
 
