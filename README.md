@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [CMake](#cmake)
 *   [HTML](#html)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -33,7 +34,6 @@
 *   [Matlab](#matlab-1)
 *   [Go](#go)
 *   [Cython](#cython)
-*   [CMake](#cmake)
 *   [Lua](#lua)
 *   [SCSS](#scss)
 *   [Dart](#dart)
@@ -42,6 +42,12 @@
 *   [C](#c-2)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## CMake
+
+*   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
+
+*   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 
 ## HTML
 
@@ -575,8 +581,6 @@
 
 *   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 
-*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
-
 ## Jupyter Notebook
 
 *   [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1 is the world's first open foundation model for generalized humanoid robot reasoning and skills.
@@ -683,7 +687,7 @@
 
 ## Python
 
-*   [wzcai99/NavDP](https://github.com/wzcai99/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
+*   [OpenRobotLab/NavDP](https://github.com/OpenRobotLab/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
 
 *   [GeWu-Lab/AnyTouch](https://github.com/GeWu-Lab/AnyTouch) - The repo for "AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors", ICLR 2025
 
@@ -1858,10 +1862,6 @@
 ## Cython
 
 *   [stereolabs/zed-python-api](https://github.com/stereolabs/zed-python-api) - Python API for the ZED SDK
-
-## CMake
-
-*   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 
 ## Lua
 
