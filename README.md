@@ -45,6 +45,12 @@
 
 ## C++
 
+*   [jiachengliu3/WBC\_Deploy](https://github.com/jiachengliu3/WBC_Deploy) - VR-based Robot Teleoperation and Data Collection System for Unitree G1
+
+*   [zm0612/funny\_lidar\_slam](https://github.com/zm0612/funny_lidar_slam) - A real-time multifunctional Lidar SLAM package.
+
+*   [arclab-hku/ESVIO](https://github.com/arclab-hku/ESVIO) - ESVIO: Event-based Stereo Visual Inertial Odometry
+
 *   [NVIDIA-ISAAC-ROS/isaac\_ros\_pose\_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) - Deep learned, NVIDIA-accelerated 3D object pose estimation
 
 *   [chengwei0427/ESKF\_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast\_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
@@ -559,9 +565,9 @@
 
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 
-*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
-
 ## Python
+
+*   [Physical-Intelligence/real-time-chunking-kinetix](https://github.com/Physical-Intelligence/real-time-chunking-kinetix) - Simulated experiments for "Real-Time Execution of Action Chunking Flow Policies".
 
 *   [B0B8K1ng/WMNavigation](https://github.com/B0B8K1ng/WMNavigation) -
 
@@ -1291,8 +1297,6 @@
 
 *   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
 
-*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
-
 ## CMake
 
 *   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
@@ -1894,10 +1898,6 @@
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
 
 *   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-
-*   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.  Click on the "Releases" label below to see the latest Windows pre-release.
-
-*   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
 
 ## Java
 
