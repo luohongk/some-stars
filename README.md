@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [CMake](#cmake)
 *   [HTML](#html)
-*   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -43,759 +43,9 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
-## Python
-
-*   [mit-han-lab/nunchaku](https://github.com/mit-han-lab/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
-
-*   [OpenRobotLab/NavDP](https://github.com/OpenRobotLab/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
-
-*   [GeWu-Lab/AnyTouch](https://github.com/GeWu-Lab/AnyTouch) - The repo for "AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors", ICLR 2025
-
-*   [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
-
-*   [OpenRobotLab/GRUtopia](https://github.com/OpenRobotLab/GRUtopia) - GRUtopia: Dream General Robots in a City at Scale
-
-*   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
-
-*   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
-
-*   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
-
-*   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
-
-*   [Eku127/DualMap](https://github.com/Eku127/DualMap) - Public release of our paper DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes
-
-*   [lichunshang/deep\_ekf\_vio](https://github.com/lichunshang/deep_ekf_vio) -
-
-*   [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation
-
-*   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers
-
-*   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
-
-*   [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction
-
-*   [NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM](https://github.com/NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM) -
-
-*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
-
-*   [YanyuanQiao/Open-Nav](https://github.com/YanyuanQiao/Open-Nav) - \[ICRA 2025] Official implementation of Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs
-
-*   [facebookresearch/habitat-challenge](https://github.com/facebookresearch/habitat-challenge) - Code for the habitat challenge
-
-*   [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
-
-*   [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - \[CVPR 2024] Real-Time Open-Vocabulary Object Detection
-
-*   [GengzeZhou/NavGPT-2](https://github.com/GengzeZhou/NavGPT-2) - \[ECCV 2024] Official implementation of NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models
-
-*   [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [hanruihua/neupan\_ros](https://github.com/hanruihua/neupan_ros) - ROS Wrapper of NeuPAN planner
-
-*   [AgibotTech/agibot\_x1\_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1.
-
-*   [unitreerobotics/unitree\_rl\_gym](https://github.com/unitreerobotics/unitree_rl_gym) -
-
-*   [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highlight paper: Matching Anything by Segmenting Anything
-
-*   [OpenDriveLab/UniVLA](https://github.com/OpenDriveLab/UniVLA) - \[RSS 2025] Learning to Act Anywhere with Task-centric Latent Actions
-
-*   [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o) -
-
-*   [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
-
-*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
-
-*   [bagh2178/UniGoal](https://github.com/bagh2178/UniGoal) - \[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
-
-*   [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - \[ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
-
-*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-*   [QitaoZhao/DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM) - \[CVPR 2025] "DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion" official implementation.
-
-*   [Brummi/anycam](https://github.com/Brummi/anycam) - Official repository for "AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos" (CVPR 2025)
-
-*   [lyp-deeplearning/LiftFeat](https://github.com/lyp-deeplearning/LiftFeat) - Code for "LiftFeat: 3D Geometry-Aware Local Feature Matching", ICRA2025
-
-*   [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) - The simplest, fastest repository for training/finetuning small-sized VLMs.
-
-*   [gradslam/gradslam](https://github.com/gradslam/gradslam) - gradslam is an open source differentiable dense SLAM library for PyTorch
-
-*   [MrZihan/GridMM](https://github.com/MrZihan/GridMM) - Official implementation of GridMM: Grid Memory Map for Vision-and-Language Navigation (ICCV'23).
-
-*   [liangpan99/TokenHSI](https://github.com/liangpan99/TokenHSI) - \[CVPR 2025 Oral] TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization
-
-*   [MrZihan/HNR-VLN](https://github.com/MrZihan/HNR-VLN) - Official implementation of Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation (CVPR'24 Highlight).
-
-*   [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
-
-*   [cshizhe/onav\_rim](https://github.com/cshizhe/onav_rim) -
-
-*   [DefaultRui/BEV-Scene-Graph](https://github.com/DefaultRui/BEV-Scene-Graph) - \[ICCV23] Bird’s-Eye-View Scene Graph for Vision-Language Navigation
-
-*   [chen-judge/MapGPT](https://github.com/chen-judge/MapGPT) - \[ACL 24] The official implementation of MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation.
-
-*   [FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match) - Official code for "To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition" CVPR IMW 2025
-
-*   [amaralibey/MixVPR](https://github.com/amaralibey/MixVPR) - MixVPR: Feature Mixing for Visual Place Recognition (WACV 2023)
-
-*   [amaralibey/gsv-cities](https://github.com/amaralibey/gsv-cities) - GSV-Cities: a large-scale dataset for visual place recognition
-
-*   [jiangxinke/Agentic-RAG-R1](https://github.com/jiangxinke/Agentic-RAG-R1) - Agentic RAG R1 Framework via Reinforcement Learning
-
-*   [NVIDIA-AI-IOT/ros2\_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - ROS2 nodes for LLM, VLM, VLA
-
-*   [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
-
-*   [facebookresearch/flow\_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
-
-*   [ybgdgh/L3MVN](https://github.com/ybgdgh/L3MVN) - Leveraging Large Language Models for Visual Target Navigation
-
-*   [ibaiGorordo/vggt-pytorch-inference](https://github.com/ibaiGorordo/vggt-pytorch-inference) - Repository for running the VGGT model in PyTorch
-
-*   [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
-
-*   [DefaultRui/VLN-VER](https://github.com/DefaultRui/VLN-VER) - \[CVPR24] Volumetric Environment Representation for Vision-Language Navigation
-
-*   [pablovela5620/mini-dpvo](https://github.com/pablovela5620/mini-dpvo) -
-
-*   [EricTan7/RAM](https://github.com/EricTan7/RAM) - \[CVPR2025] Official implementation of RAM
-
-*   [Jirl-upenn/VLMnav](https://github.com/Jirl-upenn/VLMnav) - End-to-End Navigation with VLMs
-
-*   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
-
-*   [naokiyokoyama/ovon](https://github.com/naokiyokoyama/ovon) - Open Vocabulary Object Navigation
-
-*   [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024)
-
-*   [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
-
-*   [NVlabs/HOVER](https://github.com/NVlabs/HOVER) - HOVER
-
-*   [cvlab-kaist/ZeroCo](https://github.com/cvlab-kaist/ZeroCo) - CVPR 2025 (Highlight) : Official implementation of "Cross-View Completion Models are Zero-shot Correspondence Estimators"
-
-*   [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
-
-*   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
-
-*   [KTH-RPL/OneMap](https://github.com/KTH-RPL/OneMap) - \[ICRA'25] One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation
-
-*   [isri-aist/RoboManipBaselines](https://github.com/isri-aist/RoboManipBaselines) - A software framework integrating various imitation learning methods and benchmark environments for robotic manipulation
-
-*   [AlbertoJaenal/MapAbstractionVPR](https://github.com/AlbertoJaenal/MapAbstractionVPR) - Implementation for Image database abstracion
-
-*   [hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene) - \[CVPR 2025 Highlight] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - Unsupervised time series anomaly detection library
-
-*   [lus6-Jenny/RINGSharp](https://github.com/lus6-Jenny/RINGSharp) - \[IEEE T-RO 2025] RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning.
-
-*   [yuliangguo/depth\_any\_camera](https://github.com/yuliangguo/depth_any_camera) - \[CVPR 2025] Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera
-
-*   [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes. Accepted at RSS 2025.
-
-*   [apple/ml-matrix3d](https://github.com/apple/ml-matrix3d) - \[CVPR 2025 Highlight] Matrix3D: Large Photogrammetry Model All-in-One
-
-*   [FlagOpen/RoboBrain](https://github.com/FlagOpen/RoboBrain) - \[CVPR 2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Official Repository.
-
-*   [arajv/SayNav](https://github.com/arajv/SayNav) - Grounding Large Language Models for Dynamic Planning to Navigation in New Environments
-
-*   [BAAI-DCAI/SpatialBot](https://github.com/BAAI-DCAI/SpatialBot) - The official repo for "SpatialBot: Precise Spatial Understanding with Vision Language Models.
-
-*   [facebookresearch/RAM](https://github.com/facebookresearch/RAM) - A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
-
-*   [honghd16/GSA-VLN](https://github.com/honghd16/GSA-VLN) - Official repository of General Scene Adaptation for Vision-and-Language Navigation (ICLR'2025)
-
-*   [MarSaKi/ETPNav](https://github.com/MarSaKi/ETPNav) - \[TPAMI 2024] Official repo of "ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments"
-
-*   [Chenkehan21/CA-Nav-code](https://github.com/Chenkehan21/CA-Nav-code) -
-
-*   [CrystalSixone/VLN-GOAT](https://github.com/CrystalSixone/VLN-GOAT) - Repository for Vision-and-Language Navigation via Causal Learning (Accepted by CVPR 2024)
-
-*   [GAMMA-UMD-Outdoor-Navigation/BehAV](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) - BehAV: Behavioral Rule Guided Autonomy Using VLM for Robot Navigation in Outdoor Scenes
-
-*   [dillonloh/AdaVLN](https://github.com/dillonloh/AdaVLN) - IsaacSim Extension for Dynamic Objects in Matterport3D Environments for AdaVLN research
-
-*   [vlmaps/vlmaps](https://github.com/vlmaps/vlmaps) - \[ICRA2023] Implementation of Visual Language Maps for Robot Navigation
-
-*   [GradientSpaces/WildGS-SLAM](https://github.com/GradientSpaces/WildGS-SLAM) - \[CVPR 2025] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments
-
-*   [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-
-*   [zd11024/NaviLLM](https://github.com/zd11024/NaviLLM) - \[CVPR 2024] The code for paper 'Towards Learning a Generalist Model for Embodied Navigation'
-
-*   [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
-
-*   [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
-
-*   [yuancaimaiyi/collaborationSfM](https://github.com/yuancaimaiyi/collaborationSfM) - 众包SfM
-
-*   [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - \[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning.
-
-*   [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
-
-*   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
-
-*   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
-
-*   [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - \[CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
-
-*   [rerun-io/pi0-lerobot](https://github.com/rerun-io/pi0-lerobot) -
-
-*   [yzqin/dexmv-sim](https://github.com/yzqin/dexmv-sim) - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos, ECCV 2022
-
-*   [LSXI7/MINIMA](https://github.com/LSXI7/MINIMA) - \[CVPR 2025] MINIMA: Modality Invariant Image Matching
-
-*   [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Solve Visual Understanding with Reinforced VLMs
-
-*   [shengjun-zhang/GGN](https://github.com/shengjun-zhang/GGN) - \[NeurIPS 2024] Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images
-
-*   [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-
-*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Large Language Model for Spatial Understanding
-
-*   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) - Ray tracing and hybrid rasterization of Gaussian particles
-
-*   [nianticlabs/ace](https://github.com/nianticlabs/ace) - \[CVPR 2023 - Highlight] Accelerated Coordinate Encoding (ACE): Learning to Relocalize in Minutes using RGB and Poses
-
-*   [roomtour3d/roomtour3d-NaviLLM](https://github.com/roomtour3d/roomtour3d-NaviLLM) - \[CVPR 2025] RoomTour3D - Geometry-aware, cheap and automatic data from web videos for embodied navigation
-
-*   [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
-
-*   [PengYu-Team/GEODE\_dataset](https://github.com/PengYu-Team/GEODE_dataset) - Extending the Robustness of LiDAR SLAM to Geometrically Degenerate Scenarios
-
-*   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
-
-*   [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
-
-*   [QVPR/Patch-NetVLAD](https://github.com/QVPR/Patch-NetVLAD) - Code for the CVPR2021 paper "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition"
-
-*   [Xiaoming-Zhao/PointNav-VO](https://github.com/Xiaoming-Zhao/PointNav-VO) - \[ICCV 2021] Official implementation of "The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation"
-
-*   [jiachenzhu/DyT](https://github.com/jiachenzhu/DyT) - Code release for DynamicTanh (DyT)
-
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
-
-*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award Candidate] VGGT: Visual Geometry Grounded Transformer
-
-*   [LeeBY68/Hier-SLAM](https://github.com/LeeBY68/Hier-SLAM) - 🌳 \[ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation
-
-*   [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - Official implementation of the SIGGRAPH 2024 paper "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
-
-*   [ali-vilab/MangaNinjia](https://github.com/ali-vilab/MangaNinjia) - \[CVPR 2025 Highlight] Official implementation of "MangaNinja: Line Art Colorization with Precise Reference Following"
-
-*   [FoundationVision/GLEE](https://github.com/FoundationVision/GLEE) - \[CVPR2024 Highlight]GLEE: General Object Foundation Model for Images and Videos at Scale
-
-*   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
-
-*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
-
-*   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
-
-*   [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
-
-*   [whu-lyh/SaliencyI2PLoc](https://github.com/whu-lyh/SaliencyI2PLoc) - Official code of SaliencyI2PLoc
-
-*   [robot-learning-freiburg/LCDNet](https://github.com/robot-learning-freiburg/LCDNet) - PyTorch code for training LCDNet for loop closure detection in LiDAR SLAM. http://rl.uni-freiburg.de/research/lidar-slam-lc
-
-*   [MarSaKi/VLN-BEVBert](https://github.com/MarSaKi/VLN-BEVBert) - \[ICCV 2023} Official repo of "BEVBert: Multimodal Map Pre-training for Language-guided Navigation"
-
-*   [crepuscularlight/SemanticLoopClosure](https://github.com/crepuscularlight/SemanticLoopClosure) - Master thesis regarding semantic loop closure
-
-*   [Ghiara/LEGION](https://github.com/Ghiara/LEGION) - Official implementation of paper on Nature Machine Intelligence: "Preserving and Combining Knowledge in Robotic Lifelong Reinforcement Learning"
-
-*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-
-*   [Zhefan-Xu/isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2) - Unitree Go2 simulation platform for testing navigation, decision-making and autonomous tasks. (NVIDIA Isaac/ROS2)
-
-*   [YicongHong/Recurrent-VLN-BERT](https://github.com/YicongHong/Recurrent-VLN-BERT) - Code of the CVPR 2021 Oral paper: A Recurrent Vision-and-Language BERT for Navigation
-
-*   [gaoxiangjun/Mani-GS](https://github.com/gaoxiangjun/Mani-GS) - \[CVPR' 2025'] Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
-
-*   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025 - Highlight] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
-
-*   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation
-
-*   [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat
-
-*   [JeffLIrion/python-graphslam](https://github.com/JeffLIrion/python-graphslam) - Graph SLAM solver in Python
-
-*   [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
-
-*   [vdorbala/LGX](https://github.com/vdorbala/LGX) - Code for LGX (Language Guided Exploration). We use LLMs to perform embodied robot navigation in a zero-shot manner.
-
-*   [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - \[CVPR 2025 Highlight] Real-time dense scene reconstruction with SLAM3R
-
-*   [fanegg/Feat2GS](https://github.com/fanegg/Feat2GS) - \[CVPR2025] Feat2GS: Probing Visual Foundation Models with Gaussian Splatting
-
-*   [MrZihan/Sim2Real-VLN-3DFF](https://github.com/MrZihan/Sim2Real-VLN-3DFF) - Official implementation of Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation  (CoRL'24).
-
-*   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[IEEE RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
-
-*   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - \[CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
-
-*   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
-
-*   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - \[RA-L2025] ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
-
-*   [WU-CVGL/Omni-Scene](https://github.com/WU-CVGL/Omni-Scene) - \[CVPR2025] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
-
-*   [liw95/LightLoc](https://github.com/liw95/LightLoc) - \[CVPR2025] LightLoc: Learning Outdoor LiDAR Localization at Light Speed
-
-*   [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025)
-
-*   [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
-
-*   [iris0329/SeeGround](https://github.com/iris0329/SeeGround) - \[CVPR'25] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding
-
-*   [pengwangucla/DeLS-3D](https://github.com/pengwangucla/DeLS-3D) - The code for DeLS-3D of CVPR 2018
-
-*   [rpng/calc](https://github.com/rpng/calc) - Convolutional Autoencoder for Loop Closure
-
-*   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
-
-*   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO 2025] SG-Reg: Generalizable and Efficient Scene Graph Registration
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-
-*   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - \[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
-
-*   [AirVLN/AirVLN](https://github.com/AirVLN/AirVLN) -
-
-*   [xuxw98/ESAM](https://github.com/xuxw98/ESAM) - \[ICLR 2025, Oral] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
-
-*   [fishmarch/ROSTools](https://github.com/fishmarch/ROSTools) -
-
-*   [sair-lab/AirCode](https://github.com/sair-lab/AirCode) - AirCode: A Robust Object Encoding Method (RA-L, ICRA 2022)
-
-*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-
-*   [url-kaist/MambaGlue](https://github.com/url-kaist/MambaGlue) - MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25
-
-*   [fraunhoferhhi/AT-GS](https://github.com/fraunhoferhhi/AT-GS) - Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
-
-*   [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - YOLOv12: Attention-Centric Real-Time Object Detectors
-
-*   [HKUDS/GraphGPT](https://github.com/HKUDS/GraphGPT) - \[SIGIR'2024] "GraphGPT: Graph Instruction Tuning for Large Language Models"
-
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volumetric reconstruction pipeline, integration of depth prediction models, and semantic segmentation for enhanced scene understanding.
-
-*   [wangyizhao/PRIOR-SLAM](https://github.com/wangyizhao/PRIOR-SLAM) - PRIOR-SLAM: Enabling Visual SLAM for Loop Closure under Large Viewpoint Variations
-
-*   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-
-*   [yuanzhoulvpi2017/vscode\_debug\_transformers](https://github.com/yuanzhoulvpi2017/vscode_debug_transformers) -
-
-*   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
-
-*   [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - \[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
-
-*   [yang-zj1026/VLN-CE-Isaac](https://github.com/yang-zj1026/VLN-CE-Isaac) - Vision-Language Navigation Benchmark in Isaac Lab
-
-*   [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
-
-*   [LYX0501/InstructNav](https://github.com/LYX0501/InstructNav) -
-
-*   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
-
-*   [fudan-zvg/DG-SLAM](https://github.com/fudan-zvg/DG-SLAM) - \[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
-
-*   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
-
-*   [Irvingao/Point-DETR3D](https://github.com/Irvingao/Point-DETR3D) - \[AAAI 2024] Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-Supervised 3D Object Detection
-
-*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
-
-*   [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - \[ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
-
-*   [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) - Daily ArXiv Papers.
-
-*   [microsoft/MoGe](https://github.com/microsoft/MoGe) - \[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
-
-*   [NVlabs/InstantSplat](https://github.com/NVlabs/InstantSplat) - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds
-
-*   [Nanne/pytorch-NetVlad](https://github.com/Nanne/pytorch-NetVlad) - Pytorch implementation of NetVlad including training on Pittsburgh.
-
-*   [VITA-Group/MM3DGS-SLAM](https://github.com/VITA-Group/MM3DGS-SLAM) - \[IROS 2024] MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements
-
-*   [hmz-15/Interactive-Predicate-Learning](https://github.com/hmz-15/Interactive-Predicate-Learning) - InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning (RSS 2024)
-
-*   [google-deepmind/mujoco\_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
-
-*   [Aceinna/gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
-
-*   [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
-
-*   [naver/mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
-
-*   [opendilab/LightZero](https://github.com/opendilab/LightZero) - \[NeurIPS 2023 Spotlight] LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (awesome MCTS)
-
-*   [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
-
-*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
-
-*   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
-
-*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 Highlight & ECCV Workshop 24 Best Paper] RoboTwin Dual-arm Robot Manipulation Simulation Platform
-
-*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
-
-*   [MachinePerceptionLab/QQ-SLAM](https://github.com/MachinePerceptionLab/QQ-SLAM) -
-
-*   [YvanYin/Metric3D](https://github.com/YvanYin/Metric3D) - The repo for "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image" and "Metric3Dv2: A Versatile Monocular Geometric Foundation Model..."
-
-*   [modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
-
-*   [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
-
-*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
-
-*   [gramuah/ros4vsn](https://github.com/gramuah/ros4vsn) - Evaluation of Visual Semantic Navigation Models in Real Robots
-
-*   [noodle-lab/GaussianSpa](https://github.com/noodle-lab/GaussianSpa) - Project website: https://noodle-lab.github.io/gaussianspa/
-
-*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-
-*   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
-
-*   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
-
-*   [ayoussf/SuperPoint-PrP](https://github.com/ayoussf/SuperPoint-PrP) -
-
-*   [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
-
-*   [hustvl/DiffusionDrive](https://github.com/hustvl/DiffusionDrive) - \[CVPR 2025 Highlight] Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving
-
-*   [ispc-lab/HRegNet](https://github.com/ispc-lab/HRegNet) - \[ICCV 2021] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration
-
-*   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
-
-*   [TianxingChen/G3Flow](https://github.com/TianxingChen/G3Flow) - \[CVPR 25] G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
-
-*   [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
-
-*   [facebookresearch/neuralfeels](https://github.com/facebookresearch/neuralfeels) - Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation
-
-*   [ori-drs/oxford\_spires\_dataset](https://github.com/ori-drs/oxford_spires_dataset) - Lidar-visual dataset with ground truth 3D map for SLAM/NeRF
-
-*   [blazzbyte/OpenInterpreterUI](https://github.com/blazzbyte/OpenInterpreterUI) - Simplify code execution with Open Interpreter UI Project with Streamlit. A user-friendly GUI for Python, JavaScript, and more. Pay-as-you-go, no subscriptions. Ideal for beginners.
-
-*   [fudan-zvg/gaussian-raytracing](https://github.com/fudan-zvg/gaussian-raytracing) -
-
-*   [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - \[ICLR' 25] SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
-
-*   [akawincent/ZED-data-collector](https://github.com/akawincent/ZED-data-collector) - In this project, ZED camera is used to extract image, IMU, pose data and convert them into a dataset format as ground truth for evaluation of other SLAM systems
-
-*   [Parskatt/RoMa](https://github.com/Parskatt/RoMa) - \[CVPR 2024] RoMa: Robust Dense Feature Matching; RoMa is the robust dense feature matcher capable of estimating pixel-dense warps and reliable certainties for almost any image pair.
-
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-
-*   [KwanWaiPang/Gaussian-SLAM\_comment](https://github.com/KwanWaiPang/Gaussian-SLAM_comment) - Gaussian-SLAM的中文注释
-
-*   [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
-
-*   [OpenRobotLab/VLM-Grounder](https://github.com/OpenRobotLab/VLM-Grounder) - \[CoRL 2024] VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding
-
-*   [GREAT-WHU/GREAT-Dataset](https://github.com/GREAT-WHU/GREAT-Dataset) -
-
-*   [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-
-*   [MisEty/RTG-SLAM](https://github.com/MisEty/RTG-SLAM) - RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting (ACM SIGGRAPH 2024)
-
-*   [Tencent-Hunyuan/Tencent-Hunyuan-Large](https://github.com/Tencent-Hunyuan/Tencent-Hunyuan-Large) -
-
-*   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - \[ICLR'25 Oral] No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
-
-*   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
-
-*   [nv-tlabs/SCube](https://github.com/nv-tlabs/SCube) - \[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats
-
-*   [princeton-vl/RAFT-Stereo](https://github.com/princeton-vl/RAFT-Stereo) -
-
-*   [ChenHoy/DROID-Splat](https://github.com/ChenHoy/DROID-Splat) - End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM) - Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning. http://continual-slam.cs.uni-freiburg.de
-
-*   [ywyeli/Place3D](https://github.com/ywyeli/Place3D) - \[NeurIPS'24 Spotlight] Is Your LiDAR Placement Optimized for 3D Scene Understanding?
-
-*   [TommyZihao/openvino\_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
-
-*   [donydchen/mvsplat](https://github.com/donydchen/mvsplat) - 🌊 \[ECCV'24 Oral] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
-
-*   [songw-zju/LiDAR2Map](https://github.com/songw-zju/LiDAR2Map) - The official implementation of "LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation" (CVPR 2023)
-
-*   [zhaihongjia/SplatLoc](https://github.com/zhaihongjia/SplatLoc) - \[TVCG 2025] SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality
-
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-
-*   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-
-*   [hkchengrex/Cutie](https://github.com/hkchengrex/Cutie) - \[CVPR 2024 Highlight] Putting the Object Back Into Video Object Segmentation
-
-*   [520xyxyzq/3DGS-CD](https://github.com/520xyxyzq/3DGS-CD) - 3DGS-based change detection for physical object rearrangement
-
-*   [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
-
-*   [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
-
-*   [Owen718/LongPrompt-LLamaGen](https://github.com/Owen718/LongPrompt-LLamaGen) - This repository provides an improved LLamaGen Model, fine-tuned on 500,000 high-quality images, each accompanied by over 300 token prompts. And it's also powered by additional prompt refining features for improved performance.
-
-*   [openai/improved-diffusion](https://github.com/openai/improved-diffusion) - Release for Improved Denoising Diffusion Probabilistic Models
-
-*   [RuijieZhu94/MotionGS](https://github.com/RuijieZhu94/MotionGS) - \[NeurIPS 2024] MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
-
-*   [hzy46/Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) - 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
-
-*   [StanfordVL/3DSceneGraph](https://github.com/StanfordVL/3DSceneGraph) - The data skeleton from "3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera" http://3dscenegraph.stanford.edu
-
-*   [cvg/depthsplat](https://github.com/cvg/depthsplat) - \[CVPR'25] DepthSplat: Connecting Gaussian Splatting and Depth
-
-*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-
-*   [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) -
-
-*   [jiaoZ7688/YOLOPX](https://github.com/jiaoZ7688/YOLOPX) -
-
-*   [Nightmare-n/DepthAnyVideo](https://github.com/Nightmare-n/DepthAnyVideo) - Depth Any Video with Scalable Synthetic Data (ICLR 2025)
-
-*   [linyicheng1/EdgePoint](https://github.com/linyicheng1/EdgePoint) - EdgePoint: Learning Efficient Keypoint Extraction and Description for Edge Devices
-
-*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - \[ICRA2025] HeLiOS: Heterogeneous LiDAR Place Recognition
-
-*   [uzh-rpg/bflow](https://github.com/uzh-rpg/bflow) - Official implementation of "Dense Continuous-Time Optical Flow from Event Cameras"
-
-*   [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - \[NeurIPS 2024 Spotlight]"LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
-
-*   [uzh-rpg/deep\_ev\_tracker](https://github.com/uzh-rpg/deep_ev_tracker) - Repository relating to "Data-driven Feature Tracking for Event Cameras" (CVPR, 2023, Award Candidate) and "Data-driven Feature Tracking for Event Cameras with and without Frames" (T-PAMI 2025)
-
-*   [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - \[ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
-
-*   [hustvl/osp](https://github.com/hustvl/osp) - \[ECCV 2024] Occupancy as Set of Points
-
-*   [HuangJunJie2017/BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Code base of the BEVDet series .
-
-*   [city-super/Octree-AnyGS](https://github.com/city-super/Octree-AnyGS) - Octree-GS
-
-*   [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
-
-*   [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-
-*   [yifanlu0227/ChatSim](https://github.com/yifanlu0227/ChatSim) - \[CVPR2024 Highlight] Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration
-
-*   [cjy1992/interp-e2e-driving](https://github.com/cjy1992/interp-e2e-driving) - Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning
-
-*   [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
-
-*   [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - \[CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
-
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-
-*   [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
-
-*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) - \[ICLR 2025] The official implementation of SSR
-
-*   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
-
-*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - official implementation of LM-Gaussian
-
-*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-*   [eth-ait/GaussianHaircut](https://github.com/eth-ait/GaussianHaircut) - Gaussian Haircut: Human Hair Reconstruction with Strand-Aligned 3D Gaussians
-
-*   [pyg-team/pytorch-frame](https://github.com/pyg-team/pytorch-frame) - Tabular Deep Learning Library for PyTorch
-
-*   [jkulhanek/wild-gaussians](https://github.com/jkulhanek/wild-gaussians) - \[NeurIPS'24] WildGaussians: 3D Gaussian Splatting In the Wild
-
-*   [bassamlab/SigmaRL](https://github.com/bassamlab/SigmaRL) - SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning
-
-*   [DLR-MI/UTrack](https://github.com/DLR-MI/UTrack) - Multi-Object Tracking with Uncertain Detections \[ECCV 2024 UnCV]
-
-*   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-
-*   [TempleRAIL/drl\_vo\_nav](https://github.com/TempleRAIL/drl_vo_nav) - \[T-RO 2023] DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity Obstacles
-
-*   [lucasbrynte/gasfm](https://github.com/lucasbrynte/gasfm) - Implementation of the CVPR 2024 paper "Learning Structure-from-Motion with Graph Attention Networks".
-
-*   [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - \[CVPR 2024] Learning Occupancy for Monocular 3D Object Detection
-
-*   [zhangganlin/GlORIE-SLAM](https://github.com/zhangganlin/GlORIE-SLAM) - GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM
-
-*   [jbriales/rgbd\_benchmark\_tools](https://github.com/jbriales/rgbd_benchmark_tools) - Tools for TUM RGBD Dataset Benchmark
-
-*   [yastrebksv/TennisProject](https://github.com/yastrebksv/TennisProject) - Tennis analysis using deep learning and machine learning
-
-*   [cvg/GeoCalib](https://github.com/cvg/GeoCalib) - GeoCalib: Learning Single-image Calibration with Geometric Optimization (ECCV 2024)
-
-*   [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.
-
-*   [lus6-Jenny/RING](https://github.com/lus6-Jenny/RING) - \[IEEE T-RO 2023] Source code of RING and RING++ for loop closure detection in LiDAR SLAM.
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [GANWANSHUI/GaussianOcc](https://github.com/GANWANSHUI/GaussianOcc) - GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
-
-*   [GradientSpaces/LoopSplat](https://github.com/GradientSpaces/LoopSplat) - \[3DV 2025, Oral] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
-
-*   [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
-
-*   [hjr37/CP-SLAM](https://github.com/hjr37/CP-SLAM) - CP-SLAM: Collaborative Neural Point-based SLAM
-
-*   [cvg/nicer-slam](https://github.com/cvg/nicer-slam) - \[3DV'24 Best Paper Honorable Mention] NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM
-
-*   [lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal Monocular Metric Depth Estimation
-
-*   [JeongminB/E-D3DGS](https://github.com/JeongminB/E-D3DGS) - \[ECCV 2024] Official repository for "Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting"
-
-*   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
-
-*   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
-
-*   [IPNL-POLYU/UrbanNavDataset](https://github.com/IPNL-POLYU/UrbanNavDataset) - UrbanNav:An Open-sourced Multisensory Dataset for Benchmarking Positioning Algorithms Designed for Urban Areas
-
-*   [YuxueYang1204/TrimGS](https://github.com/YuxueYang1204/TrimGS) - Trim 3D Gaussian Splatting for Accurate Geometry Representation
-
-*   [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-
-*   [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
-
-*   [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (ICRA'24)
-
-*   [liuyuan-pal/SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - \[ICLR 2024 Spotlight] SyncDreamer: Generating Multiview-consistent Images from a Single-view Image
-
-*   [fudan-zvg/4d-gaussian-splatting](https://github.com/fudan-zvg/4d-gaussian-splatting) - \[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
-
-*   [eriksandstroem/Loopy-SLAM](https://github.com/eriksandstroem/Loopy-SLAM) -
-
-*   [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - \[CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
-
-*   [yanyan-li/GeoGaussian](https://github.com/yanyan-li/GeoGaussian) - GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering
-
-*   [Parskatt/DeDoDe](https://github.com/Parskatt/DeDoDe) - \[3DV 2024 Oral] DeDoDe 🎶 Detect, Don't Describe --- Describe, Don't Detect, for Local Feature Matching
-
-*   [ericzzj1989/BALF](https://github.com/ericzzj1989/BALF) - \[WACV 2024] BALF: Simple and Efficient Blur Aware Local Feature Detector
-
-*   [lyakaap/NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch) - PyTorch implementation of NetVLAD & Online Hardest Triplet Loss.
-
-*   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) - \[RA-L] DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction
-
-*   [nianticlabs/acezero](https://github.com/nianticlabs/acezero) - \[ECCV 2024 - Oral] ACE0 is a learning-based structure-from-motion approach that estimates camera parameters of sets of images by learning a multi-view consistent, implicit scene representation.
-
-*   [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
-
-*   [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
-
-*   [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
-
-*   [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-
-*   [tarashakhurana/4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting) - CVPR 2023: Official code for \`Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'
-
-*   [uoip/stereo\_msckf](https://github.com/uoip/stereo_msckf) - Python implementation of Multi-State Constraint Kalman Filter (MSCKF) for Vision-aided Inertial Navigation.
-
-*   [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - \[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
-
-*   [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
-
-*   [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - \[ICCV 2023] OccNet: Scene as Occupancy
-
-*   [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) -
-
-*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
-
-*   [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - \[ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
-
-*   [VISION-SJTU/SparseOcc](https://github.com/VISION-SJTU/SparseOcc) - Official implementation for 'SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction' (CVPR 2024)
-
-*   [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - \[ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
-
-*   [autonomousvision/occupancy\_networks](https://github.com/autonomousvision/occupancy_networks) - This repository contains the code for the paper "Occupancy Networks - Learning 3D Reconstruction in Function Space"
-
-*   [SY-007-Research/3dgs\_render\_python](https://github.com/SY-007-Research/3dgs_render_python) -
-
-*   [Ferry-Li/SI-SOD](https://github.com/Ferry-Li/SI-SOD) - ICML2024: Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection
-
-*   [Ferry-Li/SI\_Metric](https://github.com/Ferry-Li/SI_Metric) - A portable computation of Size-Invariant Metrics for ICML2024: Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection
-
-*   [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - \[CVPR'24 Best Student Paper] Mip-Splatting: Alias-free 3D Gaussian Splatting
-
-*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching webui
-
-*   [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - \[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
-
-*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-*   [rvp-group/vbr-devkit](https://github.com/rvp-group/vbr-devkit) - Vision Benchmark in Rome Development Kit
-
-*   [utiasSTARS/pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data.
-
-*   [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - \[ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
-
-*   [TQTQliu/MVSGaussian](https://github.com/TQTQliu/MVSGaussian) - \[ECCV 2024] MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
-
-*   [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - \[ICLR 2025] From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers"
-
-*   [swc-17/SparseDrive](https://github.com/swc-17/SparseDrive) - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
-
-*   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
-
-*   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
-
-*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
-
-*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
-
-*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
-
-*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
-
-*   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
-
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-
-*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
-
-*   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
-
-*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
-
-*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
-
-*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
-
-*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
-
-## CMake
-
-*   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
-
-*   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
-
-## HTML
-
-*   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
-
-*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
-
-*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
-
 ## C++
+
+*   [chengwei0427/ESKF\_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast\_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
 
 *   [Mechazo11/ros2\_orb\_slam3](https://github.com/Mechazo11/ros2_orb_slam3) - A ROS2 Humble package natively implementing ORB-SLAM3 V1.0 VSLAM framework
 
@@ -1310,6 +560,756 @@
 *   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 
 *   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
+
+## Python
+
+*   [mit-han-lab/nunchaku](https://github.com/mit-han-lab/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+
+*   [OpenRobotLab/NavDP](https://github.com/OpenRobotLab/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
+
+*   [GeWu-Lab/AnyTouch](https://github.com/GeWu-Lab/AnyTouch) - The repo for "AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors", ICLR 2025
+
+*   [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
+
+*   [OpenRobotLab/GRUtopia](https://github.com/OpenRobotLab/GRUtopia) - GRUtopia: Dream General Robots in a City at Scale
+
+*   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
+
+*   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
+
+*   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
+
+*   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
+
+*   [Eku127/DualMap](https://github.com/Eku127/DualMap) - Public release of our paper DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes
+
+*   [lichunshang/deep\_ekf\_vio](https://github.com/lichunshang/deep_ekf_vio) -
+
+*   [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation
+
+*   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers
+
+*   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+
+*   [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction
+
+*   [NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM](https://github.com/NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM) -
+
+*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+
+*   [YanyuanQiao/Open-Nav](https://github.com/YanyuanQiao/Open-Nav) - \[ICRA 2025] Official implementation of Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs
+
+*   [facebookresearch/habitat-challenge](https://github.com/facebookresearch/habitat-challenge) - Code for the habitat challenge
+
+*   [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
+
+*   [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - \[CVPR 2024] Real-Time Open-Vocabulary Object Detection
+
+*   [GengzeZhou/NavGPT-2](https://github.com/GengzeZhou/NavGPT-2) - \[ECCV 2024] Official implementation of NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models
+
+*   [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [hanruihua/neupan\_ros](https://github.com/hanruihua/neupan_ros) - ROS Wrapper of NeuPAN planner
+
+*   [AgibotTech/agibot\_x1\_train](https://github.com/AgibotTech/agibot_x1_train) - The reinforcement learning training code for AgiBot X1.
+
+*   [unitreerobotics/unitree\_rl\_gym](https://github.com/unitreerobotics/unitree_rl_gym) -
+
+*   [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highlight paper: Matching Anything by Segmenting Anything
+
+*   [OpenDriveLab/UniVLA](https://github.com/OpenDriveLab/UniVLA) - \[RSS 2025] Learning to Act Anywhere with Task-centric Latent Actions
+
+*   [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o) -
+
+*   [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
+
+*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
+
+*   [bagh2178/UniGoal](https://github.com/bagh2178/UniGoal) - \[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
+
+*   [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - \[ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+
+*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+*   [QitaoZhao/DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM) - \[CVPR 2025] "DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion" official implementation.
+
+*   [Brummi/anycam](https://github.com/Brummi/anycam) - Official repository for "AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos" (CVPR 2025)
+
+*   [lyp-deeplearning/LiftFeat](https://github.com/lyp-deeplearning/LiftFeat) - Code for "LiftFeat: 3D Geometry-Aware Local Feature Matching", ICRA2025
+
+*   [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) - The simplest, fastest repository for training/finetuning small-sized VLMs.
+
+*   [gradslam/gradslam](https://github.com/gradslam/gradslam) - gradslam is an open source differentiable dense SLAM library for PyTorch
+
+*   [MrZihan/GridMM](https://github.com/MrZihan/GridMM) - Official implementation of GridMM: Grid Memory Map for Vision-and-Language Navigation (ICCV'23).
+
+*   [liangpan99/TokenHSI](https://github.com/liangpan99/TokenHSI) - \[CVPR 2025 Oral] TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization
+
+*   [MrZihan/HNR-VLN](https://github.com/MrZihan/HNR-VLN) - Official implementation of Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation (CVPR'24 Highlight).
+
+*   [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
+
+*   [cshizhe/onav\_rim](https://github.com/cshizhe/onav_rim) -
+
+*   [DefaultRui/BEV-Scene-Graph](https://github.com/DefaultRui/BEV-Scene-Graph) - \[ICCV23] Bird’s-Eye-View Scene Graph for Vision-Language Navigation
+
+*   [chen-judge/MapGPT](https://github.com/chen-judge/MapGPT) - \[ACL 24] The official implementation of MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation.
+
+*   [FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match) - Official code for "To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition" CVPR IMW 2025
+
+*   [amaralibey/MixVPR](https://github.com/amaralibey/MixVPR) - MixVPR: Feature Mixing for Visual Place Recognition (WACV 2023)
+
+*   [amaralibey/gsv-cities](https://github.com/amaralibey/gsv-cities) - GSV-Cities: a large-scale dataset for visual place recognition
+
+*   [jiangxinke/Agentic-RAG-R1](https://github.com/jiangxinke/Agentic-RAG-R1) - Agentic RAG R1 Framework via Reinforcement Learning
+
+*   [NVIDIA-AI-IOT/ros2\_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - ROS2 nodes for LLM, VLM, VLA
+
+*   [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen) - 🌍 WorldGen - Generate Any 3D Scene in Seconds
+
+*   [facebookresearch/flow\_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
+
+*   [ybgdgh/L3MVN](https://github.com/ybgdgh/L3MVN) - Leveraging Large Language Models for Visual Target Navigation
+
+*   [ibaiGorordo/vggt-pytorch-inference](https://github.com/ibaiGorordo/vggt-pytorch-inference) - Repository for running the VGGT model in PyTorch
+
+*   [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
+
+*   [DefaultRui/VLN-VER](https://github.com/DefaultRui/VLN-VER) - \[CVPR24] Volumetric Environment Representation for Vision-Language Navigation
+
+*   [pablovela5620/mini-dpvo](https://github.com/pablovela5620/mini-dpvo) -
+
+*   [EricTan7/RAM](https://github.com/EricTan7/RAM) - \[CVPR2025] Official implementation of RAM
+
+*   [Jirl-upenn/VLMnav](https://github.com/Jirl-upenn/VLMnav) - End-to-End Navigation with VLMs
+
+*   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+
+*   [naokiyokoyama/ovon](https://github.com/naokiyokoyama/ovon) - Open Vocabulary Object Navigation
+
+*   [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024)
+
+*   [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
+
+*   [NVlabs/HOVER](https://github.com/NVlabs/HOVER) - HOVER
+
+*   [cvlab-kaist/ZeroCo](https://github.com/cvlab-kaist/ZeroCo) - CVPR 2025 (Highlight) : Official implementation of "Cross-View Completion Models are Zero-shot Correspondence Estimators"
+
+*   [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
+
+*   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
+
+*   [KTH-RPL/OneMap](https://github.com/KTH-RPL/OneMap) - \[ICRA'25] One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation
+
+*   [isri-aist/RoboManipBaselines](https://github.com/isri-aist/RoboManipBaselines) - A software framework integrating various imitation learning methods and benchmark environments for robotic manipulation
+
+*   [AlbertoJaenal/MapAbstractionVPR](https://github.com/AlbertoJaenal/MapAbstractionVPR) - Implementation for Image database abstracion
+
+*   [hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene) - \[CVPR 2025 Highlight] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - Unsupervised time series anomaly detection library
+
+*   [lus6-Jenny/RINGSharp](https://github.com/lus6-Jenny/RINGSharp) - \[IEEE T-RO 2025] RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning.
+
+*   [yuliangguo/depth\_any\_camera](https://github.com/yuliangguo/depth_any_camera) - \[CVPR 2025] Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera
+
+*   [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) - 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes. Accepted at RSS 2025.
+
+*   [apple/ml-matrix3d](https://github.com/apple/ml-matrix3d) - \[CVPR 2025 Highlight] Matrix3D: Large Photogrammetry Model All-in-One
+
+*   [FlagOpen/RoboBrain](https://github.com/FlagOpen/RoboBrain) - \[CVPR 2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Official Repository.
+
+*   [arajv/SayNav](https://github.com/arajv/SayNav) - Grounding Large Language Models for Dynamic Planning to Navigation in New Environments
+
+*   [BAAI-DCAI/SpatialBot](https://github.com/BAAI-DCAI/SpatialBot) - The official repo for "SpatialBot: Precise Spatial Understanding with Vision Language Models.
+
+*   [facebookresearch/RAM](https://github.com/facebookresearch/RAM) - A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
+
+*   [honghd16/GSA-VLN](https://github.com/honghd16/GSA-VLN) - Official repository of General Scene Adaptation for Vision-and-Language Navigation (ICLR'2025)
+
+*   [MarSaKi/ETPNav](https://github.com/MarSaKi/ETPNav) - \[TPAMI 2024] Official repo of "ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments"
+
+*   [Chenkehan21/CA-Nav-code](https://github.com/Chenkehan21/CA-Nav-code) -
+
+*   [CrystalSixone/VLN-GOAT](https://github.com/CrystalSixone/VLN-GOAT) - Repository for Vision-and-Language Navigation via Causal Learning (Accepted by CVPR 2024)
+
+*   [GAMMA-UMD-Outdoor-Navigation/BehAV](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) - BehAV: Behavioral Rule Guided Autonomy Using VLM for Robot Navigation in Outdoor Scenes
+
+*   [dillonloh/AdaVLN](https://github.com/dillonloh/AdaVLN) - IsaacSim Extension for Dynamic Objects in Matterport3D Environments for AdaVLN research
+
+*   [vlmaps/vlmaps](https://github.com/vlmaps/vlmaps) - \[ICRA2023] Implementation of Visual Language Maps for Robot Navigation
+
+*   [GradientSpaces/WildGS-SLAM](https://github.com/GradientSpaces/WildGS-SLAM) - \[CVPR 2025] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments
+
+*   [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+
+*   [zd11024/NaviLLM](https://github.com/zd11024/NaviLLM) - \[CVPR 2024] The code for paper 'Towards Learning a Generalist Model for Embodied Navigation'
+
+*   [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
+
+*   [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
+
+*   [yuancaimaiyi/collaborationSfM](https://github.com/yuancaimaiyi/collaborationSfM) - 众包SfM
+
+*   [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - \[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning.
+
+*   [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
+
+*   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
+
+*   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
+
+*   [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - \[CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
+
+*   [rerun-io/pi0-lerobot](https://github.com/rerun-io/pi0-lerobot) -
+
+*   [yzqin/dexmv-sim](https://github.com/yzqin/dexmv-sim) - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos, ECCV 2022
+
+*   [LSXI7/MINIMA](https://github.com/LSXI7/MINIMA) - \[CVPR 2025] MINIMA: Modality Invariant Image Matching
+
+*   [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Solve Visual Understanding with Reinforced VLMs
+
+*   [shengjun-zhang/GGN](https://github.com/shengjun-zhang/GGN) - \[NeurIPS 2024] Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images
+
+*   [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+
+*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
+
+*   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) - Ray tracing and hybrid rasterization of Gaussian particles
+
+*   [nianticlabs/ace](https://github.com/nianticlabs/ace) - \[CVPR 2023 - Highlight] Accelerated Coordinate Encoding (ACE): Learning to Relocalize in Minutes using RGB and Poses
+
+*   [roomtour3d/roomtour3d-NaviLLM](https://github.com/roomtour3d/roomtour3d-NaviLLM) - \[CVPR 2025] RoomTour3D - Geometry-aware, cheap and automatic data from web videos for embodied navigation
+
+*   [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
+
+*   [PengYu-Team/GEODE\_dataset](https://github.com/PengYu-Team/GEODE_dataset) - Extending the Robustness of LiDAR SLAM to Geometrically Degenerate Scenarios
+
+*   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
+
+*   [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
+
+*   [QVPR/Patch-NetVLAD](https://github.com/QVPR/Patch-NetVLAD) - Code for the CVPR2021 paper "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition"
+
+*   [Xiaoming-Zhao/PointNav-VO](https://github.com/Xiaoming-Zhao/PointNav-VO) - \[ICCV 2021] Official implementation of "The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation"
+
+*   [jiachenzhu/DyT](https://github.com/jiachenzhu/DyT) - Code release for DynamicTanh (DyT)
+
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
+
+*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award Candidate] VGGT: Visual Geometry Grounded Transformer
+
+*   [LeeBY68/Hier-SLAM](https://github.com/LeeBY68/Hier-SLAM) - 🌳 \[ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation
+
+*   [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - Official implementation of the SIGGRAPH 2024 paper "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
+
+*   [ali-vilab/MangaNinjia](https://github.com/ali-vilab/MangaNinjia) - \[CVPR 2025 Highlight] Official implementation of "MangaNinja: Line Art Colorization with Precise Reference Following"
+
+*   [FoundationVision/GLEE](https://github.com/FoundationVision/GLEE) - \[CVPR2024 Highlight]GLEE: General Object Foundation Model for Images and Videos at Scale
+
+*   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
+
+*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
+
+*   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
+
+*   [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
+
+*   [whu-lyh/SaliencyI2PLoc](https://github.com/whu-lyh/SaliencyI2PLoc) - Official code of SaliencyI2PLoc
+
+*   [robot-learning-freiburg/LCDNet](https://github.com/robot-learning-freiburg/LCDNet) - PyTorch code for training LCDNet for loop closure detection in LiDAR SLAM. http://rl.uni-freiburg.de/research/lidar-slam-lc
+
+*   [MarSaKi/VLN-BEVBert](https://github.com/MarSaKi/VLN-BEVBert) - \[ICCV 2023} Official repo of "BEVBert: Multimodal Map Pre-training for Language-guided Navigation"
+
+*   [crepuscularlight/SemanticLoopClosure](https://github.com/crepuscularlight/SemanticLoopClosure) - Master thesis regarding semantic loop closure
+
+*   [Ghiara/LEGION](https://github.com/Ghiara/LEGION) - Official implementation of paper on Nature Machine Intelligence: "Preserving and Combining Knowledge in Robotic Lifelong Reinforcement Learning"
+
+*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
+*   [Zhefan-Xu/isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2) - Unitree Go2 simulation platform for testing navigation, decision-making and autonomous tasks. (NVIDIA Isaac/ROS2)
+
+*   [YicongHong/Recurrent-VLN-BERT](https://github.com/YicongHong/Recurrent-VLN-BERT) - Code of the CVPR 2021 Oral paper: A Recurrent Vision-and-Language BERT for Navigation
+
+*   [gaoxiangjun/Mani-GS](https://github.com/gaoxiangjun/Mani-GS) - \[CVPR' 2025'] Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
+
+*   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025 - Highlight] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
+
+*   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation
+
+*   [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat
+
+*   [JeffLIrion/python-graphslam](https://github.com/JeffLIrion/python-graphslam) - Graph SLAM solver in Python
+
+*   [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+
+*   [vdorbala/LGX](https://github.com/vdorbala/LGX) - Code for LGX (Language Guided Exploration). We use LLMs to perform embodied robot navigation in a zero-shot manner.
+
+*   [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - \[CVPR 2025 Highlight] Real-time dense scene reconstruction with SLAM3R
+
+*   [fanegg/Feat2GS](https://github.com/fanegg/Feat2GS) - \[CVPR2025] Feat2GS: Probing Visual Foundation Models with Gaussian Splatting
+
+*   [MrZihan/Sim2Real-VLN-3DFF](https://github.com/MrZihan/Sim2Real-VLN-3DFF) - Official implementation of Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation  (CoRL'24).
+
+*   [csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR) - \[IEEE RA-L 2025] The official repository for Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers
+
+*   [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - \[CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
+
+*   [XiaohanLei/GaussNav](https://github.com/XiaohanLei/GaussNav) - PyTorch implementation of paper: GaussNav: Gaussian Splatting for Visual Navigation
+
+*   [dmar-bonn/active-gs](https://github.com/dmar-bonn/active-gs) - \[RA-L2025] ActiveGS: Active Scene Reconstruction Using Gaussian Splatting
+
+*   [WU-CVGL/Omni-Scene](https://github.com/WU-CVGL/Omni-Scene) - \[CVPR2025] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction
+
+*   [liw95/LightLoc](https://github.com/liw95/LightLoc) - \[CVPR2025] LightLoc: Learning Outdoor LiDAR Localization at Light Speed
+
+*   [hzxie/GaussianCity](https://github.com/hzxie/GaussianCity) - The official implementation of "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation". (CVPR 2025)
+
+*   [showlab/ShowUI](https://github.com/showlab/ShowUI) - \[CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
+
+*   [iris0329/SeeGround](https://github.com/iris0329/SeeGround) - \[CVPR'25] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding
+
+*   [pengwangucla/DeLS-3D](https://github.com/pengwangucla/DeLS-3D) - The code for DeLS-3D of CVPR 2018
+
+*   [rpng/calc](https://github.com/rpng/calc) - Convolutional Autoencoder for Loop Closure
+
+*   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+
+*   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO 2025] SG-Reg: Generalizable and Efficient Scene Graph Registration
+
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+
+*   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - \[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
+
+*   [AirVLN/AirVLN](https://github.com/AirVLN/AirVLN) -
+
+*   [xuxw98/ESAM](https://github.com/xuxw98/ESAM) - \[ICLR 2025, Oral] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
+
+*   [fishmarch/ROSTools](https://github.com/fishmarch/ROSTools) -
+
+*   [sair-lab/AirCode](https://github.com/sair-lab/AirCode) - AirCode: A Robust Object Encoding Method (RA-L, ICRA 2022)
+
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+*   [url-kaist/MambaGlue](https://github.com/url-kaist/MambaGlue) - MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25
+
+*   [fraunhoferhhi/AT-GS](https://github.com/fraunhoferhhi/AT-GS) - Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
+
+*   [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - YOLOv12: Attention-Centric Real-Time Object Detectors
+
+*   [HKUDS/GraphGPT](https://github.com/HKUDS/GraphGPT) - \[SIGIR'2024] "GraphGPT: Graph Instruction Tuning for Large Language Models"
+
+*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volumetric reconstruction pipeline, integration of depth prediction models, and semantic segmentation for enhanced scene understanding.
+
+*   [wangyizhao/PRIOR-SLAM](https://github.com/wangyizhao/PRIOR-SLAM) - PRIOR-SLAM: Enabling Visual SLAM for Loop Closure under Large Viewpoint Variations
+
+*   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
+
+*   [yuanzhoulvpi2017/vscode\_debug\_transformers](https://github.com/yuanzhoulvpi2017/vscode_debug_transformers) -
+
+*   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
+
+*   [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - \[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
+
+*   [yang-zj1026/VLN-CE-Isaac](https://github.com/yang-zj1026/VLN-CE-Isaac) - Vision-Language Navigation Benchmark in Isaac Lab
+
+*   [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
+
+*   [LYX0501/InstructNav](https://github.com/LYX0501/InstructNav) -
+
+*   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
+
+*   [fudan-zvg/DG-SLAM](https://github.com/fudan-zvg/DG-SLAM) - \[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
+
+*   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
+
+*   [Irvingao/Point-DETR3D](https://github.com/Irvingao/Point-DETR3D) - \[AAAI 2024] Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-Supervised 3D Object Detection
+
+*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
+
+*   [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - \[ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
+
+*   [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) - Daily ArXiv Papers.
+
+*   [microsoft/MoGe](https://github.com/microsoft/MoGe) - \[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
+
+*   [NVlabs/InstantSplat](https://github.com/NVlabs/InstantSplat) - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds
+
+*   [Nanne/pytorch-NetVlad](https://github.com/Nanne/pytorch-NetVlad) - Pytorch implementation of NetVlad including training on Pittsburgh.
+
+*   [VITA-Group/MM3DGS-SLAM](https://github.com/VITA-Group/MM3DGS-SLAM) - \[IROS 2024] MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements
+
+*   [hmz-15/Interactive-Predicate-Learning](https://github.com/hmz-15/Interactive-Predicate-Learning) - InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning (RSS 2024)
+
+*   [google-deepmind/mujoco\_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
+
+*   [Aceinna/gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
+
+*   [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
+
+*   [naver/mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
+
+*   [opendilab/LightZero](https://github.com/opendilab/LightZero) - \[NeurIPS 2023 Spotlight] LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (awesome MCTS)
+
+*   [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
+
+*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
+
+*   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+
+*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 Highlight & ECCV Workshop 24 Best Paper] RoboTwin Dual-arm Robot Manipulation Simulation Platform
+
+*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
+
+*   [MachinePerceptionLab/QQ-SLAM](https://github.com/MachinePerceptionLab/QQ-SLAM) -
+
+*   [YvanYin/Metric3D](https://github.com/YvanYin/Metric3D) - The repo for "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image" and "Metric3Dv2: A Versatile Monocular Geometric Foundation Model..."
+
+*   [modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
+
+*   [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+
+*   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
+
+*   [gramuah/ros4vsn](https://github.com/gramuah/ros4vsn) - Evaluation of Visual Semantic Navigation Models in Real Robots
+
+*   [noodle-lab/GaussianSpa](https://github.com/noodle-lab/GaussianSpa) - Project website: https://noodle-lab.github.io/gaussianspa/
+
+*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+
+*   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
+
+*   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
+
+*   [ayoussf/SuperPoint-PrP](https://github.com/ayoussf/SuperPoint-PrP) -
+
+*   [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
+
+*   [hustvl/DiffusionDrive](https://github.com/hustvl/DiffusionDrive) - \[CVPR 2025 Highlight] Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving
+
+*   [ispc-lab/HRegNet](https://github.com/ispc-lab/HRegNet) - \[ICCV 2021] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration
+
+*   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
+
+*   [TianxingChen/G3Flow](https://github.com/TianxingChen/G3Flow) - \[CVPR 25] G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
+
+*   [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
+
+*   [facebookresearch/neuralfeels](https://github.com/facebookresearch/neuralfeels) - Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation
+
+*   [ori-drs/oxford\_spires\_dataset](https://github.com/ori-drs/oxford_spires_dataset) - Lidar-visual dataset with ground truth 3D map for SLAM/NeRF
+
+*   [blazzbyte/OpenInterpreterUI](https://github.com/blazzbyte/OpenInterpreterUI) - Simplify code execution with Open Interpreter UI Project with Streamlit. A user-friendly GUI for Python, JavaScript, and more. Pay-as-you-go, no subscriptions. Ideal for beginners.
+
+*   [fudan-zvg/gaussian-raytracing](https://github.com/fudan-zvg/gaussian-raytracing) -
+
+*   [ChenYutongTHU/SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - \[ICLR' 25] SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
+
+*   [akawincent/ZED-data-collector](https://github.com/akawincent/ZED-data-collector) - In this project, ZED camera is used to extract image, IMU, pose data and convert them into a dataset format as ground truth for evaluation of other SLAM systems
+
+*   [Parskatt/RoMa](https://github.com/Parskatt/RoMa) - \[CVPR 2024] RoMa: Robust Dense Feature Matching; RoMa is the robust dense feature matcher capable of estimating pixel-dense warps and reliable certainties for almost any image pair.
+
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+
+*   [KwanWaiPang/Gaussian-SLAM\_comment](https://github.com/KwanWaiPang/Gaussian-SLAM_comment) - Gaussian-SLAM的中文注释
+
+*   [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
+
+*   [OpenRobotLab/VLM-Grounder](https://github.com/OpenRobotLab/VLM-Grounder) - \[CoRL 2024] VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding
+
+*   [GREAT-WHU/GREAT-Dataset](https://github.com/GREAT-WHU/GREAT-Dataset) -
+
+*   [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
+
+*   [MisEty/RTG-SLAM](https://github.com/MisEty/RTG-SLAM) - RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting (ACM SIGGRAPH 2024)
+
+*   [Tencent-Hunyuan/Tencent-Hunyuan-Large](https://github.com/Tencent-Hunyuan/Tencent-Hunyuan-Large) -
+
+*   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - \[ICLR'25 Oral] No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
+
+*   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
+
+*   [nv-tlabs/SCube](https://github.com/nv-tlabs/SCube) - \[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats
+
+*   [princeton-vl/RAFT-Stereo](https://github.com/princeton-vl/RAFT-Stereo) -
+
+*   [ChenHoy/DROID-Splat](https://github.com/ChenHoy/DROID-Splat) - End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM) - Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning. http://continual-slam.cs.uni-freiburg.de
+
+*   [ywyeli/Place3D](https://github.com/ywyeli/Place3D) - \[NeurIPS'24 Spotlight] Is Your LiDAR Placement Optimized for 3D Scene Understanding?
+
+*   [TommyZihao/openvino\_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
+
+*   [donydchen/mvsplat](https://github.com/donydchen/mvsplat) - 🌊 \[ECCV'24 Oral] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
+
+*   [songw-zju/LiDAR2Map](https://github.com/songw-zju/LiDAR2Map) - The official implementation of "LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation" (CVPR 2023)
+
+*   [zhaihongjia/SplatLoc](https://github.com/zhaihongjia/SplatLoc) - \[TVCG 2025] SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality
+
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+
+*   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+
+*   [hkchengrex/Cutie](https://github.com/hkchengrex/Cutie) - \[CVPR 2024 Highlight] Putting the Object Back Into Video Object Segmentation
+
+*   [520xyxyzq/3DGS-CD](https://github.com/520xyxyzq/3DGS-CD) - 3DGS-based change detection for physical object rearrangement
+
+*   [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+
+*   [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
+
+*   [Owen718/LongPrompt-LLamaGen](https://github.com/Owen718/LongPrompt-LLamaGen) - This repository provides an improved LLamaGen Model, fine-tuned on 500,000 high-quality images, each accompanied by over 300 token prompts. And it's also powered by additional prompt refining features for improved performance.
+
+*   [openai/improved-diffusion](https://github.com/openai/improved-diffusion) - Release for Improved Denoising Diffusion Probabilistic Models
+
+*   [RuijieZhu94/MotionGS](https://github.com/RuijieZhu94/MotionGS) - \[NeurIPS 2024] MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
+
+*   [hzy46/Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) - 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
+
+*   [StanfordVL/3DSceneGraph](https://github.com/StanfordVL/3DSceneGraph) - The data skeleton from "3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera" http://3dscenegraph.stanford.edu
+
+*   [cvg/depthsplat](https://github.com/cvg/depthsplat) - \[CVPR'25] DepthSplat: Connecting Gaussian Splatting and Depth
+
+*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+
+*   [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) -
+
+*   [jiaoZ7688/YOLOPX](https://github.com/jiaoZ7688/YOLOPX) -
+
+*   [Nightmare-n/DepthAnyVideo](https://github.com/Nightmare-n/DepthAnyVideo) - Depth Any Video with Scalable Synthetic Data (ICLR 2025)
+
+*   [linyicheng1/EdgePoint](https://github.com/linyicheng1/EdgePoint) - EdgePoint: Learning Efficient Keypoint Extraction and Description for Edge Devices
+
+*   [minwoo0611/HeLiOS](https://github.com/minwoo0611/HeLiOS) - \[ICRA2025] HeLiOS: Heterogeneous LiDAR Place Recognition
+
+*   [uzh-rpg/bflow](https://github.com/uzh-rpg/bflow) - Official implementation of "Dense Continuous-Time Optical Flow from Event Cameras"
+
+*   [VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian) - \[NeurIPS 2024 Spotlight]"LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS", Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang
+
+*   [uzh-rpg/deep\_ev\_tracker](https://github.com/uzh-rpg/deep_ev_tracker) - Repository relating to "Data-driven Feature Tracking for Event Cameras" (CVPR, 2023, Award Candidate) and "Data-driven Feature Tracking for Event Cameras with and without Frames" (T-PAMI 2025)
+
+*   [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - \[ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
+
+*   [hustvl/osp](https://github.com/hustvl/osp) - \[ECCV 2024] Occupancy as Set of Points
+
+*   [HuangJunJie2017/BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Code base of the BEVDet series .
+
+*   [city-super/Octree-AnyGS](https://github.com/city-super/Octree-AnyGS) - Octree-GS
+
+*   [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
+
+*   [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+
+*   [yifanlu0227/ChatSim](https://github.com/yifanlu0227/ChatSim) - \[CVPR2024 Highlight] Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration
+
+*   [cjy1992/interp-e2e-driving](https://github.com/cjy1992/interp-e2e-driving) - Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning
+
+*   [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
+
+*   [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - \[CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
+
+*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
+*   [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
+
+*   [PeidongLi/SSR](https://github.com/PeidongLi/SSR) - \[ICLR 2025] The official implementation of SSR
+
+*   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
+
+*   [hanyangyu1021/LMGaussian](https://github.com/hanyangyu1021/LMGaussian) - official implementation of LM-Gaussian
+
+*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+*   [eth-ait/GaussianHaircut](https://github.com/eth-ait/GaussianHaircut) - Gaussian Haircut: Human Hair Reconstruction with Strand-Aligned 3D Gaussians
+
+*   [pyg-team/pytorch-frame](https://github.com/pyg-team/pytorch-frame) - Tabular Deep Learning Library for PyTorch
+
+*   [jkulhanek/wild-gaussians](https://github.com/jkulhanek/wild-gaussians) - \[NeurIPS'24] WildGaussians: 3D Gaussian Splatting In the Wild
+
+*   [bassamlab/SigmaRL](https://github.com/bassamlab/SigmaRL) - SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning
+
+*   [DLR-MI/UTrack](https://github.com/DLR-MI/UTrack) - Multi-Object Tracking with Uncertain Detections \[ECCV 2024 UnCV]
+
+*   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
+
+*   [TempleRAIL/drl\_vo\_nav](https://github.com/TempleRAIL/drl_vo_nav) - \[T-RO 2023] DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity Obstacles
+
+*   [lucasbrynte/gasfm](https://github.com/lucasbrynte/gasfm) - Implementation of the CVPR 2024 paper "Learning Structure-from-Motion with Graph Attention Networks".
+
+*   [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - \[CVPR 2024] Learning Occupancy for Monocular 3D Object Detection
+
+*   [zhangganlin/GlORIE-SLAM](https://github.com/zhangganlin/GlORIE-SLAM) - GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM
+
+*   [jbriales/rgbd\_benchmark\_tools](https://github.com/jbriales/rgbd_benchmark_tools) - Tools for TUM RGBD Dataset Benchmark
+
+*   [yastrebksv/TennisProject](https://github.com/yastrebksv/TennisProject) - Tennis analysis using deep learning and machine learning
+
+*   [cvg/GeoCalib](https://github.com/cvg/GeoCalib) - GeoCalib: Learning Single-image Calibration with Geometric Optimization (ECCV 2024)
+
+*   [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.
+
+*   [lus6-Jenny/RING](https://github.com/lus6-Jenny/RING) - \[IEEE T-RO 2023] Source code of RING and RING++ for loop closure detection in LiDAR SLAM.
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [GANWANSHUI/GaussianOcc](https://github.com/GANWANSHUI/GaussianOcc) - GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
+
+*   [GradientSpaces/LoopSplat](https://github.com/GradientSpaces/LoopSplat) - \[3DV 2025, Oral] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
+
+*   [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
+
+*   [hjr37/CP-SLAM](https://github.com/hjr37/CP-SLAM) - CP-SLAM: Collaborative Neural Point-based SLAM
+
+*   [cvg/nicer-slam](https://github.com/cvg/nicer-slam) - \[3DV'24 Best Paper Honorable Mention] NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM
+
+*   [lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal Monocular Metric Depth Estimation
+
+*   [JeongminB/E-D3DGS](https://github.com/JeongminB/E-D3DGS) - \[ECCV 2024] Official repository for "Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting"
+
+*   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
+
+*   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
+
+*   [IPNL-POLYU/UrbanNavDataset](https://github.com/IPNL-POLYU/UrbanNavDataset) - UrbanNav:An Open-sourced Multisensory Dataset for Benchmarking Positioning Algorithms Designed for Urban Areas
+
+*   [YuxueYang1204/TrimGS](https://github.com/YuxueYang1204/TrimGS) - Trim 3D Gaussian Splatting for Accurate Geometry Representation
+
+*   [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+*   [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
+
+*   [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (ICRA'24)
+
+*   [liuyuan-pal/SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - \[ICLR 2024 Spotlight] SyncDreamer: Generating Multiview-consistent Images from a Single-view Image
+
+*   [fudan-zvg/4d-gaussian-splatting](https://github.com/fudan-zvg/4d-gaussian-splatting) - \[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
+
+*   [eriksandstroem/Loopy-SLAM](https://github.com/eriksandstroem/Loopy-SLAM) -
+
+*   [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - \[CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
+
+*   [yanyan-li/GeoGaussian](https://github.com/yanyan-li/GeoGaussian) - GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering
+
+*   [Parskatt/DeDoDe](https://github.com/Parskatt/DeDoDe) - \[3DV 2024 Oral] DeDoDe 🎶 Detect, Don't Describe --- Describe, Don't Detect, for Local Feature Matching
+
+*   [ericzzj1989/BALF](https://github.com/ericzzj1989/BALF) - \[WACV 2024] BALF: Simple and Efficient Blur Aware Local Feature Detector
+
+*   [lyakaap/NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch) - PyTorch implementation of NetVLAD & Online Hardest Triplet Loss.
+
+*   [xiaobiaodu/DreamCar](https://github.com/xiaobiaodu/DreamCar) - \[RA-L] DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction
+
+*   [nianticlabs/acezero](https://github.com/nianticlabs/acezero) - \[ECCV 2024 - Oral] ACE0 is a learning-based structure-from-motion approach that estimates camera parameters of sets of images by learning a multi-view consistent, implicit scene representation.
+
+*   [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
+
+*   [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
+
+*   [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
+
+*   [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+
+*   [tarashakhurana/4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting) - CVPR 2023: Official code for \`Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'
+
+*   [uoip/stereo\_msckf](https://github.com/uoip/stereo_msckf) - Python implementation of Multi-State Constraint Kalman Filter (MSCKF) for Vision-aided Inertial Navigation.
+
+*   [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - \[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
+
+*   [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
+
+*   [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - \[ICCV 2023] OccNet: Scene as Occupancy
+
+*   [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) -
+
+*   [ViewFormerOcc/ViewFormer-Occ](https://github.com/ViewFormerOcc/ViewFormer-Occ) - \[ECCV 2024] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers
+
+*   [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - \[ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
+
+*   [VISION-SJTU/SparseOcc](https://github.com/VISION-SJTU/SparseOcc) - Official implementation for 'SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction' (CVPR 2024)
+
+*   [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - \[ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
+
+*   [autonomousvision/occupancy\_networks](https://github.com/autonomousvision/occupancy_networks) - This repository contains the code for the paper "Occupancy Networks - Learning 3D Reconstruction in Function Space"
+
+*   [SY-007-Research/3dgs\_render\_python](https://github.com/SY-007-Research/3dgs_render_python) -
+
+*   [Ferry-Li/SI-SOD](https://github.com/Ferry-Li/SI-SOD) - ICML2024: Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection
+
+*   [Ferry-Li/SI\_Metric](https://github.com/Ferry-Li/SI_Metric) - A portable computation of Size-Invariant Metrics for ICML2024: Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection
+
+*   [autonomousvision/mip-splatting](https://github.com/autonomousvision/mip-splatting) - \[CVPR'24 Best Student Paper] Mip-Splatting: Alias-free 3D Gaussian Splatting
+
+*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching webui
+
+*   [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - \[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
+
+*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+*   [rvp-group/vbr-devkit](https://github.com/rvp-group/vbr-devkit) - Vision Benchmark in Rome Development Kit
+
+*   [utiasSTARS/pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data.
+
+*   [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - \[ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
+
+*   [TQTQliu/MVSGaussian](https://github.com/TQTQliu/MVSGaussian) - \[ECCV 2024] MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
+
+*   [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - \[ICLR 2025] From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers"
+
+*   [swc-17/SparseDrive](https://github.com/swc-17/SparseDrive) - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
+
+*   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
+
+*   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
+
+*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
+
+*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
+
+*   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
+
+*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+
+*   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
+
+*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+
+*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
+*   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
+
+*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
+
+*   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
+
+*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
+
+## CMake
+
+*   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
+
+*   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
+
+## HTML
+
+*   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+
+*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
+
+*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## Jupyter Notebook
 
