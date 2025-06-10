@@ -45,6 +45,8 @@
 
 ## C++
 
+*   [NVIDIA-ISAAC-ROS/isaac\_ros\_pose\_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) - Deep learned, NVIDIA-accelerated 3D object pose estimation
+
 *   [chengwei0427/ESKF\_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast\_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
 
 *   [Mechazo11/ros2\_orb\_slam3](https://github.com/Mechazo11/ros2_orb_slam3) - A ROS2 Humble package natively implementing ORB-SLAM3 V1.0 VSLAM framework
@@ -273,7 +275,7 @@
 
 *   [google/minja](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates
 
-*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - eKalibr: Event Camera Calibration Framework
+*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - \[IEEE RA-L 2025] eKalibr: Event Camera Calibration Framework
 
 *   [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 
@@ -348,6 +350,8 @@
 *   [Yaepiii/C-LOAM](https://github.com/Yaepiii/C-LOAM) - A Compact LiDAR Odometry and Mapping with Dynamic Removal \[ICUS 2024]
 
 *   [Yaepiii/TRLO](https://github.com/Yaepiii/TRLO) - \[T-IM 2025] TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal
+
+*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 *   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
 
@@ -557,11 +561,11 @@
 
 *   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
 
-*   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
-
-*   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
-
 ## Python
+
+*   [B0B8K1ng/WMNavigation](https://github.com/B0B8K1ng/WMNavigation) -
+
+*   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) -
 
 *   [mit-han-lab/nunchaku](https://github.com/mit-han-lab/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 
@@ -1289,8 +1293,6 @@
 
 *   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 
-*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
-
 ## CMake
 
 *   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
@@ -1766,8 +1768,6 @@
 *   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
-
-*   [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 
 ## Shell
 
