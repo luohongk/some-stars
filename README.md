@@ -1223,7 +1223,7 @@
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
-*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 Highlight & ECCV Workshop 24 Best Paper] RoboTwin Dual-arm Robot Manipulation Simulation Platform
+*   [TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin) - \[CVPR 25 Highlight & ECCV 24 Workshop Best Paper] RoboTwin Dual-arm Robot Manipulation Simulation Platform
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
