@@ -537,7 +537,7 @@
 
 *   [Irvingao/Point-DETR3D](https://github.com/Irvingao/Point-DETR3D) - \[AAAI 2024] Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-Supervised 3D Object Detection
 
-*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
+*   [luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) - 📚这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
 
 *   [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - \[ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 
@@ -912,8 +912,6 @@
 *   [Titrom025/LEG-SLAM](https://github.com/Titrom025/LEG-SLAM) -
 
 *   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [cchester25/FAST\_LIVO2\_Noted](https://github.com/cchester25/FAST_LIVO2_Noted) - 从小白的视角去分析多源融合SLAM的SOTA框架
 
@@ -1341,7 +1339,7 @@
 
 *   [lovelyyoshino/FAST\_LIO2\_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted) - FAST\_LIO2\_Noted 中文注释版
 
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - \[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - 📖\[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)
 
 *   [linyicheng1/ceres-example](https://github.com/linyicheng1/ceres-example) - some ceres examples with notes
 
@@ -1670,6 +1668,8 @@
 ## HTML
 
 *   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
 
