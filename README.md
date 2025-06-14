@@ -367,6 +367,8 @@
 
 *   [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 
+*   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - 2D Gaussian Splatting based LiDAR Odometry And Mapping
+
 *   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
 
 *   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
@@ -950,8 +952,6 @@
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
 
 *   [aikit-wrc/robosense\_ac\_slam](https://github.com/aikit-wrc/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
-
-*   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - 2D Gaussian Splatting based LiDAR Odometry And Mapping
 
 *   [yanyan-li/4DGS-SLAM](https://github.com/yanyan-li/4DGS-SLAM) - Instead of removing dynamic objects as distractors and reconstructing only static environments, this paper proposes an efficient architecture that incrementally tracks camera poses and establishes the 4D Gaussian radiance fields in unknown scenarios by using a sequence of RGB-D images.
 
