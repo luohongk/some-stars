@@ -63,7 +63,7 @@
 
 *   [Physical-Intelligence/real-time-chunking-kinetix](https://github.com/Physical-Intelligence/real-time-chunking-kinetix) - Simulated experiments for "Real-Time Execution of Action Chunking Flow Policies".
 
-*   [B0B8K1ng/WMNavigation](https://github.com/B0B8K1ng/WMNavigation) -
+*   [B0B8K1ng/WMNavigation](https://github.com/B0B8K1ng/WMNavigation) - \[IROS'25 Oral] WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation
 
 *   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) -
 
