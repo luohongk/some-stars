@@ -45,6 +45,8 @@
 
 ## miscellaneous
 
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
+
 *   [Robotics-STAR-Lab/DynamicPose](https://github.com/Robotics-STAR-Lab/DynamicPose) - \[IROS 2025] DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects
 
 *   [buaa-colalab/OctoNav-R1](https://github.com/buaa-colalab/OctoNav-R1) - Code for OctoNav-R1
@@ -291,9 +293,9 @@
 
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
 ## Python
+
+*   [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 
 *   [jzhzhang/3DAwareNav](https://github.com/jzhzhang/3DAwareNav) - \[CVPR 2023] We propose a framework for the challenging 3D-aware ObjectNav based on two straightforward sub-policies. The two sub-polices, namely corner-guided exploration policy and category-aware identification policy, simultaneously perform by utilizing online fused 3D points as observation.
 
@@ -1255,7 +1257,7 @@
 
 *   [HKUST-Aerial-Robotics/FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON) - \[T-RO 2024] FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance.
 
-*   [Happy-ZZX/PL-VIWO](https://github.com/Happy-ZZX/PL-VIWO) -  Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry
+*   [Happy-ZZX/PL-VIWO](https://github.com/Happy-ZZX/PL-VIWO) - (IROS2025) Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry
 
 *   [RoboSense-Robotics/robosense\_ac\_slam](https://github.com/RoboSense-Robotics/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 
@@ -1657,8 +1659,6 @@
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
 
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
-
 ## CMake
 
 *   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
@@ -1672,6 +1672,8 @@
 *   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
 
@@ -1690,8 +1692,6 @@
 *   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 
