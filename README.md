@@ -805,6 +805,8 @@
 
 *   [nianticlabs/ace](https://github.com/nianticlabs/ace) - \[CVPR 2023 - Highlight] Accelerated Coordinate Encoding (ACE): Learning to Relocalize in Minutes using RGB and Poses
 
+*   [sunfanyunn/LayoutVLM](https://github.com/sunfanyunn/LayoutVLM) - Official code for "LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models" (CVPR 2025)
+
 *   [roomtour3d/roomtour3d-NaviLLM](https://github.com/roomtour3d/roomtour3d-NaviLLM) - \[CVPR 2025] RoomTour3D - Geometry-aware, cheap and automatic data from web videos for embodied navigation
 
 *   [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
@@ -1358,8 +1360,6 @@
 *   [aikit-wrc/robosense\_ac\_slam](https://github.com/aikit-wrc/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 
 *   [yanyan-li/4DGS-SLAM](https://github.com/yanyan-li/4DGS-SLAM) - Instead of removing dynamic objects as distractors and reconstructing only static environments, this paper proposes an efficient architecture that incrementally tracks camera poses and establishes the 4D Gaussian radiance fields in unknown scenarios by using a sequence of RGB-D images.
-
-*   [sunfanyunn/LayoutVLM](https://github.com/sunfanyunn/LayoutVLM) - Official code for "LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models" (CVPR 2025)
 
 *   [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources.
 
