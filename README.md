@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [LeCAR-Lab/ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
+
 *   [zhaihongjia/PanoGS](https://github.com/zhaihongjia/PanoGS) - \[CVPR 2025] PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding
 
 *   [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -788,8 +790,6 @@
 *   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
 
 *   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
-
-*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
 
 ## C++
 
