@@ -921,6 +921,8 @@
 
 *   [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
+*   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - \[IROS 2025] A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
+
 *   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 2025] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
 
 *   [SHAILAB-IPEC/OpenFly-Platform](https://github.com/SHAILAB-IPEC/OpenFly-Platform) -
@@ -1368,8 +1370,6 @@
 *   [peakpang/UGP](https://github.com/peakpang/UGP) - \[CVPR 2025 Highlight] Unlocking Generalization Power in LiDAR Point Cloud Registration
 
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-
-*   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
 
 *   [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 
