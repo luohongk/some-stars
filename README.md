@@ -551,7 +551,7 @@
 
 *   [cvg/NoPoSplat](https://github.com/cvg/NoPoSplat) - \[ICLR'25 Oral] No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
 
-*   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
+*   [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - \[IROS2025]This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 
 *   [nv-tlabs/SCube](https://github.com/nv-tlabs/SCube) - \[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats
 
@@ -1227,7 +1227,7 @@
 
 *   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀
 
-*   [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
+*   [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - \[TPAMI 2025] Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 
 *   [CG050523/PPP-Navigation](https://github.com/CG050523/PPP-Navigation) - 伪距单点定位程序实现，仅学习使用
 
