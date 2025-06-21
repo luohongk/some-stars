@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [3DTopia/MaterialAnything](https://github.com/3DTopia/MaterialAnything) - \[CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion
+
 *   [LeCAR-Lab/ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
 
 *   [zhaihongjia/PanoGS](https://github.com/zhaihongjia/PanoGS) - \[CVPR 2025] PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding
@@ -795,6 +797,8 @@
 
 ## C++
 
+*   [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - \[IROS'25] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
+
 *   [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - \[ICRA 2025] A MultiModal Mapping (M2Mapping) Framework for Neural Surface Reconstruction and Novel View Synthesis with LiDAR-Visual Systems
 
 *   [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
@@ -1296,10 +1300,6 @@
 *   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
 
 *   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
-
-*   [yuefanhao/SuperPoint-SuperGlue-TensorRT](https://github.com/yuefanhao/SuperPoint-SuperGlue-TensorRT) - SuperPoint and SuperGlue with TensorRT. Deploy with C++.
-
-*   [kajo-kurisu/D\_VINS](https://github.com/kajo-kurisu/D_VINS) - Merge superpoint、lightglue、MixVPR into VINS-FUSION for loop closure with TensorRT
 
 ## miscellaneous
 
