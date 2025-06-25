@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [PRBonn/PINGS](https://github.com/PRBonn/PINGS) - 📌 PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map \[RSS' 25]
+
 *   [Tencent/DepthCrafter](https://github.com/Tencent/DepthCrafter) - \[CVPR 2025 Highlight] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos
 
 *   [siyuhsu/vla-cache](https://github.com/siyuhsu/vla-cache) - Official implementation of paper "VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation"
@@ -235,7 +237,7 @@
 
 *   [hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene) - \[CVPR 2025 Highlight] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
 
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 *   [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - Unsupervised time series anomaly detection library
 
@@ -1357,7 +1359,7 @@
 
 *   [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
 
-*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Implementation for "Rectified Point Flow: Generic Point Cloud Pose Estimation"
+*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow: Generic Point Cloud Pose Estimation
 
 *   [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥
 
@@ -1588,8 +1590,6 @@
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
 
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
 ## Jupyter Notebook
 
