@@ -53,6 +53,8 @@
 
 *   [ut-amrl/creste\_public](https://github.com/ut-amrl/creste_public) - \[RSS 2025] CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance
 
+*   [JohannaXie/GauSS-MI](https://github.com/JohannaXie/GauSS-MI) - \[RSS 2025] GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction
+
 *   [hnuzhy/YOTO](https://github.com/hnuzhy/YOTO) - \[RSS2025] Code for my paper "You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations"
 
 *   [Qi-Zhangyang/GPT4Scene-and-VLN-R1](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1) - GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models
@@ -357,7 +359,7 @@
 
 *   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
 
-*   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
+*   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything \[ICCV 2025]
 
 *   [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
 
@@ -870,8 +872,6 @@
 ## miscellaneous
 
 *   [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
-
-*   [JohannaXie/GauSS-MI](https://github.com/JohannaXie/GauSS-MI) - \[RSS 2025] GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction
 
 *   [tsinghua-fib-lab/Mem4Nav](https://github.com/tsinghua-fib-lab/Mem4Nav) - Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System
 
