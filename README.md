@@ -513,7 +513,7 @@
 
 *   [YvanYin/Metric3D](https://github.com/YvanYin/Metric3D) - The repo for "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image" and "Metric3Dv2: A Versatile Monocular Geometric Foundation Model..."
 
-*   [modelscope/modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
+*   [modelscope/ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: Lightweight Framework for Empowering Agents with Autonomous Exploration
 
 *   [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 
@@ -1075,7 +1075,7 @@
 
 *   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - \[AAAI 2025] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
 
-*   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
+*   [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving(LLM4AD) resources (continually updated)
 
 *   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
 
