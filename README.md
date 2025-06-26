@@ -357,8 +357,6 @@
 
 *   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
 
-*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
-
 *   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
 
 *   [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
@@ -703,7 +701,7 @@
 
 *   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
-*   [GANWANSHUI/GaussianOcc](https://github.com/GANWANSHUI/GaussianOcc) - GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
+*   [GANWANSHUI/GaussianOcc](https://github.com/GANWANSHUI/GaussianOcc) - (ICCV 2025) GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
 
 *   [GradientSpaces/LoopSplat](https://github.com/GradientSpaces/LoopSplat) - \[3DV 2025, Oral] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
 
@@ -1818,6 +1816,8 @@
 *   [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond
 
 *   [HCPLab-SYSU/LH-VLN](https://github.com/HCPLab-SYSU/LH-VLN) - Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method (CVPR-25)
+
+*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
 
 *   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
