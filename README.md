@@ -67,7 +67,7 @@
 
 *   [siyuhsu/vla-cache](https://github.com/siyuhsu/vla-cache) - Official implementation of paper "VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation"
 
-*   [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
+*   [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
 
 *   [3DTopia/MaterialAnything](https://github.com/3DTopia/MaterialAnything) - \[CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion
 
