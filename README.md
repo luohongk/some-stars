@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [zst1406217/VR-Robo](https://github.com/zst1406217/VR-Robo) - \[RA-L 2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion
+
 *   [ML-GSAI/LLaDA-V](https://github.com/ML-GSAI/LLaDA-V) -
 
 *   [MIT-SPARK/Clio](https://github.com/MIT-SPARK/Clio) -
@@ -866,8 +868,6 @@
 *   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 
 *   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
-
-*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
 
 ## TypeScript
 
