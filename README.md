@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [ML-GSAI/LLaDA-V](https://github.com/ML-GSAI/LLaDA-V) -
+
+*   [MIT-SPARK/Clio](https://github.com/MIT-SPARK/Clio) -
+
 *   [hovsg/HOV-SG](https://github.com/hovsg/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation"
 
 *   [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
@@ -864,10 +868,6 @@
 *   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
 
 *   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
-
-*   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
-
-*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
 
 ## TypeScript
 
