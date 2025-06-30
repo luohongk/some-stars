@@ -131,6 +131,8 @@
 
 *   [Eku127/DualMap](https://github.com/Eku127/DualMap) - Public release of our paper DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes
 
+*   [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
+
 *   [lichunshang/deep\_ekf\_vio](https://github.com/lichunshang/deep_ekf_vio) -
 
 *   [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation
@@ -930,8 +932,6 @@
 *   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow: Generic Point Cloud Pose Estimation
 
 *   [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥
-
-*   [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
 
 *   [Titrom025/LEG-SLAM](https://github.com/Titrom025/LEG-SLAM) -
 
