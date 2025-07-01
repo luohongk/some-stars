@@ -949,6 +949,8 @@
 
 *   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
 
+*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
+
 *   [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything \[ICCV 2025]
 
 *   [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
@@ -1507,7 +1509,7 @@
 
 *   [LiHaoy-ux/MLINE-VINS](https://github.com/LiHaoy-ux/MLINE-VINS) -
 
-*   [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - \[Actively Maintained🔥] A list of Embodied AI papers accepted by top conferences papers (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
+*   [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - \[Actively Maintained🔥] A list of Embodied AI papers accepted by top conferences (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
 
 *   [iceberg1369/PPPLib\_v2.0](https://github.com/iceberg1369/PPPLib_v2.0) -
 
@@ -1824,8 +1826,6 @@
 *   [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond
 
 *   [HCPLab-SYSU/LH-VLN](https://github.com/HCPLab-SYSU/LH-VLN) - Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method (CVPR-25)
-
-*   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
 
 *   [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
