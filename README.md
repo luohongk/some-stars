@@ -133,6 +133,8 @@
 
 *   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
 
+*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow: Generic Point Cloud Pose Estimation
+
 *   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
 
 *   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
@@ -1590,8 +1592,6 @@
 *   [PRBonn/2DGS-SLAM](https://github.com/PRBonn/2DGS-SLAM) - 2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting
 
 *   [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
-
-*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow: Generic Point Cloud Pose Estimation
 
 *   [Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥
 
