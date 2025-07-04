@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Python](#python)
+*   [JavaScript](#javascript)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
@@ -43,29 +43,9 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
-## JavaScript
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-*   [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
-
-*   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-*   [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-
-*   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
-
-*   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
 ## Python
+
+*   [FlagOpen/RoboBrain2.0](https://github.com/FlagOpen/RoboBrain2.0) - RoboBrain 2.0: Advanced version of RoboBrain. See Better. Think Harder. Do Smarter. 🎉🎉🎉
 
 *   [unitreerobotics/unitree\_rl\_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 
@@ -174,8 +154,6 @@
 *   [lichunshang/deep\_ekf\_vio](https://github.com/lichunshang/deep_ekf_vio) -
 
 *   [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers
 
@@ -705,8 +683,6 @@
 
 *   [cjy1992/interp-e2e-driving](https://github.com/cjy1992/interp-e2e-driving) - Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning
 
-*   [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
-
 *   [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - \[CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
 
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -900,6 +876,28 @@
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
 
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+
+## JavaScript
+
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+*   [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
+
+*   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+*   [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+
+*   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
+
+*   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
+
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 
 ## C++
 
@@ -1557,6 +1555,8 @@
 
 *   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
 
+*   [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
+
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
 *   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
@@ -1586,8 +1586,6 @@
 *   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
 *   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 
 ## miscellaneous
 
@@ -1936,6 +1934,8 @@
 ## HTML
 
 *   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
 
