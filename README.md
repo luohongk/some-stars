@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [Python](#python)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -43,23 +43,9 @@
 *   [Java](#java)
 *   [Vim Script](#vim-script)
 
-## Shell
-
-*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
-
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
-
-*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
-
 ## Python
+
+*   [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - \[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
 
 *   [FlagOpen/RoboBrain2.0](https://github.com/FlagOpen/RoboBrain2.0) - RoboBrain 2.0: Advanced version of RoboBrain. See Better. Think Harder. Do Smarter. 🎉🎉🎉
 
@@ -893,6 +879,22 @@
 
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 
+## Shell
+
+*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
+
+*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
+
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
+
 ## JavaScript
 
 *   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
@@ -1484,8 +1486,6 @@
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
-*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
 
 ## Jupyter Notebook
 
