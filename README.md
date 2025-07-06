@@ -143,7 +143,7 @@
 
 *   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
 
-*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow: Generic Point Cloud Pose Estimation
+*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow - Assemble unposed parts into complete objects by learning a point-wise flow model.
 
 *   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
 
