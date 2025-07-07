@@ -601,7 +601,7 @@
 
 *   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - 2D Gaussian Splatting based LiDAR Odometry And Mapping
 
-*   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
+*   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025 Best Paper] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
 
 *   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
 
