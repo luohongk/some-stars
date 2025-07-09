@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [HorizonRobotics/EmbodiedGen](https://github.com/HorizonRobotics/EmbodiedGen) - Towards a Generative 3D World Engine for Embodied Intelligence
+
 *   [yang-zj1026/legged-loco](https://github.com/yang-zj1026/legged-loco) - Low-level locomotion policy training in Isaac Lab
 
 *   [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.
@@ -1996,8 +1998,6 @@
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 *   [mahoshojo0805/ContestPrograms](https://github.com/mahoshojo0805/ContestPrograms) - 测绘技能大赛程序
-
-*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 
 ## MATLAB
 
