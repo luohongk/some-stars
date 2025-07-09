@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.
+
 *   [bytedance/F-16](https://github.com/bytedance/F-16) - F-16 is a powerful video large language model (LLM) that perceives high-frame-rate videos, which is developed by the Department of Electronic Engineering at Tsinghua University and ByteDance.
 
 *   [OpenRobotLab/StreamVLN](https://github.com/OpenRobotLab/StreamVLN) - Official implementation of the paper: "StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling"
@@ -1148,8 +1150,6 @@
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-
-*   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
 
 ## Shell
 
