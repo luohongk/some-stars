@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [yang-zj1026/legged-loco](https://github.com/yang-zj1026/legged-loco) - Low-level locomotion policy training in Isaac Lab
+
 *   [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.
 
 *   [bytedance/F-16](https://github.com/bytedance/F-16) - F-16 is a powerful video large language model (LLM) that perceives high-frame-rate videos, which is developed by the Department of Electronic Engineering at Tsinghua University and ByteDance.
@@ -566,8 +568,6 @@
 *   [noodle-lab/GaussianSpa](https://github.com/noodle-lab/GaussianSpa) - Project website: https://noodle-lab.github.io/gaussianspa/
 
 *   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-
-*   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
 
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
