@@ -649,8 +649,6 @@
 
 *   [Titrom025/LEG-SLAM](https://github.com/Titrom025/LEG-SLAM) -
 
-*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
-
 *   [cchester25/FAST\_LIVO2\_Noted](https://github.com/cchester25/FAST_LIVO2_Noted) - 从小白的视角去分析多源融合SLAM的SOTA框架
 
 *   [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
@@ -1772,6 +1770,8 @@
 *   [Zeying-Gong/ascent](https://github.com/Zeying-Gong/ascent) -
 
 *   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 
 *   [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
 
