@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [ColinQiyangLi/qc](https://github.com/ColinQiyangLi/qc) -
+
 *   [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 
 *   [DengKaiCQ/VGGT-Long](https://github.com/DengKaiCQ/VGGT-Long) - Official implement of VGGT-Long
@@ -1774,8 +1776,6 @@
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 
 *   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
-
-*   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 
 ## Shell
 
