@@ -135,7 +135,7 @@
 
 *   [Fanqi-Lin/OneTwoVLA](https://github.com/Fanqi-Lin/OneTwoVLA) - Official implementation of "OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning"
 
-*   [realcrane/3D-student-splatting-and-scooping](https://github.com/realcrane/3D-student-splatting-and-scooping) - This is the source code of our CVPR 2025 Oral paper: 3D Student Splatting and Scooping
+*   [realcrane/3D-student-splatting-and-scooping](https://github.com/realcrane/3D-student-splatting-and-scooping) - This is the source code of our CVPR 2025 Best Paper Honourable Mention paper: 3D Student Splatting and Scooping
 
 *   [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R\&D process.
 
