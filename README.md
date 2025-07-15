@@ -519,6 +519,8 @@
 
 *   [DavideCatto/XFeat-ONNX](https://github.com/DavideCatto/XFeat-ONNX) -
 
+*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
+
 *   [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - \[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
 
 *   [yang-zj1026/VLN-CE-Isaac](https://github.com/yang-zj1026/VLN-CE-Isaac) - Vision-Language Navigation Benchmark in Isaac Lab
@@ -643,7 +645,7 @@
 
 *   [ChenHoy/DROID-Splat](https://github.com/ChenHoy/DROID-Splat) - End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering
 
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
 *   [robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM) - Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning. http://continual-slam.cs.uni-freiburg.de
 
@@ -1244,8 +1246,6 @@
 *   [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
 
 *   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
-
-*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
 
 *   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
 
