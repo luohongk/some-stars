@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
+
 *   [leandro-svg/HybridTrack](https://github.com/leandro-svg/HybridTrack) - \[RA-L25/ICRA26] HybridTrack: A Hybrid Approach for Robust Multi-Object Tracking
 
 *   [wencan25/Fast3D](https://github.com/wencan25/Fast3D) - \[ACM MM 2025] Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding
@@ -1562,8 +1564,6 @@
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
 
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
-*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 
 ## JavaScript
 
