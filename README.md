@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [leandro-svg/HybridTrack](https://github.com/leandro-svg/HybridTrack) - \[RA-L25/ICRA26] HybridTrack: A Hybrid Approach for Robust Multi-Object Tracking
+
 *   [wencan25/Fast3D](https://github.com/wencan25/Fast3D) - \[ACM MM 2025] Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding
 
 *   [Selen-Suyue/MBA](https://github.com/Selen-Suyue/MBA) - \[RA-L 2025] :kissing\_cat: Motion Before Action: Diffusing Object Motion as Manipulation Condition
@@ -161,7 +163,7 @@
 
 *   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) -
 
-*   [mit-han-lab/nunchaku](https://github.com/mit-han-lab/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+*   [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 
 *   [OpenRobotLab/NavDP](https://github.com/OpenRobotLab/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
 
@@ -888,8 +890,6 @@
 *   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
 *   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
-
-*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
 
 ## Jupyter Notebook
 
