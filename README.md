@@ -743,7 +743,7 @@
 
 *   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 
-*   [Eku127/DualMap](https://github.com/Eku127/DualMap) - An online open-vocabulary mapping system designed for dynamic environments. It enables natural language querying and supports both ROS1 and ROS2
+*   [Eku127/DualMap](https://github.com/Eku127/DualMap) - An online open-vocabulary mapping system designed for navigating in dynamic environments. It enables natural language querying and supports both ROS1 and ROS2
 
 *   [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
 
