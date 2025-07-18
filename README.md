@@ -235,6 +235,8 @@
 
 *   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
+*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+
 *   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 *   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Super Tightly Coupled Visual-Inertial State Estimator
@@ -1048,8 +1050,6 @@
 *   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 
 *   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO 2025] SG-Reg: Generalizable and Efficient Scene Graph Registration
-
-*   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
 *   [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - \[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 
