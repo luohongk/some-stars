@@ -709,7 +709,7 @@
 
 *   [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R\&D process.
 
-*   [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+*   [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 
 *   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
@@ -925,7 +925,7 @@
 
 *   [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 
-*   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - 2D Gaussian Splatting based LiDAR Odometry And Mapping
+*   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - \[ICCV 25] 2D Gaussian Splatting based LiDAR Odometry And Mapping
 
 *   [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - \[ICRA 2025 Best Paper] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
 
