@@ -787,7 +787,7 @@
 
 *   [OpenDriveLab/UniVLA](https://github.com/OpenDriveLab/UniVLA) - \[RSS 2025] Learning to Act Anywhere with Task-centric Latent Actions
 
-*   [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o) -
+*   [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o) - Official implementation of BLIP3o
 
 *   [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 
