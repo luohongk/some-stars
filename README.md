@@ -107,6 +107,8 @@
 
 *   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
+*   [sjtuyinjie/Ground-Fusion2](https://github.com/sjtuyinjie/Ground-Fusion2) - Ground-Fusion++: a modular sensor-fusion SLAM system(IROS2025)
+
 *   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 
 *   [jiachengliu3/WBC\_Deploy](https://github.com/jiachengliu3/WBC_Deploy) - VR-based Robot Teleoperation and Data Collection System for Unitree G1
@@ -1650,8 +1652,6 @@
 *   [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
 
 *   [tsinghua-fib-lab/Mem4Nav](https://github.com/tsinghua-fib-lab/Mem4Nav) - Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System
-
-*   [sjtuyinjie/Ground-Fusion2](https://github.com/sjtuyinjie/Ground-Fusion2) - Ground-Fusion++: a modular sensor-fusion SLAM system(IROS2025)
 
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
 
