@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [Cuda](#cuda)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -42,6 +42,24 @@
 *   [C](#c-2)
 *   [Java](#java)
 *   [Vim Script](#vim-script)
+
+## Shell
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
+
+*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
+
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## Jupyter Notebook
 
@@ -1003,8 +1021,6 @@
 
 *   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-
 ## JavaScript
 
 *   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
@@ -1195,7 +1211,7 @@
 
 *   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - \[IROS 2025] A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
 
-*   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 2025 & IROS‘ 2025] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
+*   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 25 & IROS‘ 25] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
 
 *   [SHAILAB-IPEC/OpenFly-Platform](https://github.com/SHAILAB-IPEC/OpenFly-Platform) -
 
@@ -1894,22 +1910,6 @@
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
-## Shell
-
-*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
-
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
-
-*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## Cuda
 
