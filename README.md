@@ -533,6 +533,8 @@
 
 *   [CUT3R/CUT3R](https://github.com/CUT3R/CUT3R) - Official implementation of Continuous 3D Perception Model with Persistent State
 
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+
 *   [LYX0501/InstructNav](https://github.com/LYX0501/InstructNav) -
 
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -898,8 +900,6 @@
 *   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
 
 *   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 
 *   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
 
