@@ -177,7 +177,7 @@
 
 *   [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 
-*   [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - A Simulation Platform for Universal Embodied AI Research
+*   [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - A simulation platform for versatile Embodied AI research and developments.
 
 *   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
 
