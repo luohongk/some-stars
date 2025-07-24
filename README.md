@@ -177,7 +177,7 @@
 
 *   [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 
-*   [InternRobotics/GRUtopia](https://github.com/InternRobotics/GRUtopia) - GRUtopia: Dream General Robots in Versatile Scenes at Scale
+*   [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) - A Simulation Platform for Universal Embodied AI Research
 
 *   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
 
@@ -1449,6 +1449,8 @@
 
 *   [alejandrofontan/AnyFeature-VSLAM](https://github.com/alejandrofontan/AnyFeature-VSLAM) - Any-Feature V-SLAM is an automated visual SLAM library for Monocular cameras capable of switching to a chosen type of feature effortlessly and without manual intervention.
 
+*   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
+
 *   [fishmarch/MS-SLAM](https://github.com/fishmarch/MS-SLAM) - \[JFR 2024] This is the official implementation of MS-SLAM, a memory-efficient visual SLAM system removing redundant map points to save memory consumption.
 
 *   [2013fangwentao/Multi\_Sensor\_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion) - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合
@@ -1850,8 +1852,6 @@
 *   [hongwenjun/tmux\_for\_windows](https://github.com/hongwenjun/tmux_for_windows) - tmux是一个开源工具，用于在一个终端窗口中运行多个终端会话。本工具从msys2里提取，可以在Git for Windows的Git Bash (MingW64)下正常使用。
 
 *   [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-
-*   [Ji1Xingyu/SGBA](https://github.com/Ji1Xingyu/SGBA) -
 
 *   [Open3DVLab/StreetSurfGS](https://github.com/Open3DVLab/StreetSurfGS) - StreetSurfGS: Scalable Large Scene Surface Reconstruction with Gaussian Splatting for Urban Street Scences
 
