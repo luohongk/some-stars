@@ -77,13 +77,13 @@
 
 *   [bytedance/F-16](https://github.com/bytedance/F-16) - F-16 is a powerful video large language model (LLM) that perceives high-frame-rate videos, which is developed by the Department of Electronic Engineering at Tsinghua University and ByteDance.
 
-*   [OpenRobotLab/StreamVLN](https://github.com/OpenRobotLab/StreamVLN) - Official implementation of the paper: "StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling"
+*   [InternRobotics/StreamVLN](https://github.com/InternRobotics/StreamVLN) - Official implementation of the paper: "StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling"
 
 *   [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) - \[RSS'25] This repository is the implementation of "NaVILA: Legged Robot Vision-Language-Action Model for Navigation"
 
 *   [WHU-USI3DV/PatchAugNet](https://github.com/WHU-USI3DV/PatchAugNet) - PatchAugNet: Patch feature augmentation-based heterogeneous point cloud place recognition in large-scale street scenes
 
-*   [OpenRobotLab/AnySplat](https://github.com/OpenRobotLab/AnySplat) -
+*   [InternRobotics/AnySplat](https://github.com/InternRobotics/AnySplat) -
 
 *   [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - \[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
 
@@ -171,13 +171,13 @@
 
 *   [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 
-*   [OpenRobotLab/NavDP](https://github.com/OpenRobotLab/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
+*   [InternRobotics/NavDP](https://github.com/InternRobotics/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
 
 *   [GeWu-Lab/AnyTouch](https://github.com/GeWu-Lab/AnyTouch) - The repo for "AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors", ICLR 2025
 
 *   [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 
-*   [OpenRobotLab/GRUtopia](https://github.com/OpenRobotLab/GRUtopia) - GRUtopia: Dream General Robots in Versatile Scenes at Scale
+*   [InternRobotics/GRUtopia](https://github.com/InternRobotics/GRUtopia) - GRUtopia: Dream General Robots in Versatile Scenes at Scale
 
 *   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
 
@@ -425,7 +425,7 @@
 
 *   [FoundationVision/GLEE](https://github.com/FoundationVision/GLEE) - \[CVPR2024 Highlight]GLEE: General Object Foundation Model for Images and Videos at Scale
 
-*   [OpenRobotLab/EmbodiedScan](https://github.com/OpenRobotLab/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
+*   [InternRobotics/EmbodiedScan](https://github.com/InternRobotics/EmbodiedScan) - \[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI
 
 *   [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - \[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
 
@@ -633,7 +633,7 @@
 
 *   [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 
-*   [OpenRobotLab/VLM-Grounder](https://github.com/OpenRobotLab/VLM-Grounder) - \[CoRL 2024] VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding
+*   [InternRobotics/VLM-Grounder](https://github.com/InternRobotics/VLM-Grounder) - \[CoRL 2024] VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding
 
 *   [GREAT-WHU/GREAT-Dataset](https://github.com/GREAT-WHU/GREAT-Dataset) -
 
@@ -1203,7 +1203,7 @@
 
 *   [Livox-SDK/livox\_mapping](https://github.com/Livox-SDK/livox_mapping) - A mapping package for Livox LiDARs
 
-*   [OpenRobotLab/HorizonGS](https://github.com/OpenRobotLab/HorizonGS) - \[CVPR 2025] Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes
+*   [InternRobotics/HorizonGS](https://github.com/InternRobotics/HorizonGS) - \[CVPR 2025] Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes
 
 *   [ShijieZhou-UCLA/feature-3dgs](https://github.com/ShijieZhou-UCLA/feature-3dgs) - \[CVPR 2024 Highlight] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields
 
@@ -1657,7 +1657,7 @@
 
 *   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-*   [OpenRobotLab/CronusVLA](https://github.com/OpenRobotLab/CronusVLA) - \[arXiv 2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation
+*   [InternRobotics/CronusVLA](https://github.com/InternRobotics/CronusVLA) - \[arXiv 2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation
 
 *   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 
