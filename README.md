@@ -1323,7 +1323,7 @@
 
 *   [hku-mars/FAST\_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 
-*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
+*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - \[ICRA2024] Maybe the simplest LiDAR-inertial odometry that one can have.
 
 *   [lpercc/HA3D\_simulator](https://github.com/lpercc/HA3D_simulator) - Official implementation of Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions (NeurIPS DB Track'24 Spotlight).
 
