@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) - InternRobotics' open platform for building generalized navigation foundation models.
+
+*   [RayFronts/RayFronts](https://github.com/RayFronts/RayFronts) - \[IROS 2025] Source code for "RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration"
+
 *   [ShaohonChen/Qwen3-SmVL](https://github.com/ShaohonChen/Qwen3-SmVL) - 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调
 
 *   [yyfz/Pi3](https://github.com/yyfz/Pi3) - Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning
@@ -1606,10 +1610,6 @@
 *   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
 
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-*   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
-
-*   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
 
 ## TypeScript
 
