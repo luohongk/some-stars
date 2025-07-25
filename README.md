@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [Feliciaxyao/NavMorph](https://github.com/Feliciaxyao/NavMorph) - Official implementation of NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV'25).
+
+*   [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) - Long-RL: Scaling RL to Long Sequences
+
 *   [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) - InternRobotics' open platform for building generalized navigation foundation models.
 
 *   [RayFronts/RayFronts](https://github.com/RayFronts/RayFronts) - \[IROS 2025] Source code for "RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration"
@@ -1609,8 +1613,6 @@
 
 *   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
 
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
 ## TypeScript
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -1908,8 +1910,6 @@
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
-*   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
 ## Cuda
 
