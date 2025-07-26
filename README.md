@@ -355,7 +355,7 @@
 
 *   [CrystalSixone/VLN-GOAT](https://github.com/CrystalSixone/VLN-GOAT) - Repository for Vision-and-Language Navigation via Causal Learning (Accepted by CVPR 2024)
 
-*   [GAMMA-UMD-Outdoor-Navigation/BehAV](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) - BehAV: Behavioral Rule Guided Autonomy Using VLM for Robot Navigation in Outdoor Scenes
+*   [GAMMA-UMD-Outdoor-Navigation/BehAV](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) - BehAV: Behavioral Rule Guided Autonomy Using VLM for Robot Navigation in Outdoor Scenes (ICRA'25)
 
 *   [dillonloh/AdaVLN](https://github.com/dillonloh/AdaVLN) - IsaacSim Extension for Dynamic Objects in Matterport3D Environments for AdaVLN research
 
