@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [Vim Script](#vim-script)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -35,13 +36,18 @@
 *   [Fortran](#fortran)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
-*   [Lua](#lua)
 *   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [C](#c-2)
 *   [Java](#java)
+
+## Lua
+
+*   [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
+
+*   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
 
 ## Vim Script
 
@@ -1105,8 +1111,6 @@
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
 ## C++
 
 *   [niessner/Matterport](https://github.com/niessner/Matterport) - Matterport3D is a pretty awesome dataset for RGB-D machine learning tasks :)
@@ -1869,7 +1873,7 @@
 
 *   [QiZS-BIT/GSPR](https://github.com/QiZS-BIT/GSPR) - GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving
 
-*   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - \[Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
+*   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - \[Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide
 
 *   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - \[AAAI 2025] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
 
@@ -2074,10 +2078,6 @@
 ## Cython
 
 *   [stereolabs/zed-python-api](https://github.com/stereolabs/zed-python-api) - Python API for the ZED SDK
-
-## Lua
-
-*   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
 
 ## SCSS
 
