@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Vim Script](#vim-script)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
@@ -41,11 +42,22 @@
 *   [Clojure](#clojure)
 *   [C](#c-2)
 *   [Java](#java)
-*   [Vim Script](#vim-script)
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+*   [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
+
+*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+*   [linrongbin16/lin.vim](https://github.com/linrongbin16/lin.vim) - Lin Rongbin's (Neo)Vim Distribution
 
 ## Python
 
-*   [Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) -
+*   [maturk/dn-splatter](https://github.com/maturk/dn-splatter) - DN-Splatter + AGS-Mesh: Depth and Normal Priors for Gaussian Splatting
+
+*   [Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) - Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels with Hunyuan3D World Model
 
 *   [Feliciaxyao/NavMorph](https://github.com/Feliciaxyao/NavMorph) - Official implementation of NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV'25).
 
@@ -378,6 +390,8 @@
 *   [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) - \[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning.
 
 *   [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
+
+*   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 
 *   [rvp-group/Splat-LOAM](https://github.com/rvp-group/Splat-LOAM) - \[ICCV 25] 2D Gaussian Splatting based LiDAR Odometry And Mapping
 
@@ -998,8 +1012,6 @@
 *   [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
 
 *   [luohongk/Embodied-Navigation](https://github.com/luohongk/Embodied-Navigation) - 关于Embodied-Navigation的仓库，主要用于整理我在定位，感知，规控，3D Vision, VLN中的部分知识
-
-*   [wyf3/llm\_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 
 *   [GAP-LAB-CUHK-SZ/gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - A Modular Framework for 3D Gaussian Splatting and Beyond
 
@@ -1647,8 +1659,6 @@
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
 
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
-
 ## miscellaneous
 
 *   [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
@@ -1909,8 +1919,6 @@
 
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
 ## Cuda
 
 *   [yanchi-3dv/diff-gaussian-rasterization-for-gsslam](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam) - The modified differential Gaussian rasterization in the CVPR 2024 highlight paper: GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting.
@@ -2102,11 +2110,3 @@
 ## Java
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
-
-## Vim Script
-
-*   [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
-
-*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
-*   [linrongbin16/lin.vim](https://github.com/linrongbin16/lin.vim) - Lin Rongbin's (Neo)Vim Distribution
