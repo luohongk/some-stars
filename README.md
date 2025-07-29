@@ -255,6 +255,8 @@
 
 *   [hovsg/HOV-SG](https://github.com/hovsg/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation"
 
+*   [aau-cns/radar\_transformer](https://github.com/aau-cns/radar_transformer) - Transformer-based deep learning architecture for 3D point matching in sparse radar point clouds
+
 *   [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
 
 *   [nianticlabs/marepo](https://github.com/nianticlabs/marepo) - \[CVPR 2024 Highlight] Map-Relative Pose Regression for Visual Re-Localization
@@ -1688,8 +1690,6 @@
 *   [InternRobotics/CronusVLA](https://github.com/InternRobotics/CronusVLA) - \[arXiv 2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation
 
 *   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [aau-cns/radar\_transformer](https://github.com/aau-cns/radar_transformer) - Transformer-based deep learning architecture for 3D point matching in sparse radar point clouds
 
 *   [yuanpengtu/PlayerOne](https://github.com/yuanpengtu/PlayerOne) - PlayerOne: Egocentric World Simulator
 
