@@ -65,6 +65,8 @@
 
 *   [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 
+*   [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
+
 *   [RL4VLM/RL4VLM](https://github.com/RL4VLM/RL4VLM) - Official Repo for Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning
 
 *   [ByteDance-Seed/Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL) - Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning, achieving state-of-the-art performance on 38 out of 60 public benchmarks.
@@ -208,8 +210,6 @@
 *   [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 
 *   [DengKaiCQ/VGGT-Long](https://github.com/DengKaiCQ/VGGT-Long) - Official implement of VGGT-Long
-
-*   [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
 
 *   [Sirui-Xu/InterMimic](https://github.com/Sirui-Xu/InterMimic) - \[CVPR 2025 Highlight] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
 
