@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [wangyr22/DepthGS](https://github.com/wangyr22/DepthGS) - Official implementation of IROS 2025 paper Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
+
+*   [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+
 *   [dfki-ric/better\_launch](https://github.com/dfki-ric/better_launch) - A better replacement for the ROS2 launch system: intuitive, simple, memorable.
 
 *   [chengine/splatnav](https://github.com/chengine/splatnav) -
@@ -903,9 +907,9 @@
 
 *   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
-*   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
-
 ## miscellaneous
+
+*   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
 *   [manycore-research/InteriorGS](https://github.com/manycore-research/InteriorGS) - InteriorGS: 3D Gaussian Splatting Dataset of Semantically Labeled Indoor Scenes
 
@@ -1930,10 +1934,6 @@
 *   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
 
 *   [yuefanhao/SuperPoint-SuperGlue-TensorRT](https://github.com/yuefanhao/SuperPoint-SuperGlue-TensorRT) - SuperPoint and SuperGlue with TensorRT. Deploy with C++.
-
-*   [kajo-kurisu/D\_VINS](https://github.com/kajo-kurisu/D_VINS) - Merge superpoint、lightglue、MixVPR into VINS-FUSION for loop closure with TensorRT
-
-*   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
 
 ## Cuda
 
