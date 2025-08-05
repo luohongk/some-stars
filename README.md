@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [GuHuangAI/LaDiWM](https://github.com/GuHuangAI/LaDiWM) - code for "LaDiWM"
+
 *   [unique1i/SceneSplat](https://github.com/unique1i/SceneSplat) - \[ICCV 2025 Oral] SceneSplat - Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining
 
 *   [wangyr22/DepthGS](https://github.com/wangyr22/DepthGS) - Official implementation of IROS 2025 paper Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
@@ -1932,8 +1934,6 @@
 *   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
 
 *   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
-
-*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
 
 ## Cuda
 
