@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [unique1i/SceneSplat](https://github.com/unique1i/SceneSplat) - \[ICCV 2025 Oral] SceneSplat - Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining
+
 *   [wangyr22/DepthGS](https://github.com/wangyr22/DepthGS) - Official implementation of IROS 2025 paper Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
 
 *   [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
@@ -253,7 +255,7 @@
 
 *   [OpenDriveLab/UniVLA](https://github.com/OpenDriveLab/UniVLA) - \[RSS 2025] Learning to Act Anywhere with Task-centric Latent Actions
 
-*   [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o) - Official implementation of BLIP3o
+*   [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o) - Official implementation of BLIP3o-Series
 
 *   [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 
@@ -1932,8 +1934,6 @@
 *   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
 
 *   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
-
-*   [yuefanhao/SuperPoint-SuperGlue-TensorRT](https://github.com/yuefanhao/SuperPoint-SuperGlue-TensorRT) - SuperPoint and SuperGlue with TensorRT. Deploy with C++.
 
 ## Cuda
 
