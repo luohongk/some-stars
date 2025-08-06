@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -21,7 +22,6 @@
 *   [C++](#c)
 *   [Cuda](#cuda)
 *   [CMake](#cmake)
-*   [HTML](#html)
 *   [Roff](#roff)
 *   [TeX](#tex)
 *   [Dockerfile](#dockerfile)
@@ -42,6 +42,26 @@
 *   [Clojure](#clojure)
 *   [C](#c-2)
 *   [Java](#java)
+
+## HTML
+
+*   [Jun-CEN/Jun-CEN.github.io](https://github.com/Jun-CEN/Jun-CEN.github.io) - My personal webset: cen-jun.com
+
+*   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+
+*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
+
+*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## miscellaneous
 
@@ -1185,8 +1205,6 @@
 
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
-*   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
-
 ## Go
 
 *   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -1968,24 +1986,6 @@
 ## CMake
 
 *   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
-
-## HTML
-
-*   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-
-*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
-
-*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## Roff
 
