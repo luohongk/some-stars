@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [Zhoues/RoboRefer](https://github.com/Zhoues/RoboRefer) - Official implementation of "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics"
+
 *   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 
 *   [GuHuangAI/LaDiWM](https://github.com/GuHuangAI/LaDiWM) - code for "LaDiWM"
@@ -1964,8 +1966,6 @@
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
 
 *   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
-
-*   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
 
 ## Cuda
 
