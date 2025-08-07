@@ -10,8 +10,8 @@
 
 *   [Python](#python)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
@@ -913,6 +913,8 @@
 
 *   [Jun-CEN/Jun-CEN.github.io](https://github.com/Jun-CEN/Jun-CEN.github.io) - My personal webset: cen-jun.com
 
+*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
+
 *   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
 
 *   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -929,9 +931,21 @@
 
 *   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
-## miscellaneous
+## Rust
 
-*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
+*   [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
+
+## miscellaneous
 
 *   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
@@ -1192,20 +1206,6 @@
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-## Rust
-
-*   [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
 
 ## Go
 
