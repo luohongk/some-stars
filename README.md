@@ -421,6 +421,8 @@
 
 *   [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 
+*   [yanyan-li/4DGS-SLAM](https://github.com/yanyan-li/4DGS-SLAM) - Instead of removing dynamic objects as distractors and reconstructing only static environments, this paper proposes an efficient architecture that incrementally tracks camera poses and establishes the 4D Gaussian radiance fields in unknown scenarios by using a sequence of RGB-D images.
+
 *   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 
 *   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) - Ray tracing and hybrid rasterization of Gaussian particles
@@ -1024,8 +1026,6 @@
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
 
 *   [aikit-wrc/robosense\_ac\_slam](https://github.com/aikit-wrc/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
-
-*   [yanyan-li/4DGS-SLAM](https://github.com/yanyan-li/4DGS-SLAM) - Instead of removing dynamic objects as distractors and reconstructing only static environments, this paper proposes an efficient architecture that incrementally tracks camera poses and establishes the 4D Gaussian radiance fields in unknown scenarios by using a sequence of RGB-D images.
 
 *   [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources.
 
