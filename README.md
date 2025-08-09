@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [Stanford-TML/HEAD\_rl\_deploy](https://github.com/Stanford-TML/HEAD_rl_deploy) - Official implementation of HEAD CoRL 2025
+
 *   [Zhoues/RoboRefer](https://github.com/Zhoues/RoboRefer) - Official implementation of "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics"
 
 *   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
@@ -1463,7 +1465,7 @@
 
 *   [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - \[IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
 
-*   [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - \[ICRA 2025] A MultiModal Mapping (M2Mapping) Framework for Neural Surface Reconstruction and Novel View Synthesis with LiDAR-Visual Systems
+*   [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - \[ICRA 2025] Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems
 
 *   [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
 
@@ -1593,7 +1595,7 @@
 
 *   [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
-*   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - \[IROS 2025] A unified LiDAR-visual system achieving geometrically consistent photorealistic rendering and high-granularity surface reconstruction.
+*   [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - \[IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
 
 *   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 25 & IROS‘ 25] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
 
@@ -1964,8 +1966,6 @@
 *   [MAVIS-SLAM/OpenMAVIS](https://github.com/MAVIS-SLAM/OpenMAVIS) - An open-source implementation of MAVIS-SLAM.
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
-
-*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
 
 ## Cuda
 
