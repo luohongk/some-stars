@@ -1295,8 +1295,6 @@
 
 *   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 
-*   [whu-huangyue/HZAU\_HuangYue\_JianMo](https://github.com/whu-huangyue/HZAU_HuangYue_JianMo) - 本科HZAU，国赛省一省二（二次），亚太赛（一等奖），小美赛（M奖）等等等
-
 *   [florinshen/FlashSplat](https://github.com/florinshen/FlashSplat) - \[ECCV2024] \[3DV Nectar 2025] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
 
 *   [yzslab/gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) - A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
@@ -1966,6 +1964,8 @@
 *   [MAVIS-SLAM/OpenMAVIS](https://github.com/MAVIS-SLAM/OpenMAVIS) - An open-source implementation of MAVIS-SLAM.
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
+
+*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
 
 ## Cuda
 
