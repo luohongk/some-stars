@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+
 *   [Stanford-TML/HEAD\_rl\_deploy](https://github.com/Stanford-TML/HEAD_rl_deploy) - Official implementation of HEAD CoRL 2025
 
 *   [Zhoues/RoboRefer](https://github.com/Zhoues/RoboRefer) - Official implementation of "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics"
@@ -1964,8 +1966,6 @@
 *   [MAVIS-SLAM/OpenMAVIS](https://github.com/MAVIS-SLAM/OpenMAVIS) - An open-source implementation of MAVIS-SLAM.
 
 *   [linyicheng1/OpenSLAM-Notes](https://github.com/linyicheng1/OpenSLAM-Notes) - 个人对目前较为成熟的视觉/激光SLAM算法进行的注释以及解读文件
-
-*   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
 
 ## Cuda
 
