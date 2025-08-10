@@ -159,6 +159,8 @@
 
 *   [Qi-Zhangyang/GPT4Scene-and-VLN-R1](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1) - GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models
 
+*   [tsinghua-fib-lab/Mem4Nav](https://github.com/tsinghua-fib-lab/Mem4Nav) - Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System
+
 *   [PRBonn/PINGS](https://github.com/PRBonn/PINGS) - 📌 PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map \[RSS' 25]
 
 *   [Tencent/DepthCrafter](https://github.com/Tencent/DepthCrafter) - \[CVPR 2025 Highlight] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos
@@ -976,8 +978,6 @@
 *   [yuanpengtu/PlayerOne](https://github.com/yuanpengtu/PlayerOne) - PlayerOne: Egocentric World Simulator
 
 *   [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
-
-*   [tsinghua-fib-lab/Mem4Nav](https://github.com/tsinghua-fib-lab/Mem4Nav) - Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System
 
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
 
