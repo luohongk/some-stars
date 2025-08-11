@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [ziyan-xiaoyu/SpatialMQA](https://github.com/ziyan-xiaoyu/SpatialMQA) -
+
 *   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 
 *   [Stanford-TML/HEAD\_rl\_deploy](https://github.com/Stanford-TML/HEAD_rl_deploy) - Official implementation of HEAD CoRL 2025
@@ -1210,8 +1212,6 @@
 *   [pubsys/ReviewSystem](https://github.com/pubsys/ReviewSystem) - 审稿系统的自述
 
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
 ## Go
 
