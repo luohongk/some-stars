@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [CMake](#cmake)
 *   [Python](#python)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -21,7 +22,6 @@
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Cuda](#cuda)
-*   [CMake](#cmake)
 *   [Roff](#roff)
 *   [TeX](#tex)
 *   [Dockerfile](#dockerfile)
@@ -42,6 +42,12 @@
 *   [Clojure](#clojure)
 *   [C](#c-2)
 *   [Java](#java)
+
+## CMake
+
+*   [i2Nav-WHU/i2Nav-Robot](https://github.com/i2Nav-WHU/i2Nav-Robot) - A Large-Scale Indoor-Outdoor Robot Dataset for Multi-Sensor Fusion Navigation and Mapping
+
+*   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
 
 ## Python
 
@@ -1999,8 +2005,6 @@
 
 *   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
 
-*   [lovechoudoufu/wechat\_for\_linux](https://github.com/lovechoudoufu/wechat_for_linux) - wechat\_for\_linux；weixin\_for\_linux；wechat-beta；微信；linux原生微信
-
 ## HTML
 
 *   [Jun-CEN/Jun-CEN.github.io](https://github.com/Jun-CEN/Jun-CEN.github.io) - My personal webset: cen-jun.com
@@ -2170,10 +2174,6 @@
 *   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
-
-## CMake
-
-*   [lesaf92/ros\_noetic\_ubuntu22](https://github.com/lesaf92/ros_noetic_ubuntu22) - Instructions for installing ROS Noetic on Ubuntu 22.04
 
 ## Roff
 
