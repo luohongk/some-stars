@@ -1419,7 +1419,7 @@
 
 *   [HViktorTsoi/FAST\_LIO\_LOCALIZATION](https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION) - A simple localization framework that can re-localize in built maps based on FAST-LIO.
 
-*   [GREAT-WHU/GREAT-PVT](https://github.com/GREAT-WHU/GREAT-PVT) -
+*   [GREAT-WHU/GREAT-PVT](https://github.com/GREAT-WHU/GREAT-PVT) - GREAT-PVT: Precision Positioning and Navigation Software by Wuhan University GREAT Group
 
 *   [mengkai98/BA\_Play](https://github.com/mengkai98/BA_Play) - 随手写个BA玩玩
 
