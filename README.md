@@ -191,7 +191,7 @@
 
 *   [3DTopia/MaterialAnything](https://github.com/3DTopia/MaterialAnything) - \[CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion
 
-*   [LeCAR-Lab/ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of \[RSS 2025] "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
+*   [LeCAR-Lab/ASAP](https://github.com/LeCAR-Lab/ASAP) - \[RSS 2025] "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
 
 *   [zhaihongjia/PanoGS](https://github.com/zhaihongjia/PanoGS) - \[CVPR 2025] PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding
 
