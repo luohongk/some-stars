@@ -1193,7 +1193,7 @@
 
 *   [engcang/FAST-LIO-SAM](https://github.com/engcang/FAST-LIO-SAM) - a SLAM implementation combining FAST-LIO2 with pose graph optimization and loop closing based on LIO-SAM paper
 
-*   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
+*   [lausen001/LIO-SAM-DetailedNote](https://github.com/lausen001/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
 *   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 
