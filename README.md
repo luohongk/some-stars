@@ -623,7 +623,7 @@
 
 *   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
 
-*   [BaowenZ/RaDe-GS](https://github.com/BaowenZ/RaDe-GS) - RaDe-GS: Rasterizing Depth in Gaussian Splatting
+*   [HKUST-SAIL/RaDe-GS](https://github.com/HKUST-SAIL/RaDe-GS) - RaDe-GS: Rasterizing Depth in Gaussian Splatting
 
 *   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - \[IEEE T-RO 2025] iKalibr: Multi-Sensor Calibration (Extrinsics & Time Offsets)
 
@@ -1129,7 +1129,7 @@
 
 *   [jiachenzhu/DyT](https://github.com/jiachenzhu/DyT) - Code release for DynamicTanh (DyT)
 
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
 
 *   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 
