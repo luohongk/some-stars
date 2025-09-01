@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - Step-Audio 2 is an end-to-end multi-modal large language model designed for industry-strength audio understanding and speech conversation.
+
 *   [OpenHelix-Team/LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) - LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model \[Actively Maintained🔥]
 
 *   [Heathcliff-saku/BSC-Nav](https://github.com/Heathcliff-saku/BSC-Nav) - This repository is the official implementation of our paper (From reactive to cognitive: brain-inspired spatial intelligence for embodied agents)
@@ -2168,8 +2170,6 @@
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## Cuda
 
