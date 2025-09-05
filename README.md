@@ -1195,8 +1195,6 @@
 
 *   [luohongk/slam-handbook-chinese](https://github.com/luohongk/slam-handbook-chinese) - 本项目主要是关于slam handbook的中文版本
 
-*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
-
 *   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 
 *   [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - \[IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
@@ -2198,6 +2196,8 @@
 *   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
 
 *   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
+
+*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 
 *   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
 
