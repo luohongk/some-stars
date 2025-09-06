@@ -45,6 +45,8 @@
 
 ## JavaScript
 
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
 *   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high performance, secure, all-in-one open-source resource acceleration engine. Significantly outperforms traditional accelerators, providing unified and efficient acceleration across multiple platforms
@@ -1924,8 +1926,6 @@
 *   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
 
 *   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
-
-*   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
 ## C
 
