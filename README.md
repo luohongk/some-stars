@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -24,7 +25,6 @@
 *   [Shell](#shell)
 *   [Cuda](#cuda)
 *   [Roff](#roff)
-*   [TeX](#tex)
 *   [Dockerfile](#dockerfile)
 *   [C#](#c-2)
 *   [MATLAB](#matlab)
@@ -42,6 +42,22 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## TeX
+
+*   [Azure1210/elegantbook-magic-revision](https://github.com/Azure1210/elegantbook-magic-revision) - Elegentbook魔改版本!
+
+*   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
+
+*   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
+
+*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
+
+*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
+
+*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
+
+*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
 
 ## JavaScript
 
@@ -1925,8 +1941,6 @@
 
 *   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
 
-*   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
-
 ## C
 
 *   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25] An Reliable and Efficient Framework for Zero-Shot Object Navigation
@@ -2190,20 +2204,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## TeX
-
-*   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
-
-*   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
-
-*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
-
-*   [lliei0x/Moderncv-LateX](https://github.com/lliei0x/Moderncv-LateX) - LaTeX简历模版👀📑
-
-*   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
-
-*   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
 
 ## Dockerfile
 
