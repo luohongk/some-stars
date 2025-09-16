@@ -83,6 +83,8 @@
 
 *   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
+*   [OpenGalaxea/G0](https://github.com/OpenGalaxea/G0) - Galaxea's first VLA release
+
 *   [ziyan-xiaoyu/SpatialMQA](https://github.com/ziyan-xiaoyu/SpatialMQA) -
 
 *   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -119,7 +121,7 @@
 
 *   [ShaohonChen/Qwen3-SmVL](https://github.com/ShaohonChen/Qwen3-SmVL) - 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调
 
-*   [yyfz/Pi3](https://github.com/yyfz/Pi3) - Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning
+*   [yyfz/Pi3](https://github.com/yyfz/Pi3) - Code of π^3: Permutation-Equivariant Visual Geometry Learning
 
 *   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
 
@@ -1169,8 +1171,6 @@
 
 *   [JiuTian-VL/CogVLA](https://github.com/JiuTian-VL/CogVLA) - CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
 
-*   [OpenGalaxea/G0](https://github.com/OpenGalaxea/G0) - Galaxea's first VLA release
-
 *   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
 *   [manycore-research/InteriorGS](https://github.com/manycore-research/InteriorGS) - InteriorGS: 3D Gaussian Splatting Dataset of Semantically Labeled Indoor Scenes
@@ -1897,6 +1897,8 @@
 
 *   [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
 
+*   [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
+
 *   [HuajianUP/Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) - \[CVPR 2024] Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras
 
 *   [HKUST-Aerial-Robotics/EPSILON](https://github.com/HKUST-Aerial-Robotics/EPSILON) -
@@ -2042,8 +2044,6 @@
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
-
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
 
 ## TeX
 
