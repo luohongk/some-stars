@@ -99,7 +99,7 @@
 
 *   [Stanford-TML/HEAD\_rl\_deploy](https://github.com/Stanford-TML/HEAD_rl_deploy) - Official implementation of HEAD CoRL 2025
 
-*   [Zhoues/RoboRefer](https://github.com/Zhoues/RoboRefer) - Official implementation of "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics"
+*   [Zhoues/RoboRefer](https://github.com/Zhoues/RoboRefer) - \[NeurIPS 2025] Official implementation of "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics"
 
 *   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 
@@ -269,7 +269,7 @@
 
 *   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
 
-*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - Rectified Point Flow - Assemble unposed parts into complete objects by learning a point-wise flow model.
+*   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - \[NeurIPS 2025, Spotlight] Rectified Point Flow: Generic Point Cloud Pose Estimation
 
 *   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
 
@@ -479,7 +479,7 @@
 
 *   [yanyan-li/4DGS-SLAM](https://github.com/yanyan-li/4DGS-SLAM) - Instead of removing dynamic objects as distractors and reconstructing only static environments, this paper proposes an efficient architecture that incrementally tracks camera poses and establishes the 4D Gaussian radiance fields in unknown scenarios by using a sequence of RGB-D images.
 
-*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
+*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - \[NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
 
 *   [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut) - Ray tracing and hybrid rasterization of Gaussian particles
 
@@ -503,7 +503,7 @@
 
 *   [jiachenzhu/DyT](https://github.com/jiachenzhu/DyT) - Code release for DynamicTanh (DyT)
 
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - \[NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
 
 *   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 
@@ -601,7 +601,7 @@
 
 *   [fraunhoferhhi/AT-GS](https://github.com/fraunhoferhhi/AT-GS) - Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
 
-*   [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - YOLOv12: Attention-Centric Real-Time Object Detectors
+*   [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - \[NeurIPS 2025] YOLOv12: Attention-Centric Real-Time Object Detectors
 
 *   [HKUDS/GraphGPT](https://github.com/HKUDS/GraphGPT) - \[SIGIR'2024] "GraphGPT: Graph Instruction Tuning for Large Language Models"
 
@@ -715,7 +715,7 @@
 
 *   [Parskatt/RoMa](https://github.com/Parskatt/RoMa) - \[CVPR 2024] RoMa: Robust Dense Feature Matching; RoMa is the robust dense feature matcher capable of estimating pixel-dense warps and reliable certainties for almost any image pair.
 
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 
 *   [KwanWaiPang/Gaussian-SLAM\_comment](https://github.com/KwanWaiPang/Gaussian-SLAM_comment) - Gaussian-SLAM的中文注释
 
@@ -779,7 +779,7 @@
 
 *   [cvg/depthsplat](https://github.com/cvg/depthsplat) - \[CVPR'25] DepthSplat: Connecting Gaussian Splatting and Depth
 
-*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - \[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 
 *   [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) -
 
