@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [BIT-DYN/omnimap](https://github.com/BIT-DYN/omnimap) - \[TRO 2025] OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics
+
 *   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) -
 
 *   [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
@@ -1434,8 +1436,6 @@
 *   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
 *   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
 ## C
 
