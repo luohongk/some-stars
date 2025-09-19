@@ -121,7 +121,7 @@
 
 *   [Feliciaxyao/NavMorph](https://github.com/Feliciaxyao/NavMorph) - Official implementation of NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV'25).
 
-*   [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) - Long-RL: Scaling RL to Long Sequences
+*   [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) - Long-RL: Scaling RL to Long Sequences (NeurIPS 2025)
 
 *   [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) - InternRobotics' open platform for building generalized navigation foundation models.
 
