@@ -45,9 +45,11 @@
 
 ## Python
 
+*   [InternRobotics/InternVLA-A1](https://github.com/InternRobotics/InternVLA-A1) - InternVLA-A1: Unifying Understanding, Generation, and Action for Robotic Manipulation​
+
 *   [BIT-DYN/omnimap](https://github.com/BIT-DYN/omnimap) - \[TRO 2025] OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics
 
-*   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) -
+*   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Grounded Foundation Model for Generalist Robot
 
 *   [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 
@@ -1011,7 +1013,7 @@
 
 *   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
 
-*   [JiuTian-VL/CogVLA](https://github.com/JiuTian-VL/CogVLA) - CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
+*   [JiuTian-VL/CogVLA](https://github.com/JiuTian-VL/CogVLA) - \[NeurIPS 2025] CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
 
 *   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
@@ -1272,8 +1274,6 @@
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-
-*   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
 
 ## TypeScript
 
