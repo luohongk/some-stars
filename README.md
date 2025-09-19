@@ -49,7 +49,7 @@
 
 *   [BIT-DYN/omnimap](https://github.com/BIT-DYN/omnimap) - \[TRO 2025] OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics
 
-*   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Grounded Foundation Model for Generalist Robot
+*   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Grounded Foundation Model for Generalist Robot Policy
 
 *   [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 
@@ -217,7 +217,7 @@
 
 *   [Tencent/DepthCrafter](https://github.com/Tencent/DepthCrafter) - \[CVPR 2025 Highlight] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos
 
-*   [siyuhsu/vla-cache](https://github.com/siyuhsu/vla-cache) - Official implementation of paper "VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation"
+*   [siyuhsu/vla-cache](https://github.com/siyuhsu/vla-cache) - \[NeurIPS 2025] VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation
 
 *   [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
 
@@ -1609,7 +1609,7 @@
 
 *   [HKUST-Aerial-Robotics/FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON) - \[T-RO 2024] FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance.
 
-*   [Happy-ZZX/PL-VIWO](https://github.com/Happy-ZZX/PL-VIWO) - (IROS2025) Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry
+*   [Happy-ZZX/PL-VIWO](https://github.com/Happy-ZZX/PL-VIWO) - Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry (IROS2025)
 
 *   [RoboSense-Robotics/robosense\_ac\_slam](https://github.com/RoboSense-Robotics/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 
