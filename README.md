@@ -709,7 +709,7 @@
 
 *   [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
 
-*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - \[IROS 2025] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
+*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - \[IROS 2025 Award Finalist] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
@@ -1733,7 +1733,7 @@
 
 *   [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio) - Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels
 
-*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
+*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
 
 *   [Geekgineer/CloudPeek](https://github.com/Geekgineer/CloudPeek) - CloudPeek is a lightweight, cross-platform, single-header C++ point cloud viewer. It’s designed for simplicity and efficiency, requiring no heavy libraries like PCL or Open3D. Ideal for visualizing and interacting with 3D data from LiDAR, photogrammetry, or other datasets, CloudPeek delivers powerful, real-time exploration in a minimalistic package
 
