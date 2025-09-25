@@ -331,7 +331,7 @@
 
 *   [SunYangtian/UniGeo](https://github.com/SunYangtian/UniGeo) - UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation
 
-*   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers
+*   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - \[NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers
 
 *   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 
