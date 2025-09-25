@@ -195,7 +195,7 @@
 
 *   [DengKaiCQ/VGGT-Long](https://github.com/DengKaiCQ/VGGT-Long) - Official implement of VGGT-Long
 
-*   [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - (NeurIPS2025) DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
+*   [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - \[NeurIPS2025] DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
 
 *   [Sirui-Xu/InterMimic](https://github.com/Sirui-Xu/InterMimic) - \[CVPR 2025 Highlight] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
 
