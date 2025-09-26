@@ -345,7 +345,7 @@
 
 *   [facebookresearch/habitat-challenge](https://github.com/facebookresearch/habitat-challenge) - Code for the habitat challenge
 
-*   [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
+*   [DreamTechAI/Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) - \[NeurIPS 2025] Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
 
 *   [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - \[CVPR 2024] Real-Time Open-Vocabulary Object Detection
 
