@@ -1105,8 +1105,6 @@
 
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
 
-*   [Robotics-STAR-Lab/DynamicPose](https://github.com/Robotics-STAR-Lab/DynamicPose) - \[IROS 2025] DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects
-
 *   [buaa-colalab/OctoNav-R1](https://github.com/buaa-colalab/OctoNav-R1) - Code for OctoNav-R1
 
 *   [PRBonn/2DGS-SLAM](https://github.com/PRBonn/2DGS-SLAM) - 2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting
@@ -1984,6 +1982,8 @@
 *   [RL4VLM/RL4VLM](https://github.com/RL4VLM/RL4VLM) - Official Repo for Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning
 
 *   [ByteDance-Seed/Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL) - Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning, achieving state-of-the-art performance on 38 out of 60 public benchmarks.
+
+*   [Robotics-STAR-Lab/DynamicPose](https://github.com/Robotics-STAR-Lab/DynamicPose) - \[IROS 2025] DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects
 
 *   [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 
