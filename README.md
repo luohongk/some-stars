@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -43,69 +43,9 @@
 *   [Clojure](#clojure)
 *   [Java](#java)
 
-## JavaScript
-
-*   [zxkmm/firefox\_plugin\_github\_user\_notes](https://github.com/zxkmm/firefox_plugin_github_user_notes) - This tool allows you to take notes on specific users and sync them across devices with Firefox installed.
-
-*   [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
-
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
-
-*   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
-
-*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开发者资源加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure acceleration engine for developer resources. It far outperforms traditional accelerators and delivers a unified high-speed experience
-
-*   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
-
-*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-*   [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
-
-*   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-*   [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-
-*   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
-
-*   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-## HTML
-
-*   [luohongk/SurveyAlgo](https://github.com/luohongk/SurveyAlgo) - 💪\[SurveyAlgo] 测绘算法库! 本项目立足于测绘程序设计竞赛创建的测绘类算法仓库（An open-source code of surveying and mapping algorithms for programming design.）
-
-*   [xuankuzcr/xuankuzcr.github.io](https://github.com/xuankuzcr/xuankuzcr.github.io) - My personal website.
-
-*   [Jun-CEN/Jun-CEN.github.io](https://github.com/Jun-CEN/Jun-CEN.github.io) - My personal webset: cen-jun.com
-
-*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
-
-*   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
-
-*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
-
-*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
-
-*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
-
 ## Python
+
+*   [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) -
 
 *   [luohongk/Embodied-AI-Daily](https://github.com/luohongk/Embodied-AI-Daily) - 📚这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
 
@@ -144,6 +84,8 @@
 *   [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - Step-Audio 2 is an end-to-end multi-modal large language model designed for industry-strength audio understanding and speech conversation.
 
 *   [OpenHelix-Team/LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) - LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model \[Actively Maintained🔥]
+
+*   [JiuTian-VL/CogVLA](https://github.com/JiuTian-VL/CogVLA) - \[NeurIPS 2025] CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
 
 *   [Heathcliff-saku/BSC-Nav](https://github.com/Heathcliff-saku/BSC-Nav) - This repository is the official implementation of our paper (From reactive to cognitive: brain-inspired spatial intelligence for embodied agents)
 
@@ -1063,7 +1005,67 @@
 
 *   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
 
-*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
+## JavaScript
+
+*   [zxkmm/firefox\_plugin\_github\_user\_notes](https://github.com/zxkmm/firefox_plugin_github_user_notes) - This tool allows you to take notes on specific users and sync them across devices with Firefox installed.
+
+*   [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+
+*   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
+
+*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开发者资源加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure acceleration engine for developer resources. It far outperforms traditional accelerators and delivers a unified high-speed experience
+
+*   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
+
+*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
+
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+*   [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
+
+*   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+*   [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+
+*   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
+
+*   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
+
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+
+## HTML
+
+*   [luohongk/SurveyAlgo](https://github.com/luohongk/SurveyAlgo) - 💪\[SurveyAlgo] 测绘算法库! 本项目立足于测绘程序设计竞赛创建的测绘类算法仓库（An open-source code of surveying and mapping algorithms for programming design.）
+
+*   [xuankuzcr/xuankuzcr.github.io](https://github.com/xuankuzcr/xuankuzcr.github.io) - My personal website.
+
+*   [Jun-CEN/Jun-CEN.github.io](https://github.com/Jun-CEN/Jun-CEN.github.io) - My personal webset: cen-jun.com
+
+*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
+
+*   [wdndev/llm\_interview\_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+
+*   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
+
+*   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
+
+*   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 
 ## miscellaneous
 
@@ -1078,8 +1080,6 @@
 *   [wengminghe/Dynamic-DINO](https://github.com/wengminghe/Dynamic-DINO) - \[ICCV 2025] Official implementation of the paper: "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection"
 
 *   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
-
-*   [JiuTian-VL/CogVLA](https://github.com/JiuTian-VL/CogVLA) - \[NeurIPS 2025] CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
 
 *   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
