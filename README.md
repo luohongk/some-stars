@@ -45,7 +45,7 @@
 
 ## Python
 
-*   [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) -
+*   [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) - VLA-RFT: Vision-Language-Action Models with Reinforcement Fine-Tuning
 
 *   [luohongk/Embodied-AI-Daily](https://github.com/luohongk/Embodied-AI-Daily) - 📚这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
 
