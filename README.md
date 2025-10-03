@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [fscdc/RewardMap](https://github.com/fscdc/RewardMap) - \[arxiv 2025] RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning
+
 *   [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) - VLA-RFT: Vision-Language-Action Models with Reinforcement Fine-Tuning
 
 *   [luohongk/Embodied-AI-Daily](https://github.com/luohongk/Embodied-AI-Daily) - 📚这个仓库是在arxiv上收集的有关VLN，VLA, SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
@@ -1002,8 +1004,6 @@
 *   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
 
 *   [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
-
-*   [Shiaoming/Python-VO](https://github.com/Shiaoming/Python-VO) - A simple python implemented frame-by-frame visual odometry with SuperPoint feature detector and SuperGlue feature matcher.
 
 ## JavaScript
 
@@ -1987,7 +1987,7 @@
 
 *   [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 
-*   [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 is the world's first open foundation model for generalized humanoid robot reasoning and skills.
+*   [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 -  A Foundation Model for Generalist Robots.
 
 *   [Zeying-Gong/ascent](https://github.com/Zeying-Gong/ascent) -
 
