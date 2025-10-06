@@ -225,7 +225,7 @@
 
 *   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 
-*   [jiachengliu3/WBC\_Deploy](https://github.com/jiachengliu3/WBC_Deploy) - VR-based Robot Teleoperation and Data Collection System for Unitree G1
+*   [jiachengliu3/OpenWBC](https://github.com/jiachengliu3/OpenWBC) - VR-based Robot Teleoperation and Data Collection System for Unitree G1
 
 *   [zm0612/funny\_lidar\_slam](https://github.com/zm0612/funny_lidar_slam) - A real-time multifunctional Lidar SLAM package.
 
