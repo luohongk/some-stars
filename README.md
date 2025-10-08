@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
@@ -33,7 +34,6 @@
 *   [LLVM](#llvm)
 *   [CSS](#css)
 *   [Swift](#swift)
-*   [Astro](#astro)
 *   [Fortran](#fortran)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
@@ -42,6 +42,12 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## Astro
+
+*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+*   [RomanHauksson/academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) - Simple project page template for your research paper, built with Astro and Tailwind CSS
 
 ## Python
 
@@ -2101,8 +2107,6 @@
 
 *   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
-*   [rtklibexplorer/RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for low cost GNSS receivers, especially u-blox receivers.  It is based on RTKLIB 2.4.3.  This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application.  Click on the "Releases" label below to see the latest Windows pre-release.
-
 ## TeX
 
 *   [Azure1210/elegantbook-magic-revision](https://github.com/Azure1210/elegantbook-magic-revision) - Elegentbook魔改版本!
@@ -2268,10 +2272,6 @@
 *   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 
 *   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-## Astro
-
-*   [RomanHauksson/academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) - Simple project page template for your research paper, built with Astro and Tailwind CSS
 
 ## Fortran
 
