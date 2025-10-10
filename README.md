@@ -703,7 +703,7 @@
 
 *   [noodle-lab/GaussianSpa](https://github.com/noodle-lab/GaussianSpa) - Project website: https://noodle-lab.github.io/gaussianspa/
 
-*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
