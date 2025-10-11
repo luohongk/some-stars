@@ -739,6 +739,8 @@
 
 *   [xuxw98/ESAM](https://github.com/xuxw98/ESAM) - \[ICLR 2025, Oral] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
 
+*   [GeLuzhou/Dynamic-GSG](https://github.com/GeLuzhou/Dynamic-GSG) - Dynamic 3D Gaussian Scene Graphs for Environment Adaptation
+
 *   [fishmarch/ROSTools](https://github.com/fishmarch/ROSTools) -
 
 *   [sair-lab/AirCode](https://github.com/sair-lab/AirCode) - AirCode: A Robust Object Encoding Method (RA-L, ICRA 2022)
@@ -1236,8 +1238,6 @@
 *   [flyingGH/open\_vio](https://github.com/flyingGH/open_vio) - 基于vins-fusion 修改，提取关键帧用于三维重建
 
 *   [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc) - 中文文档：IMU预积分总结与公式推导
-
-*   [GeLuzhou/Dynamic-GSG](https://github.com/GeLuzhou/Dynamic-GSG) - Dynamic 3D Gaussian Scene Graphs for Environment Adaptation
 
 *   [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) -
 
