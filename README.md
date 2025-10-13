@@ -581,7 +581,7 @@
 
 *   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
-*   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - \[NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers
+*   [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - \[NeurIPS 2025 D\&B] Open-source Multi-agent Poster Generation from Papers
 
 *   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 
