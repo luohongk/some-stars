@@ -351,7 +351,7 @@
 
 *   [BIT-DYN/omnimap](https://github.com/BIT-DYN/omnimap) - \[TRO 2025] OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics
 
-*   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Grounded Foundation Model for Generalist Robot Policy
+*   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy
 
 *   [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 
@@ -451,7 +451,7 @@
 
 *   [DengKaiCQ/VGGT-Long](https://github.com/DengKaiCQ/VGGT-Long) - Official implement of VGGT-Long
 
-*   [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - \[NeurIP S2025] DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
+*   [Zhangwenyao1/DreamVLA](https://github.com/Zhangwenyao1/DreamVLA) - \[NeurIPS 2025] DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
 
 *   [Sirui-Xu/InterMimic](https://github.com/Sirui-Xu/InterMimic) - \[CVPR 2025 Highlight] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
 
