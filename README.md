@@ -849,7 +849,7 @@
 
 *   [convexsplatting/convex-splatting](https://github.com/convexsplatting/convex-splatting) - \[CVPR 2025 - Highlight] Original implementation of "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
 
-*   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024] NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation
+*   [jzhzhang/NaVid-VLN-CE](https://github.com/jzhzhang/NaVid-VLN-CE) - \[RSS 2024 & RSS 2025] VLN-CE evaluation code of NaVid and Uni-NaVid
 
 *   [jacobkrantz/VLN-CE](https://github.com/jacobkrantz/VLN-CE) - Vision-and-Language Navigation in Continuous Environments using Habitat
 
@@ -1887,7 +1887,7 @@
 
 *   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
-*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 
 *   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
 
