@@ -327,7 +327,7 @@
 
 *   [Inception3D/TTT3R](https://github.com/Inception3D/TTT3R) - A simple state update rule to enhance length generalization for CUT3R
 
-*   [Zxy-MLlab/LIBERO-PRO](https://github.com/Zxy-MLlab/LIBERO-PRO) - Benchmarking Knowledge Transfer in Lifelong Robot Learning
+*   [Zxy-MLlab/LIBERO-PRO](https://github.com/Zxy-MLlab/LIBERO-PRO) - LIBERO-PRO is the official repository of the LIBERO-PRO — an evaluation extension of the original LIBERO  benchmark
 
 *   [Eku127/habitat-data-collector](https://github.com/Eku127/habitat-data-collector) - Habitat-based tools for dynamic arrangement and data recording
 
