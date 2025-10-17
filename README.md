@@ -729,8 +729,6 @@
 
 *   [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) - Long-RL: Scaling RL to Long Sequences (NeurIPS 2025)
 
-*   [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) - InternRobotics' open platform for building generalized navigation foundation models.
-
 *   [RayFronts/RayFronts](https://github.com/RayFronts/RayFronts) - \[IROS 2025] Source code for "RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration"
 
 *   [ShaohonChen/Qwen3-SmVL](https://github.com/ShaohonChen/Qwen3-SmVL) - 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调
@@ -1914,6 +1912,8 @@
 *   [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
 
 *   [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
+
+*   [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) - InternRobotics' open platform for building generalized navigation foundation models.
 
 *   [HeegerGao/FLIP](https://github.com/HeegerGao/FLIP) - Code for FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks
 
