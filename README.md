@@ -268,8 +268,6 @@
 
 *   [Open3DVLab/StreetSurfGS](https://github.com/Open3DVLab/StreetSurfGS) - StreetSurfGS: Scalable Large Scene Surface Reconstruction with Gaussian Splatting for Urban Street Scences
 
-*   [QiZS-BIT/GSPR](https://github.com/QiZS-BIT/GSPR) - GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving
-
 *   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - \[Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide
 
 *   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - \[AAAI 2025] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
@@ -1115,6 +1113,8 @@
 *   [uzh-rpg/deep\_ev\_tracker](https://github.com/uzh-rpg/deep_ev_tracker) - Repository relating to "Data-driven Feature Tracking for Event Cameras" (CVPR, 2023, Award Candidate) and "Data-driven Feature Tracking for Event Cameras with and without Frames" (T-PAMI 2025)
 
 *   [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - \[ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
+
+*   [QiZS-BIT/GSPR](https://github.com/QiZS-BIT/GSPR) - \[IEEE IROS'25] GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving
 
 *   [hustvl/osp](https://github.com/hustvl/osp) - \[ECCV 2024] Occupancy as Set of Points
 
