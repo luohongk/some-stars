@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
+
 *   [aubingazhib/LightGlueStick](https://github.com/aubingazhib/LightGlueStick) - a Fast and Robust Glue for Joint Point-Line Matching
 
 *   [ReinFlow/ReinFlow](https://github.com/ReinFlow/ReinFlow) - \[NeurIPS 2025] Flow x RL. Official Implementation of "ReinFlow: Fine-tuning Flow Policy with Online Reinforcement Learning". Fully open-sourced. Support VLAs e.g., pi0
@@ -1018,8 +1020,6 @@
 *   [swc-17/SparseDrive](https://github.com/swc-17/SparseDrive) - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
 
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
-
-*   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
 
 ## C++
 
