@@ -583,7 +583,7 @@
 
 *   [Ghiara/LEGION](https://github.com/Ghiara/LEGION) - Official implementation of paper on Nature Machine Intelligence: "Preserving and Combining Knowledge in Robotic Lifelong Reinforcement Learning"
 
-*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+*   [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 *   [Zhefan-Xu/isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2) - Unitree Go2 simulation platform for testing navigation, decision-making and autonomous tasks. (NVIDIA Isaac/ROS2)
 
