@@ -63,6 +63,8 @@
 
 *   [MobiusLqm/MoDGS](https://github.com/MobiusLqm/MoDGS) - Official Implementation of paper accepted by ICLR2025-MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors
 
+*   [xieyuser/UniGS](https://github.com/xieyuser/UniGS) - Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering
+
 *   [imlixinyang/FlashWorld](https://github.com/imlixinyang/FlashWorld) - Code for "FlashWorld: High-quality 3D Scene Generation within Seconds"
 
 *   [OpenHelix-Team/Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) - Official implementation of Spatial-Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model
@@ -1604,8 +1606,6 @@
 ## miscellaneous
 
 *   [0311lzy/PVSet\_data](https://github.com/0311lzy/PVSet_data) - This is a 10-meter resolution photovoltaic power station distribution map extracted using the SolarSegNet model, integrating Sentinel-1 and Sentinel-2 imagery. The coverage area includes 14 coastal provincial-level administrative regions and special administrative regions of China in 2024.
-
-*   [xieyuser/UniGS](https://github.com/xieyuser/UniGS) - Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering
 
 *   [hulxgit/EC3R-SLAM](https://github.com/hulxgit/EC3R-SLAM) -
 
