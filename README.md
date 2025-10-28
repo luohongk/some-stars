@@ -55,7 +55,7 @@
 
 *   [aubingazhib/LightGlueStick](https://github.com/aubingazhib/LightGlueStick) - a Fast and Robust Glue for Joint Point-Line Matching
 
-*   [ReinFlow/ReinFlow](https://github.com/ReinFlow/ReinFlow) - \[NeurIPS 2025] Flow x RL. Official Implementation of "ReinFlow: Fine-tuning Flow Policy with Online Reinforcement Learning". Fully open-sourced. Support VLAs e.g., pi0
+*   [ReinFlow/ReinFlow](https://github.com/ReinFlow/ReinFlow) - \[NeurIPS 2025] Flow x RL. "ReinFlow: Fine-tuning Flow Policy with Online Reinforcement Learning". Support VLAs e.g., pi0, pi0.5. Fully open-sourced.
 
 *   [woyut/NavQ\_ICCV25](https://github.com/woyut/NavQ_ICCV25) - Implementation of "NavQ: Learning a Q-Model for Foresighted Vision-and-Language Navigation" (ICCV 2025)
 
