@@ -87,6 +87,8 @@
 
 *   [geyan21/ManiFlow\_Policy](https://github.com/geyan21/ManiFlow_Policy) - \[CoRL 2025] ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training
 
+*   [MIV-XJTU/JanusVLN](https://github.com/MIV-XJTU/JanusVLN) - Official implementation for "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation"
+
 *   [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
 
 *   [fscdc/RewardMap](https://github.com/fscdc/RewardMap) - \[arxiv 2025] RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning
@@ -1166,8 +1168,6 @@
 *   [ethz-mrl/OKVIS2-X](https://github.com/ethz-mrl/OKVIS2-X) - OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS
 
 *   [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - \[PKU EPIC Lab] 面向小白的具身智能入门指南
-
-*   [MIV-XJTU/JanusVLN](https://github.com/MIV-XJTU/JanusVLN) - Official implementation for "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation"
 
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
 
