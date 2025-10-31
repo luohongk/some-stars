@@ -61,7 +61,7 @@
 
 *   [Ausbxuse/Humanoid-Everyday](https://github.com/Ausbxuse/Humanoid-Everyday) - Humanoid dataset for learning
 
-*   [NHirose/OmniVLA](https://github.com/NHirose/OmniVLA) -
+*   [NHirose/OmniVLA](https://github.com/NHirose/OmniVLA) - Official repository for OmniVLA training and inference code
 
 *   [IRMVLab/I2PNet](https://github.com/IRMVLab/I2PNet) - \[TRO 2025] Codes for "End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization"
 
