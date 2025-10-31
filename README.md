@@ -287,6 +287,8 @@
 
 *   [shichaoy/cube\_slam](https://github.com/shichaoy/cube_slam) - CubeSLAM: Monocular 3D Object Detection and SLAM
 
+*   [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) -
+
 *   [ethz-mrl/GSFusion](https://github.com/ethz-mrl/GSFusion) - GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion
 
 *   [shg8/3DGS.cpp](https://github.com/shg8/3DGS.cpp) -  A cross-platform, high performance renderer for Gaussian Splatting using Vulkan Compute. Supports Windows, Linux, macOS, iOS, and visionOS
@@ -804,6 +806,8 @@
 *   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 *   [google-research/valan](https://github.com/google-research/valan) - Vision and Language Agent Navigation
+
+*   [InternRobotics/CronusVLA](https://github.com/InternRobotics/CronusVLA) - CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling
 
 *   [zst1406217/VR-Robo](https://github.com/zst1406217/VR-Robo) - \[RA-L 2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion
 
@@ -1757,8 +1761,6 @@
 
 *   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-*   [InternRobotics/CronusVLA](https://github.com/InternRobotics/CronusVLA) - \[arXiv 2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation
-
 *   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 
 *   [yuanpengtu/PlayerOne](https://github.com/yuanpengtu/PlayerOne) - PlayerOne: Egocentric World Simulator
@@ -1828,8 +1830,6 @@
 *   [flyingGH/open\_vio](https://github.com/flyingGH/open_vio) - 基于vins-fusion 修改，提取关键帧用于三维重建
 
 *   [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc) - 中文文档：IMU预积分总结与公式推导
-
-*   [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) -
 
 *   [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera) - Index repo for Kimera code
 
