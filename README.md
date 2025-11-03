@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based VLA Models"
+
 *   [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
 *   [cshizhe/VLN-DUET](https://github.com/cshizhe/VLN-DUET) - Official implementation of Think Global, Act Local: Dual-scale GraphTransformer for Vision-and-Language Navigation (CVPR'22 Oral).
@@ -1092,8 +1094,6 @@
 *   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
 
 *   [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - \[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
-
-*   [PRBonn/PIN\_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency \[TRO' 24]
 
 ## C++
 
