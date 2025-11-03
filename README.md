@@ -1179,7 +1179,7 @@
 
 *   [chengwei0427/ESKF\_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast\_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
 
-*   [Mechazo11/ros2\_orb\_slam3](https://github.com/Mechazo11/ros2_orb_slam3) - A ROS2 Humble package natively implementing ORB-SLAM3 V1.0 VSLAM framework
+*   [Mechazo11/ros2\_orb\_slam3](https://github.com/Mechazo11/ros2_orb_slam3) - A ROS2 Humble package that natively implementing ORB-SLAM3 V1.0 VSLAM framework
 
 *   [GuoYongyu/Dynamic-Line-ORB-SLAM2](https://github.com/GuoYongyu/Dynamic-Line-ORB-SLAM2) - A ORB-SLAM2 instance with dynamic object removing and point-line features optimization.
 
@@ -1855,7 +1855,7 @@
 
 *   [szx-0633/DeepSeek-R1-learning-note](https://github.com/szx-0633/DeepSeek-R1-learning-note) - My learning note about DeepSeek-R1 reasoning LLM
 
-*   [John19187/v2ray-SSR-Clash-Verge-Shadowrocke](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke) - 免费高速（28.5M/S）v2ray、ss、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
+*   [John19187/v2ray-SSR-Clash-Verge-Shadowrocke](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke) - 2025年免费高速（23.6M/S）v2ray、ss、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
 
 *   [Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting) - 2024 Gaussian Splatting Paper List(Arxiv)
 
