@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+
 *   [worldbench/3EED](https://github.com/worldbench/3EED) - \[NeurIPS 2025 DB Track] 3EED: Ground Everything Everywhere in 3D
 
 *   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based VLA Models"
@@ -1732,8 +1734,6 @@
 *   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
 
 *   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
-
-*   [BertaBescos/DynaSLAM](https://github.com/BertaBescos/DynaSLAM) - DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
 
 ## miscellaneous
 
