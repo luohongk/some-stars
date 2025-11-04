@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [worldbench/3EED](https://github.com/worldbench/3EED) - \[NeurIPS 2025 DB Track] 3EED: Ground Everything Everywhere in 3D
+
 *   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based VLA Models"
 
 *   [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
@@ -1732,8 +1734,6 @@
 *   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
 
 *   [BertaBescos/DynaSLAM](https://github.com/BertaBescos/DynaSLAM) - DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
-
-*   [HKUST-Aerial-Robotics/FC-Planner](https://github.com/HKUST-Aerial-Robotics/FC-Planner) - \[ICRA'24 Best UAV Paper Award Finalist] An Efficient Global Planner for Aerial Coverage
 
 ## miscellaneous
 
