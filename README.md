@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [wsakobe/TrackVLA](https://github.com/wsakobe/TrackVLA) - \[CoRL 2025] Repository relating to "TrackVLA: Embodied Visual Tracking in the Wild"
+
 *   [unified-force/UniFP](https://github.com/unified-force/UniFP) - CoRL2025 UniFP: Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation
 
 *   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
@@ -1261,7 +1263,7 @@
 
 *   [lixiny/ORB-SLAM2-DualCam](https://github.com/lixiny/ORB-SLAM2-DualCam) - 🎓  SJTU M.S. Dissertation. 基于多相机的同步定位与建图方法研究
 
-*   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) - A highly robust and accurate LiDAR-inertial odometry  package
+*   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) - A highly robust and accurate LiDAR-only,  LiDAR-inertial odometry
 
 *   [Tang-KaiKai/EDLine](https://github.com/Tang-KaiKai/EDLine) - Line Segment Extraction Algorithm( less than 2ms in 1280\*720 gray image  )
 
@@ -2024,8 +2026,6 @@
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
 
 *   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
-
-*   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
 
 ## Jupyter Notebook
 
