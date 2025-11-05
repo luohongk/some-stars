@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [unified-force/UniFP](https://github.com/unified-force/UniFP) - CoRL2025 UniFP: Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation
+
 *   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 *   [worldbench/3EED](https://github.com/worldbench/3EED) - \[NeurIPS 2025 DB Track] 3EED: Ground Everything Everywhere in 3D
@@ -2024,8 +2026,6 @@
 *   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
 *   [yangjiheng/3DGS\_and\_Beyond\_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) - This is a collective repository for all 3DGS related progresses in research and industry world
-
-*   [lovechoudoufu/wechat\_for\_linux](https://github.com/lovechoudoufu/wechat_for_linux) - wechat\_for\_linux；weixin\_for\_linux；wechat-beta；微信；linux原生微信
 
 ## Jupyter Notebook
 
