@@ -267,7 +267,7 @@
 
 *   [Vid2Sim/Vid2Sim](https://github.com/Vid2Sim/Vid2Sim) - \[CVPR 25] Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation
 
-*   [manycore-research/SpatialGen](https://github.com/manycore-research/SpatialGen) - SpatialGen: Layout-guided 3D Indoor Scene Generation
+*   [manycore-research/SpatialGen](https://github.com/manycore-research/SpatialGen) - \[3DV 2026] SpatialGen: Layout-guided 3D Indoor Scene Generation
 
 *   [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 
@@ -280,6 +280,8 @@
 *   [mystorm16/FastVGGT](https://github.com/mystorm16/FastVGGT) - Code for FastVGGT: Training-Free Acceleration of Visual Geometry Transformer
 
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+
+*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
 
 *   [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - Step-Audio 2 is an end-to-end multi-modal large language model designed for industry-strength audio understanding and speech conversation.
 
@@ -1902,8 +1904,6 @@
 *   [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
 
 *   [wengminghe/Dynamic-DINO](https://github.com/wengminghe/Dynamic-DINO) - \[ICCV 2025] Official implementation of the paper: "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection"
-
-*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
 
 *   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
