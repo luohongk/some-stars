@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [MrZihan/Dynam3D](https://github.com/MrZihan/Dynam3D) -
+
 *   [facebookresearch/Online-3DGS-Monocular](https://github.com/facebookresearch/Online-3DGS-Monocular) - Code repo for the SIGGRAPH paper "Monocular Online Reconstruction with Enhanced Detail Preservation". Project page https//poiw.github.io/MODP/index.html
 
 *   [wsakobe/TrackVLA](https://github.com/wsakobe/TrackVLA) - \[CoRL 2025] Repository relating to "TrackVLA: Embodied Visual Tracking in the Wild"
@@ -2352,8 +2354,6 @@
 *   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
 
 *   [MichaelBeechan/PPP-RTK](https://github.com/MichaelBeechan/PPP-RTK) - SPP、RTD、PPP、RTK、PPP-RTK、RAIM、ARAIM et al
-
-*   [Amoiensis/Matrix\_hub](https://github.com/Amoiensis/Matrix_hub) - A lib of Matrix operation for C language. (矩阵运算库--C语言)
 
 ## CMake
 
