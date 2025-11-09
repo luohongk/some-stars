@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [HybridRobotics/whole\_body\_tracking](https://github.com/HybridRobotics/whole_body_tracking) -
+
 *   [MrZihan/Dynam3D](https://github.com/MrZihan/Dynam3D) -
 
 *   [facebookresearch/Online-3DGS-Monocular](https://github.com/facebookresearch/Online-3DGS-Monocular) - Code repo for the SIGGRAPH paper "Monocular Online Reconstruction with Enhanced Detail Preservation". Project page https//poiw.github.io/MODP/index.html
@@ -89,7 +91,7 @@
 
 *   [OpenHelix-Team/Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) - Official implementation of Spatial-Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model
 
-*   [starVLA/starVLA](https://github.com/starVLA/starVLA) - starVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
+*   [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
 
 *   [jzhzhang/Uni-NaVid](https://github.com/jzhzhang/Uni-NaVid) - \[RSS 2025] Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks.
 
@@ -1104,8 +1106,6 @@
 *   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
 
 *   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
-
-*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
 
 ## C++
 
