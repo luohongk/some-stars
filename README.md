@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [zhoubohan0/NOLO](https://github.com/zhoubohan0/NOLO) - \[IROS 2025 oral] Official implementation of NOLO: Navigate Only Look Once
+
+*   [zhaozijie2022/m3w-marl](https://github.com/zhaozijie2022/m3w-marl) - Official implementation of the paper "Learning and Planning Multi-Agent Tasks via a MoE-based World Model"
+
 *   [HybridRobotics/whole\_body\_tracking](https://github.com/HybridRobotics/whole_body_tracking) -
 
 *   [MrZihan/Dynam3D](https://github.com/MrZihan/Dynam3D) -
@@ -1101,13 +1105,9 @@
 
 *   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 
-*   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
-
-*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
-
-*   [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - \[SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
-
 ## C++
+
+*   [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 *   [rpng/sqrtVINS](https://github.com/rpng/sqrtVINS) - Robust and Ultrafast Square-Root Filter-based 3D Motion Tracking
 
