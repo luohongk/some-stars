@@ -1327,7 +1327,7 @@
 
 *   [xuxw98/ESAM](https://github.com/xuxw98/ESAM) - \[ICLR 2025, Oral] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
 
-*   [GeLuzhou/Dynamic-GSG](https://github.com/GeLuzhou/Dynamic-GSG) - \[IROS25] Dynamic 3D Gaussian Scene Graphs for Environment Adaptation
+*   [GeLuzhou/Dynamic-GSG](https://github.com/GeLuzhou/Dynamic-GSG) - \[IROS 25] Dynamic 3D Gaussian Scene Graphs for Environment Adaptation
 
 *   [fishmarch/ROSTools](https://github.com/fishmarch/ROSTools) -
 
