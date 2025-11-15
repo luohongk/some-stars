@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [Livioni/OmniVGGT-offcial](https://github.com/Livioni/OmniVGGT-offcial) - OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
+
 *   [sair-lab/AirRoom](https://github.com/sair-lab/AirRoom) - \[CVPR 2025] AirRoom: Objects Matter in Room Reidentification
 
 *   [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
@@ -1882,8 +1884,6 @@
 *   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
 
 *   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
-
-*   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
 ## CMake
 
