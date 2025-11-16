@@ -959,7 +959,7 @@
 
 *   [rpng/calc](https://github.com/rpng/calc) - Convolutional Autoencoder for Loop Closure
 
-*   [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+*   [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 
 *   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO 2025] SG-Reg: Generalizable and Efficient Scene Graph Registration
 
@@ -2249,7 +2249,7 @@
 
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
-*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources that significantly outperforms traditional solutions, delivering unified, efficient acceleration across code repositories, package registries, AI inference APIs, container images, models, datasets, and more
+*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources that significantly outperforms traditional solutions, delivering unified, efficient acceleration across code repositories, model and dataset hubs, package registries, container registries, AI inference providers, and more
 
 *   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 
