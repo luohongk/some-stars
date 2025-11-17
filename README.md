@@ -597,6 +597,8 @@
 
 *   [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
 
+*   [HCI-LMC/VLN-SUSA](https://github.com/HCI-LMC/VLN-SUSA) - \[AAAI 2026] Official code for "Agent Journey Beyond RGB: Unveiling Hybrid Semantic-Spatial Environmental Representations for Vision-and-Language Navigation"
+
 *   [QVPR/Patch-NetVLAD](https://github.com/QVPR/Patch-NetVLAD) - Code for the CVPR2021 paper "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition"
 
 *   [Xiaoming-Zhao/PointNav-VO](https://github.com/Xiaoming-Zhao/PointNav-VO) - \[ICCV 2021] Official implementation of "The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation"
@@ -785,7 +787,7 @@
 
 *   [noodle-lab/GaussianSpa](https://github.com/noodle-lab/GaussianSpa) - Project website: https://noodle-lab.github.io/gaussianspa/
 
-*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+*   [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
@@ -1212,8 +1214,6 @@
 *   [aikit-wrc/robosense\_ac\_slam](https://github.com/aikit-wrc/robosense_ac_slam) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 
 *   [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources.
-
-*   [HCI-LMC/VLN-SUSA](https://github.com/HCI-LMC/VLN-SUSA) - \[AAAI 2026] Official code for "Agent Journey Beyond RGB: Unveiling Hybrid Semantic-Spatial Environmental Representations for Vision-and-Language Navigation"
 
 *   [peakpang/UGP](https://github.com/peakpang/UGP) - \[CVPR 2025 Highlight] Unlocking Generalization Power in LiDAR Point Cloud Registration
 
