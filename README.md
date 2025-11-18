@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [Maxwell-Zhao/RoboSimGS](https://github.com/Maxwell-Zhao/RoboSimGS) - Code for "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
+
 *   [Chenkehan21/svm-nav](https://github.com/Chenkehan21/svm-nav) -
 
 *   [fastgs/FastGS](https://github.com/fastgs/FastGS) - Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
@@ -2164,8 +2166,6 @@
 *   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
 
 *   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
-
-*   [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) - \[CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System
 
 ## CMake
 
