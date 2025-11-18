@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [Chenkehan21/svm-nav](https://github.com/Chenkehan21/svm-nav) -
+
 *   [fastgs/FastGS](https://github.com/fastgs/FastGS) - Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 
 *   [agrimgupta92/derl](https://github.com/agrimgupta92/derl) - Code for "Embodied Intelligence via Learning and Evolution", Gupta et al, Nature Communications
@@ -2164,8 +2166,6 @@
 *   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
 
 *   [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) - \[CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System
-
-*   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
 
 ## CMake
 
