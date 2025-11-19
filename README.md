@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [linglingxiansen/SocialNav-Map](https://github.com/linglingxiansen/SocialNav-Map) -
+
+*   [linglingxiansen/MapNav](https://github.com/linglingxiansen/MapNav) -
+
 *   [Maxwell-Zhao/RoboSimGS](https://github.com/Maxwell-Zhao/RoboSimGS) - Code for "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
 
 *   [Chenkehan21/svm-nav](https://github.com/Chenkehan21/svm-nav) -
@@ -1533,8 +1537,6 @@
 
 *   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
 ## C++
 
 *   [2toinf/X-VLA](https://github.com/2toinf/X-VLA) - The offical Implementation of "Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"
@@ -2164,8 +2166,6 @@
 *   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
 
 *   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
-
-*   [mherb/kalman](https://github.com/mherb/kalman) - Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
 
 ## CMake
 
