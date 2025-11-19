@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [AIR-DISCOVER/FreeAskWorld](https://github.com/AIR-DISCOVER/FreeAskWorld) -
+
 *   [linglingxiansen/SocialNav-Map](https://github.com/linglingxiansen/SocialNav-Map) -
 
 *   [linglingxiansen/MapNav](https://github.com/linglingxiansen/MapNav) -
@@ -2164,8 +2166,6 @@
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
 
 *   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
-
-*   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
 
 ## CMake
 
