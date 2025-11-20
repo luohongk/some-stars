@@ -45,6 +45,10 @@
 
 ## Python
 
+*   [lovelyyoshino/TradingAgentForMarket](https://github.com/lovelyyoshino/TradingAgentForMarket) -
+
+*   [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) - SAM 3D Objects
+
 *   [AIR-DISCOVER/FreeAskWorld](https://github.com/AIR-DISCOVER/FreeAskWorld) -
 
 *   [linglingxiansen/SocialNav-Map](https://github.com/linglingxiansen/SocialNav-Map) -
@@ -1125,8 +1129,6 @@
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
 
-*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
-
 ## Jupyter Notebook
 
 *   [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth Anything 3
@@ -1888,8 +1890,6 @@
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 *   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
-*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
 
 ## CMake
 
