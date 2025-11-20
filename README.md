@@ -765,6 +765,8 @@
 
 *   [google-deepmind/mujoco\_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
 
+*   [GarlanLou/LF-GNSS](https://github.com/GarlanLou/LF-GNSS) - LF-GNSS: A Fundamental Framework for Exploring Learning and Filtering Integration in GNSS
+
 *   [Aceinna/gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
 
 *   [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
@@ -1270,8 +1272,6 @@
 *   [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) - A curated list of awesome datasets for SLAM
 
 *   [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
-
-*   [GarlanLou/LF-GNSS](https://github.com/GarlanLou/LF-GNSS) - LF-GNSS: an open-sourced deep learning and Kalman filter integrated framework for satellite positioning.
 
 *   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 
