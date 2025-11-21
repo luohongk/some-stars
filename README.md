@@ -53,7 +53,7 @@
 
 *   [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) - SAM 3D Objects
 
-*   [AIR-DISCOVER/FreeAskWorld](https://github.com/AIR-DISCOVER/FreeAskWorld) -
+*   [AIR-DISCOVER/FreeAskWorld](https://github.com/AIR-DISCOVER/FreeAskWorld) - AAAI'2026 Oral, FreeAskWorld is an interactive simulation framework that integrates large language models (LLMs) for high-level planning and socially grounded interaction in embodied AI.
 
 *   [linglingxiansen/SocialNav-Map](https://github.com/linglingxiansen/SocialNav-Map) -
 
