@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [ymy-k/Hi-SAM](https://github.com/ymy-k/Hi-SAM) - \[IEEE TPAMI] Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation
+
 *   [FlagOpen/RoboCOIN](https://github.com/FlagOpen/RoboCOIN) - RoboCoin + LeRobot integration
 
 *   [facebookresearch/sam-3d-body](https://github.com/facebookresearch/sam-3d-body) - The repository provides code for running inference with the SAM 3D Body Model (3DB), links for downloading the trained model checkpoints and datasets, and example notebooks that show how to use the model.
@@ -1891,8 +1893,6 @@
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
 ## CMake
 
 *   [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) -
@@ -2051,7 +2051,7 @@
 
 *   [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 + Oh My Zsh 打造舒适终端体验
 
-*   [dtc111111/awesome-3dgs-for-robotics](https://github.com/dtc111111/awesome-3dgs-for-robotics) -
+*   [dtc111111/awesome-representation-for-robotics](https://github.com/dtc111111/awesome-representation-for-robotics) -
 
 *   [siyuanliii/SLAck](https://github.com/siyuanliii/SLAck) - Official Implementation of ECCV2024 paper: SLAck
 
