@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
@@ -34,7 +35,7 @@
 *   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [LLVM](#llvm)
-*   [CSS](#css)
+*   [Svelte](#svelte)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
 *   [SCSS](#scss)
@@ -42,6 +43,18 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## CSS
+
+*   [fengtt42/U2UData-2](https://github.com/fengtt42/U2UData-2) - THU-EAI Lab
+
+*   [luohongk/AcademicHomepage](https://github.com/luohongk/AcademicHomepage) - This project is a beautiful personal academic homepage template created by me. Welcome to use it.
+
+*   [zzwu29/Arxiv](https://github.com/zzwu29/Arxiv) -
+
+*   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
+
+*   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
 
 ## Python
 
@@ -1130,8 +1143,6 @@
 *   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 
 *   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
 
 ## Jupyter Notebook
 
@@ -2265,8 +2276,6 @@
 
 *   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -2467,15 +2476,9 @@
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
-## CSS
+## Svelte
 
-*   [luohongk/AcademicHomepage](https://github.com/luohongk/AcademicHomepage) - This project is a beautiful personal academic homepage template created by me. Welcome to use it.
-
-*   [zzwu29/Arxiv](https://github.com/zzwu29/Arxiv) -
-
-*   [Maserhe/VScode-Markdown-theme-Maserhe](https://github.com/Maserhe/VScode-Markdown-theme-Maserhe) - vscode 自定义Markdown排版风格，以及代码块样式风格。
-
-*   [wzzheng/GaussianFormer](https://github.com/wzzheng/GaussianFormer) - Project Page for GaussianFormer
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Matlab
 
