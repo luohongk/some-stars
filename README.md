@@ -1236,7 +1236,7 @@
 
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 
-*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
+*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - \[3DV 2026] ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
 
 *   [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - Step-Audio 2 is an end-to-end multi-modal large language model designed for industry-strength audio understanding and speech conversation.
 
