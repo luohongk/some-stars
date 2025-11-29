@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [UnrealZoo/unrealzoo-gym](https://github.com/UnrealZoo/unrealzoo-gym) - \[ICCV 2025 Highlights] Large-scale photo-realistic virtual worlds for embodied AI
+
 *   [rossning92/helicopter-rl](https://github.com/rossning92/helicopter-rl) - Train a reinforcement learning agent (PPO) to play a retro helicopter arcade game using Stable-Baselines3 and a custom Gymnasium environment.
 
 *   [Jonnyffeler/OutdoorSceneGraph](https://github.com/Jonnyffeler/OutdoorSceneGraph) -
@@ -2169,8 +2171,6 @@
 *   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 
 *   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
-
-*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 
 ## CSS
 
