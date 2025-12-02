@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [xuxw98/Online3D](https://github.com/xuxw98/Online3D) - \[CVPR 2024] Memory-based Adapters for Online 3D Scene Perception
+
 *   [LeCAR-Lab/HDMI](https://github.com/LeCAR-Lab/HDMI) -
 
 *   [EGalahad/sim2real](https://github.com/EGalahad/sim2real) -
@@ -1755,8 +1757,6 @@
 *   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
 
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
-*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 
 ## miscellaneous
 
