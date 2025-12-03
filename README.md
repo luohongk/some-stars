@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [BIT-DYN/OpenGraph](https://github.com/BIT-DYN/OpenGraph) - \[RAL 2024] OpenGraphs: Open-Vocabulary Hierarchical 3D Scene Graphs in Large-Scale Outdoor Environments
+
 *   [amazon-far/TWIST2](https://github.com/amazon-far/TWIST2) - \[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
 
 *   [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - Slam Challenge 2026 - Early Release
@@ -1139,8 +1141,6 @@
 *   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 
 *   [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - \[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
-
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 
 ## C++
 
