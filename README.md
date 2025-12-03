@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [amazon-far/TWIST2](https://github.com/amazon-far/TWIST2) - \[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
+
 *   [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - Slam Challenge 2026 - Early Release
 
 *   [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) - PACE: A systematic approach for sim-to-real transfer of legged robots, identifying actuator and joint dynamics with standard joint encoders.
@@ -2174,8 +2176,6 @@
 
 *   [heucoder/ML-DL\_book](https://github.com/heucoder/ML-DL_book) - 机器学习、深度学习一些个人认为不错的书籍。
 
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
 ## CSS
 
 *   [fengtt42/U2UData-2](https://github.com/fengtt42/U2UData-2) - THU-EAI Lab
@@ -2270,7 +2270,7 @@
 
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
-*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources that significantly outperforms traditional solutions, delivering unified, efficient acceleration across code repositories, model and dataset hubs, package registries, container registries, AI inference providers, and more
+*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
 *   [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 
