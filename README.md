@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [fanegg/Human3R](https://github.com/fanegg/Human3R) - An unified model for 4D human-scene reconstruction
+
 *   [co-me-tokens/CoMe](https://github.com/co-me-tokens/CoMe) - Release repository of our work "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
 
 *   [BIT-DYN/OpenGraph](https://github.com/BIT-DYN/OpenGraph) - \[RAL 2024] OpenGraphs: Open-Vocabulary Hierarchical 3D Scene Graphs in Large-Scale Outdoor Environments
@@ -764,7 +766,7 @@
 
 *   [HKUDS/GraphGPT](https://github.com/HKUDS/GraphGPT) - \[SIGIR'2024] "GraphGPT: Graph Instruction Tuning for Large Language Models"
 
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volumetric reconstruction pipeline, integration of depth prediction models, and semantic segmentation for enhanced scene understanding.
+*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.
 
 *   [wangyizhao/PRIOR-SLAM](https://github.com/wangyizhao/PRIOR-SLAM) - PRIOR-SLAM: Enabling Visual SLAM for Loop Closure under Large Viewpoint Variations
 
@@ -1759,8 +1761,6 @@
 *   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
 
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-*   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 ## miscellaneous
 
