@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [co-me-tokens/CoMe](https://github.com/co-me-tokens/CoMe) - Release repository of our work "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
+
 *   [BIT-DYN/OpenGraph](https://github.com/BIT-DYN/OpenGraph) - \[RAL 2024] OpenGraphs: Open-Vocabulary Hierarchical 3D Scene Graphs in Large-Scale Outdoor Environments
 
 *   [amazon-far/TWIST2](https://github.com/amazon-far/TWIST2) - \[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
@@ -1144,6 +1146,8 @@
 
 ## C++
 
+*   [zhanjiawang/plane\_localization](https://github.com/zhanjiawang/plane_localization) - This is a ROS package for indoor global localization (relocation) based on plane octree and plane features.
+
 *   [3dv-casia/LSLM\_VLoc](https://github.com/3dv-casia/LSLM_VLoc) - \[RAL 2024] Lightweight Structured Line Map Based Visual Localization
 
 *   [rabienrose/crowdsourcing\_visual\_positioning\_system](https://github.com/rabienrose/crowdsourcing_visual_positioning_system) - System of recording data, mapping, visualization and positioning based on mobile phone sensors
@@ -1758,10 +1762,6 @@
 
 *   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-*   [ethz-asl/ethzasl\_msf](https://github.com/ethz-asl/ethzasl_msf) - MSF - Modular framework for multi sensor fusion based on an Extended Kalman Filter (EKF)
-
-*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
 ## miscellaneous
 
 *   [DennisRotondi/awesome-3D-scene-graphs](https://github.com/DennisRotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources!
@@ -2270,7 +2270,7 @@
 
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
-*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+*   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
 *   [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 
