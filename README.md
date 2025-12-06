@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [wang-kevin3290/scaling-crl](https://github.com/wang-kevin3290/scaling-crl) -
+
 *   [fanegg/Human3R](https://github.com/fanegg/Human3R) - An unified model for 4D human-scene reconstruction
 
 *   [co-me-tokens/CoMe](https://github.com/co-me-tokens/CoMe) - Release repository of our work "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
@@ -2039,8 +2041,6 @@
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
-*   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
 
 ## Jupyter Notebook
 
