@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [open-gigaai/giga-brain-0](https://github.com/open-gigaai/giga-brain-0) - GigaBrain-0: A World Model-Powered Vision-Language-Action Model
+
 *   [wang-kevin3290/scaling-crl](https://github.com/wang-kevin3290/scaling-crl) -
 
 *   [fanegg/Human3R](https://github.com/fanegg/Human3R) - An unified model for 4D human-scene reconstruction
@@ -1761,8 +1763,6 @@
 *   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
 
 *   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
-
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
 ## miscellaneous
 
