@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [arclab-hku/P2M](https://github.com/arclab-hku/P2M) - \[RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in Dynamic Environments
+
 *   [3DAgentWorld/VGGT4D](https://github.com/3DAgentWorld/VGGT4D) - The official implementation of the paper “VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction.”
 
 *   [Mayankm96/isaac-spinning-up](https://github.com/Mayankm96/isaac-spinning-up) - Educational Resource for Isaac Lab
@@ -431,6 +433,8 @@
 *   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
 
 *   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
+
+*   [Zeying-Gong/ascent](https://github.com/Zeying-Gong/ascent) - This is the official code for "Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration"
 
 *   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - \[NeurIPS 2025, Spotlight] Rectified Point Flow: Generic Point Cloud Pose Estimation
 
@@ -2118,8 +2122,6 @@
 
 *   [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 -  A Foundation Model for Generalist Robots.
 
-*   [Zeying-Gong/ascent](https://github.com/Zeying-Gong/ascent) -
-
 *   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 
 *   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
@@ -2333,8 +2335,6 @@
 *   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 
 ## HTML
 
