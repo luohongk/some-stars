@@ -1252,8 +1252,6 @@
 
 *   [iceberg1369/PPPLib\_v2.0](https://github.com/iceberg1369/PPPLib_v2.0) -
 
-*   [chengwei0427/II-NVM](https://github.com/chengwei0427/II-NVM) - \[RA-L'25 & IROS'25] II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping
-
 *   [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) - A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches.
 
 *   [wz0919/VLN-SRDF](https://github.com/wz0919/VLN-SRDF) - Official implementation of: Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel
@@ -1657,6 +1655,8 @@
 *   [KumarRobotics/SLIDE\_SLAM](https://github.com/KumarRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
 *   [lixiny/ORB-SLAM2-DualCam](https://github.com/lixiny/ORB-SLAM2-DualCam) - 🎓  SJTU M.S. Dissertation. 基于多相机的同步定位与建图方法研究
+
+*   [chengwei0427/II-NVM](https://github.com/chengwei0427/II-NVM) - \[RA-L'25 & IROS'25] II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping
 
 *   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) - A highly robust and accurate LiDAR-only,  LiDAR-inertial odometry
 
