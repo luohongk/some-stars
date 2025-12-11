@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [Xian-Bei/TALO](https://github.com/Xian-Bei/TALO) - Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction
+
 *   [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 
 *   [arclab-hku/P2M](https://github.com/arclab-hku/P2M) - \[RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in Dynamic Environments
@@ -247,6 +249,8 @@
 *   [Heathcliff-saku/BSC-Nav](https://github.com/Heathcliff-saku/BSC-Nav) - This repository is the official implementation of our paper (From reactive to cognitive: brain-inspired spatial intelligence for embodied agents)
 
 *   [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) - 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
+
+*   [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 
 *   [Tencent-Hunyuan/Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) - Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition
 
@@ -1170,8 +1174,6 @@
 
 *   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
-*   [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
-
 *   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 
 *   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
@@ -1801,8 +1803,6 @@
 *   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
 
 *   [openxrlab/xrslam](https://github.com/openxrlab/xrslam) - OpenXRLab Visual-inertial SLAM Toolbox and Benchmark
-
-*   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 ## miscellaneous
 
