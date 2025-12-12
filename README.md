@@ -1772,7 +1772,7 @@
 
 ## miscellaneous
 
-*   [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - Towards Unified Latent VLA for Whole-body Loco-manipulation Control
+*   [OpenDriveLab/WholebodyVLA-Awesome-Paper-List](https://github.com/OpenDriveLab/WholebodyVLA-Awesome-Paper-List) - Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 
 *   [thomaschabal/fom-nav](https://github.com/thomaschabal/fom-nav) - Official implementation of "FOM-Nav: Frontier-Object Maps for Object Goal Navigation". Code release expected in December 2025.
 
