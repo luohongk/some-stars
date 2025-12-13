@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [Ericonaldo/visual\_wholebody](https://github.com/Ericonaldo/visual_wholebody) - Train a loco-manipulation dog with RL
+
 *   [facebookresearch/spider](https://github.com/facebookresearch/spider) - A general physic-based retargeting framework.
 
 *   [WzcTHU/SeeNav-Agent](https://github.com/WzcTHU/SeeNav-Agent) -
@@ -1167,8 +1169,6 @@
 *   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
 *   [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
-
-*   [Awesome3DGS/3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - 3D高斯论文，持续更新，欢迎交流讨论。
 
 ## C++
 
