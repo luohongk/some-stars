@@ -46,6 +46,10 @@
 
 ## Python
 
+*   [facebookresearch/spider](https://github.com/facebookresearch/spider) - A general physic-based retargeting framework.
+
+*   [WzcTHU/SeeNav-Agent](https://github.com/WzcTHU/SeeNav-Agent) -
+
 *   [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning
 
 *   [Any-4D/Any4D](https://github.com/Any-4D/Any4D) - Any4D: Unified Feed-Forward Metric 4D Reconstruction
@@ -1768,8 +1772,6 @@
 
 *   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
 
-*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
-
 ## miscellaneous
 
 *   [OpenDriveLab/WholebodyVLA-Awesome-Paper-List](https://github.com/OpenDriveLab/WholebodyVLA-Awesome-Paper-List) - Towards Unified Latent VLA for Whole-body Loco-manipulation Control
@@ -2369,8 +2371,6 @@
 *   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
 
 *   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## Rust
 
