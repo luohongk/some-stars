@@ -46,6 +46,8 @@
 
 ## C++
 
+*   [ZikangYuan/sr\_livo](https://github.com/ZikangYuan/sr_livo) - \[RA-L 2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method
+
 *   [koide3/glim](https://github.com/koide3/glim) - GLIM: versatile and extensible point cloud-based 3D localization and mapping framework
 
 *   [Robotic-Developer-Road/FAST-LIVO2](https://github.com/Robotic-Developer-Road/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
@@ -644,11 +646,9 @@
 
 *   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
 
-*   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
-
-*   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
-
 ## Python
+
+*   [ZHUANGHP/Any-SSR](https://github.com/ZHUANGHP/Any-SSR) - This is the official code for Any-SSR "Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model"
 
 *   [Ericonaldo/visual\_wholebody](https://github.com/Ericonaldo/visual_wholebody) - Train a loco-manipulation dog with RL
 
