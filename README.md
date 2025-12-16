@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [realsee-developer/RealSee3D](https://github.com/realsee-developer/RealSee3D) - RealSee3D: A multi-view RGB-D dataset combining real-world captures and procedurally generated scenes, with extensible annotations for diverse 3D vision research.
+
 *   [Galery23/SAGE-3D\_Official](https://github.com/Galery23/SAGE-3D_Official) - This is the official repository of the paper "Towards Physically Executable 3D Gaussian for Embodied Navigation".
 
 *   [ZHUANGHP/Any-SSR](https://github.com/ZHUANGHP/Any-SSR) - This is the official code for Any-SSR "Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model"
@@ -2222,8 +2224,6 @@
 
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
-*   [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - \[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
 ## CSS
 
 *   [fengtt42/U2UData-2](https://github.com/fengtt42/U2UData-2) - THU-EAI Lab
@@ -2318,7 +2318,7 @@
 
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
-*   [xget-org/xget](https://github.com/xget-org/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+*   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
 *   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 
