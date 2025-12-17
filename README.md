@@ -1510,7 +1510,7 @@
 
 *   [YWL0720/YOLO\_ORB\_SLAM3](https://github.com/YWL0720/YOLO_ORB_SLAM3) - This is an improved version of ORB-SLAM3 that adds an object detection module implemented with YOLOv5 to achieve SLAM in dynamic environments.
 
-*   [ACFR-RPG/DynOSAM](https://github.com/ACFR-RPG/DynOSAM) - Offical code release for DynoSAM: Dynamic Object Smoothing And Mapping \[Submitted TRO Visual SLAM SI]. A visual SLAM framework and pipeline for Dynamic environements, estimating for the motion/pose of objects and their structure, as well as the camera odometry and static map.
+*   [ACFR-RPG/DynOSAM](https://github.com/ACFR-RPG/DynOSAM) - Offical code release for DynoSAM: Dynamic Object Smoothing And Mapping. Accepted Transactions on Robotics (Visual SLAM SI). A visual SLAM framework and pipeline for Dynamic environements, estimating for the motion/pose of objects and their structure, as well as the camera odometry and static map.
 
 *   [suchetanrs/ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
 
