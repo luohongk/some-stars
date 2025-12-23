@@ -1186,7 +1186,7 @@
 
 *   [AMAP-EAI/SocialNav](https://github.com/AMAP-EAI/SocialNav) - Official implementation for "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation"
 
-*   [HorizonRobotics/HoBotBrain](https://github.com/HorizonRobotics/HoBotBrain) - A unified agent system for general-purpose robots.
+*   [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) - A unified agent system for general-purpose robots.
 
 *   [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) -
 
