@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [ika-rwth-aachen/ros2\_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) - A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
+
 *   [NVlabs/vla0](https://github.com/NVlabs/vla0) - VLA-0: Building State-of-the-Art VLAs with Zero Modification
 
 *   [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Software stack for loco-manipulation experiments across multiple humanoid platforms, with primary support for the Unitree G1. This repository provides whole-body control policies, a teleoperation stack, and a data exporter.
@@ -1173,8 +1175,6 @@
 *   [buaacyw/MeshAnything](https://github.com/buaacyw/MeshAnything) - \[ICLR 2025] From anything to mesh like human artists. Official impl. of "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers"
 
 *   [swc-17/SparseDrive](https://github.com/swc-17/SparseDrive) - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
-
-*   [minghanqin/LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting" \[CVPR2024 Highlight]
 
 ## miscellaneous
 
