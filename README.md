@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) - Mobile manipulation research tools for roboticists
+
 *   [MaureenZOU/m3-spatial](https://github.com/MaureenZOU/m3-spatial) - \[ICLR 2025] Official Implementation of M3: 3D-Spatial Multimodal Memory
 
 *   [ika-rwth-aachen/ros2\_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) - A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
@@ -1917,8 +1919,6 @@
 *   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement
 
 *   [BertaBescos/DynaSLAM](https://github.com/BertaBescos/DynaSLAM) - DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
-
-*   [HKUST-Aerial-Robotics/FC-Planner](https://github.com/HKUST-Aerial-Robotics/FC-Planner) - \[ICRA'24 Best UAV Paper Award Finalist] An Efficient Global Planner for Aerial Coverage
 
 ## miscellaneous
 
