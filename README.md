@@ -290,7 +290,7 @@
 
 *   [CrystalSixone/VLN\_CLASH](https://github.com/CrystalSixone/VLN_CLASH) - This is the official repository for VLN-CLASH.
 
-*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and multi-modality models.
 
 *   [OpenGalaxea/G0](https://github.com/OpenGalaxea/G0) - Galaxea's first VLA release
 
