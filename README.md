@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [Wenyueh/MinivLLM](https://github.com/Wenyueh/MinivLLM) - Based on Nano-vLLM, a simple replication of vLLM with self-contained paged attention and flash attention implementation
+
 *   [RPL-CS-UCL/litevloc\_code](https://github.com/RPL-CS-UCL/litevloc_code) - LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation
 
 *   [william13077/IAmGoodNavigator](https://github.com/william13077/IAmGoodNavigator) -
@@ -1919,8 +1921,6 @@
 *   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
 
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
-
-*   [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector) - Fast loop detector for sequences of monocular images
 
 ## Jupyter Notebook
 
