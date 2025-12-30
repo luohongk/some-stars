@@ -46,6 +46,10 @@
 
 ## Python
 
+*   [ManifoldTechLtd/Odin-Nav-Stack](https://github.com/ManifoldTechLtd/Odin-Nav-Stack) - An open-source navigation stack based on Odin1.
+
+*   [R-C-Group/Odin-Navigation-Stack](https://github.com/R-C-Group/Odin-Navigation-Stack) - Odin-Navigation-Stack的解读
+
 *   [Wenyueh/MinivLLM](https://github.com/Wenyueh/MinivLLM) - Based on Nano-vLLM, a simple replication of vLLM with self-contained paged attention and flash attention implementation
 
 *   [RPL-CS-UCL/litevloc\_code](https://github.com/RPL-CS-UCL/litevloc_code) - LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation
@@ -2064,8 +2068,6 @@
 
 *   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
-*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
-
 ## miscellaneous
 
 *   [curionox/lifekline](https://github.com/curionox/lifekline) - 人生K线 - 基于AI的八字命理可视化工具
@@ -2567,8 +2569,6 @@
 *   [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) -
 
 *   [MichaelBeechan/PPP-RTK](https://github.com/MichaelBeechan/PPP-RTK) - SPP、RTD、PPP、RTK、PPP-RTK、RAIM、ARAIM et al
-
-*   [Amoiensis/Matrix\_hub](https://github.com/Amoiensis/Matrix_hub) - A lib of Matrix operation for C language. (矩阵运算库--C语言)
 
 ## Rust
 
