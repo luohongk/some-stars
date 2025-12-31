@@ -1162,7 +1162,7 @@
 
 *   [Zeying-Gong/Falcon](https://github.com/Zeying-Gong/Falcon) - Official Code for "From Cognition to Precognition: A Future-Aware Framework for Social Navigation" (ICRA 2025)
 
-*   [Zeying-Gong/ascent](https://github.com/Zeying-Gong/ascent) - This is the official code for "Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration"
+*   [Zeying-Gong/ascent](https://github.com/Zeying-Gong/ascent) - \[RAL‘26] Stairway to Success: An Online Floor-Aware Zero-Shot Object-Goal Navigation Framework via LLM-Driven Coarse-to-Fine Exploration
 
 *   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - \[NeurIPS 2025, Spotlight] Rectified Point Flow: Generic Point Cloud Pose Estimation
 
