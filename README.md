@@ -1244,6 +1244,10 @@
 
 *   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 
+*   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
+
+*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
+
 ## miscellaneous
 
 *   [marmotlab/ORION-multi-agent-navigation](https://github.com/marmotlab/ORION-multi-agent-navigation) - ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
@@ -1544,7 +1548,7 @@
 
 ## C++
 
-*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2025】A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
+*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
 
 *   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
@@ -1986,8 +1990,6 @@
 
 *   [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - \[ICCV'25] GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 
-*   [Unsigned-Long/Useful-Functions](https://github.com/Unsigned-Long/Useful-Functions) - Give it a try! Try and die!
-
 *   [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
 
 *   [farhad-dalirani/StereoVision-SLAM](https://github.com/farhad-dalirani/StereoVision-SLAM) - StereoVision-SLAM is a real-time visual stereo SLAM (Simultaneous Localization and Mapping)
@@ -2217,8 +2219,6 @@
 *   [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) - \[CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System
 
 *   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
-
-*   [Unsigned-Long/RIs-Calib](https://github.com/Unsigned-Long/RIs-Calib) - \[IEEE TIM 2025] a continuous-time-based multi-radar multi-imu spatiotemporal calibrator
 
 *   [Lab-of-AI-and-Robotics/GS\_ICP\_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - \[ECCV 2024] RGBD GS-ICP SLAM
 
