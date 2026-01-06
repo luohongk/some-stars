@@ -1578,7 +1578,7 @@
 
 *   [EdgarFx/BoWG](https://github.com/EdgarFx/BoWG) - The official source code for "Bag of Word Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing" (IROS 2025)
 
-*   [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) - A unified agent system for general-purpose robots.
+*   [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) - A unified, agentic system for general-purpose robots, enabling multi-modal perception, mapping and localization, and autonomous mobility and manipulation, with intelligent interaction with users.
 
 *   [linyicheng1/LET-NET2](https://github.com/linyicheng1/LET-NET2) - An end-to-end lightweight CNN designed for sparse corner extraction and tracking
 
