@@ -62,8 +62,6 @@
 
 *   [AMAP-EAI/SocialNav](https://github.com/AMAP-EAI/SocialNav) - Official implementation for "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation"
 
-*   [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) - A unified agent system for general-purpose robots.
-
 *   [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) -
 
 *   [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
@@ -1579,6 +1577,8 @@
 *   [EdgarFx/BoWG\_VINS\_Loop](https://github.com/EdgarFx/BoWG_VINS_Loop) - Integrates Bag-of-Word-Groups (BoWG) loop closure detection into VINS-Fusion
 
 *   [EdgarFx/BoWG](https://github.com/EdgarFx/BoWG) - The official source code for "Bag of Word Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing" (IROS 2025)
+
+*   [HorizonRobotics/HoloAgent](https://github.com/HorizonRobotics/HoloAgent) - A unified agent system for general-purpose robots.
 
 *   [linyicheng1/LET-NET2](https://github.com/linyicheng1/LET-NET2) - An end-to-end lightweight CNN designed for sparse corner extraction and tracking
 
