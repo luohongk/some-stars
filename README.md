@@ -46,6 +46,8 @@
 
 ## miscellaneous
 
+*   [MrZihan/D3D-VLP](https://github.com/MrZihan/D3D-VLP) -
+
 *   [mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - A set of Gazebo worlds models and maps that I used for testing Navigation2
 
 *   [marmotlab/ORION-multi-agent-navigation](https://github.com/marmotlab/ORION-multi-agent-navigation) - ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
@@ -1541,8 +1543,6 @@
 *   [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 
 *   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
-
-*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
 
 ## C++
 
