@@ -1546,6 +1546,8 @@
 
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
 
+*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
+
 ## C++
 
 *   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
@@ -1911,8 +1913,6 @@
 *   [lpercc/HA3D\_simulator](https://github.com/lpercc/HA3D_simulator) - Official implementation of Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions (NeurIPS DB Track'24 Spotlight).
 
 *   [google/minja](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates
-
-*   [Unsigned-Long/eKalibr](https://github.com/Unsigned-Long/eKalibr) - \[IEEE RA-L 2025] eKalibr: Event Camera Calibration Framework
 
 *   [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 
