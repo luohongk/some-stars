@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [lukasmolnar/wb-mpc-locoman](https://github.com/lukasmolnar/wb-mpc-locoman) - A flexible optimization framework for whole-body loco-manipulation, built with Pinocchio and CasADi. Supports multiple dynamics formulations and solver backends.
+
 *   [nvidia-cosmos/cosmos-predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5) - Cosmos-Predict2.5, the latest version of the Cosmos World Foundation Models (WFMs) family, specialized for simulating and predicting the future state of the world in the form of video.
 
 *   [be2rlab/km-vipe](https://github.com/be2rlab/km-vipe) - Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM
@@ -1543,8 +1545,6 @@
 *   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
-
-*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
 ## C++
 
