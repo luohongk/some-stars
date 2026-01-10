@@ -385,7 +385,7 @@
 
 *   [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - \[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
 
-*   [FlagOpen/RoboBrain2.0](https://github.com/FlagOpen/RoboBrain2.0) - RoboBrain 2.0: Advanced version of RoboBrain. See Better. Think Harder. Do Smarter. 🎉🎉🎉
+*   [FlagOpen/RoboBrain2.5](https://github.com/FlagOpen/RoboBrain2.5) - RoboBrain 2.5: Advanced version of RoboBrain. Depth in Sight, Time in Mind. 🎉🎉🎉
 
 *   [unitreerobotics/unitree\_rl\_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 
