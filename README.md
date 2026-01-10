@@ -35,7 +35,6 @@
 *   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [LLVM](#llvm)
-*   [Svelte](#svelte)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
 *   [SCSS](#scss)
@@ -857,6 +856,8 @@
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 
 *   [fudan-zvg/DG-SLAM](https://github.com/fudan-zvg/DG-SLAM) - \[NeurIPS 2024] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 
@@ -2675,10 +2676,6 @@
 ## LLVM
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-
-## Svelte
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Matlab
 
