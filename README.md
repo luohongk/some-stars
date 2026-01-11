@@ -473,7 +473,7 @@
 
 *   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) -
 
-*   [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+*   [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 
 *   [InternRobotics/NavDP](https://github.com/InternRobotics/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
 
