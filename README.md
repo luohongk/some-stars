@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [hwjiang1510/RayZer](https://github.com/hwjiang1510/RayZer) - Code for ICCV'2025 (Best student paper honorable mention) "RayZer: A Self-supervised Large View Synthesis Model"
+
 *   [Spirit-AI-Team/spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5) - Spirit-v1.5: A Robotic Foundation Model by Spirit AI
 
 *   [lukasmolnar/wb-mpc-locoman](https://github.com/lukasmolnar/wb-mpc-locoman) - A flexible optimization framework for whole-body loco-manipulation, built with Pinocchio and CasADi. Supports multiple dynamics formulations and solver backends.
@@ -2364,8 +2366,6 @@
 *   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
 *   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
 ## TypeScript
 
