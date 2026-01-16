@@ -2081,7 +2081,7 @@
 
 *   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 
-*   [LongHZ140516/awesome-framework-gallery](https://github.com/LongHZ140516/awesome-framework-gallery) - Awesome lists about framework figures in papers
+*   [LongHZ140516/PaperGallery](https://github.com/LongHZ140516/PaperGallery) - A curated gallery and toolkit designed to provide inspiration for scientific illustrations, project sites, and visual storytelling in research.
 
 *   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
 
