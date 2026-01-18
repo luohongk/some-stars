@@ -2279,7 +2279,7 @@
 
 *   [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 
-*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCVW2025) Learning-based Event-Inertial Odometry
+*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCV2025) Learning-based Event-Inertial Odometry
 
 *   [mit-acl/dynus](https://github.com/mit-acl/dynus) -
 
