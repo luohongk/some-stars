@@ -265,8 +265,6 @@
 
 *   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
-*   [InternRobotics/InternVLA-A1](https://github.com/InternRobotics/InternVLA-A1) - InternVLA-A1: Unifying Understanding, Generation, and Action for Robotic Manipulation​
-
 *   [BIT-DYN/omnimap](https://github.com/BIT-DYN/omnimap) - \[TRO 2025] OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics
 
 *   [InternRobotics/InternVLA-M1](https://github.com/InternRobotics/InternVLA-M1) - InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy
@@ -2288,6 +2286,8 @@
 *   [IDEA-Research/Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2) - Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2
 
 *   [nv-tlabs/GEN3C](https://github.com/nv-tlabs/GEN3C) - \[CVPR 2025 Highlight] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control
+
+*   [InternRobotics/InternVLA-A1](https://github.com/InternRobotics/InternVLA-A1) - InternVLA-A1: Unifying Understanding, Generation, and Action for Robotic Manipulation​
 
 *   [LaVi-Lab/VG-LLM](https://github.com/LaVi-Lab/VG-LLM) - The code for paper 'Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors'
 
