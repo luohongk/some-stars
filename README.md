@@ -385,6 +385,8 @@
 
 *   [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) - \[RSS'25] This repository is the implementation of "NaVILA: Legged Robot Vision-Language-Action Model for Navigation"
 
+*   [LiteReality/LiteReality](https://github.com/LiteReality/LiteReality) - \[NeurIPS 2025] LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans
+
 *   [WHU-USI3DV/PatchAugNet](https://github.com/WHU-USI3DV/PatchAugNet) - PatchAugNet: Patch feature augmentation-based heterogeneous point cloud place recognition in large-scale street scenes
 
 *   [InternRobotics/AnySplat](https://github.com/InternRobotics/AnySplat) - \[SIGGRAPH Asia 2025 (ACM TOG)] AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views
@@ -2032,8 +2034,6 @@
 *   [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 
 *   [knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang](https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang) - 讨贼王云鹤檄文
-
-*   [LiteReality/LiteReality](https://github.com/LiteReality/LiteReality) - \[NeurIPS 2025] LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans
 
 *   [Franky-X/TON-VIO](https://github.com/Franky-X/TON-VIO) -
 
