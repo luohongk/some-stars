@@ -221,7 +221,7 @@
 
 *   [woyut/NavQ\_ICCV25](https://github.com/woyut/NavQ_ICCV25) - Implementation of "NavQ: Learning a Q-Model for Foresighted Vision-and-Language Navigation" (ICCV 2025)
 
-*   [Ausbxuse/Humanoid-Everyday](https://github.com/Ausbxuse/Humanoid-Everyday) - Humanoid dataset for learning
+*   [physical-superintelligence-lab/Humanoid-Everyday](https://github.com/physical-superintelligence-lab/Humanoid-Everyday) - Humanoid dataset for learning
 
 *   [NHirose/OmniVLA](https://github.com/NHirose/OmniVLA) - Official repository for OmniVLA training and inference code
 
