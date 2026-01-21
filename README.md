@@ -47,7 +47,7 @@
 
 *   [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 
-*   [AgibotTech/genie\_sim](https://github.com/AgibotTech/genie_sim) - The Simulation Framework from AgiBot
+*   [AgibotTech/genie\_sim](https://github.com/AgibotTech/genie_sim) - Simulation Platform from AgiBot
 
 *   [hwjiang1510/RayZer](https://github.com/hwjiang1510/RayZer) - Code for ICCV'2025 (Best student paper honorable mention) "RayZer: A Self-supervised Large View Synthesis Model"
 
@@ -1455,7 +1455,7 @@
 
 *   [Geekgineer/YOLOs-CPP](https://github.com/Geekgineer/YOLOs-CPP) - Cross-Platform Production-ready C++ inference engine for YOLO models (v5-v12, YOLO26). Unified API for detection, segmentation, pose estimation, OBB, and classification. Built on ONNX Runtime and OpenCV. Optimized for CPU/GPU with quantization support.
 
-*   [zydddd/CornerVINS](https://github.com/zydddd/CornerVINS) -
+*   [zydddd/CornerVINS](https://github.com/zydddd/CornerVINS) - \[T-RO'25] CornerVINS: Accurate Localization and Layout Mapping for Structural Environments Leveraging Hierarchical Geometric Representations
 
 *   [HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
 
@@ -2259,7 +2259,7 @@
 
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 南瓜书：《机器学习》（西瓜书）公式详解
 
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
