@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+
 *   [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 
 *   [AgibotTech/genie\_sim](https://github.com/AgibotTech/genie_sim) - Simulation Platform from AgiBot
@@ -2269,8 +2271,6 @@
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
 *   [cbamls/AI\_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
-
-*   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 ## Jupyter Notebook
 
