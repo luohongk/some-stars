@@ -874,6 +874,8 @@
 
 *   [MrZihan/HNR-VLN](https://github.com/MrZihan/HNR-VLN) - Official implementation of Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation (CVPR'24 Highlight).
 
+*   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
+
 *   [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 
 *   [cshizhe/onav\_rim](https://github.com/cshizhe/onav_rim) -
@@ -2561,8 +2563,6 @@
 ## TeX
 
 *   [Azure1210/elegantbook-magic-revision](https://github.com/Azure1210/elegantbook-magic-revision) - Elegentbook魔改版本!
-
-*   [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
 
 *   [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
 
