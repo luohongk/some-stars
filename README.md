@@ -576,7 +576,7 @@
 
 *   [manycore-research/SpatialGen](https://github.com/manycore-research/SpatialGen) - \[3DV 2026] SpatialGen: Layout-guided 3D Indoor Scene Generation
 
-*   [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
+*   [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - \[ICLR 2026] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 
 *   [NJU-3DV/SpatialVID](https://github.com/NJU-3DV/SpatialVID) - SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
 
@@ -648,7 +648,7 @@
 
 *   [ShaohonChen/Qwen3-SmVL](https://github.com/ShaohonChen/Qwen3-SmVL) - 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调
 
-*   [yyfz/Pi3](https://github.com/yyfz/Pi3) - Code of π^3: Permutation-Equivariant Visual Geometry Learning
+*   [yyfz/Pi3](https://github.com/yyfz/Pi3) - \[ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
 
 *   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 
@@ -1233,6 +1233,8 @@
 *   [hustvl/DiffusionDrive](https://github.com/hustvl/DiffusionDrive) - \[CVPR 2025 Highlight] Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving
 
 *   [ispc-lab/HRegNet](https://github.com/ispc-lab/HRegNet) - \[ICCV 2021] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration
+
+*   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
 
@@ -2631,8 +2633,6 @@
 *   [qdLMF/LightGlue-with-FlashAttentionV2-TensorRT](https://github.com/qdLMF/LightGlue-with-FlashAttentionV2-TensorRT) - A cutlass cute  implementation of headdim-64 flashattentionv2 TensorRT plugin for LightGlue. Run on Jetson Orin NX 8GB with TensorRT 8.5.2.
 
 *   [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-
-*   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 
 *   [MarvinChung/Orbeez-SLAM](https://github.com/MarvinChung/Orbeez-SLAM) -
 
