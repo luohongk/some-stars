@@ -1646,7 +1646,7 @@
 
 *   [LiangHongY/fusions\_slam](https://github.com/LiangHongY/fusions_slam) - fastlio+rtk+speed,ieskf
 
-*   [2toinf/X-VLA](https://github.com/2toinf/X-VLA) - The offical Implementation of "Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"
+*   [2toinf/X-VLA](https://github.com/2toinf/X-VLA) - \[ICLR 2026] The offical Implementation of "Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model"
 
 *   [InternRobotics/OpenHomie](https://github.com/InternRobotics/OpenHomie) - Open-sourced code for "HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit".
 
