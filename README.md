@@ -58,7 +58,7 @@
 
 *   [curionox/lifekline](https://github.com/curionox/lifekline) - 人生K线 - 基于AI的八字命理可视化工具
 
-*   [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - Towards Unified Latent VLA for Whole-body Loco-manipulation Control
+*   [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - \[ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 
 *   [thomaschabal/fom-nav](https://github.com/thomaschabal/fom-nav) - Official implementation of "FOM-Nav: Frontier-Object Maps for Object Goal Navigation". Code release expected in December 2025.
 
@@ -1200,7 +1200,7 @@
 
 *   [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
 
-*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - \[IROS 2025 Award Finalist] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
+*   [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) - \[IROS 2025 Best Paper Award Finalist] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems
 
 *   [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
