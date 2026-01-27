@@ -552,7 +552,7 @@
 
 *   [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
 
-*   [fscdc/RewardMap](https://github.com/fscdc/RewardMap) - \[arxiv 2025] RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning
+*   [fscdc/RewardMap](https://github.com/fscdc/RewardMap) - \[ICLR 2026] RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning
 
 *   [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) - VLA-RFT: Vision-Language-Action Models with Reinforcement Fine-Tuning
 
