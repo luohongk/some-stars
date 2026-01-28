@@ -2390,7 +2390,7 @@
 
 *   [AnyLoc/Revisit-Anything](https://github.com/AnyLoc/Revisit-Anything) - Code release for Revisit Anything: Visual Place Recognition via Image Segment Retrieval (ECCV 2024)
 
-*   [haksorus/gsplatloc](https://github.com/haksorus/gsplatloc) - \[IROS 2025] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+*   [be2rlab/gsplatloc](https://github.com/be2rlab/gsplatloc) - \[IROS 2025] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
 
 *   [TommyZihao/Train\_Custom\_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
 
