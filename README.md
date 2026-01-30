@@ -362,7 +362,7 @@
 
 *   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 
-*   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
+*   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - \[ICLR 2026] Streaming 4D Visual Geometry Transformer
 
 *   [leandro-svg/HybridTrack](https://github.com/leandro-svg/HybridTrack) - \[RA-L25/ICRA26] HybridTrack: A Hybrid Approach for Robust Multi-Object Tracking
 
