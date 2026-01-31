@@ -1608,7 +1608,7 @@
 
 *   [KwanWaiPang/Elevation\_Map](https://github.com/KwanWaiPang/Elevation_Map) - VINS-Mono + Elevation Mapping
 
-*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
+*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RA-L 2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
 
 *   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
