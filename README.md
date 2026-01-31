@@ -368,7 +368,7 @@
 
 *   [wencan25/Fast3D](https://github.com/wencan25/Fast3D) - \[ACM MM 2025] Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding
 
-*   [Selen-Suyue/MBA](https://github.com/Selen-Suyue/MBA) - \[RA-L 2025] :kissing\_cat: Motion Before Action: Diffusing Object Motion as Manipulation Condition
+*   [Selen-Suyue/MBA](https://github.com/Selen-Suyue/MBA) - \[RA-L 2025 & ICRA 2026] :kissing\_cat: Motion Before Action: Diffusing Object Motion as Manipulation Condition
 
 *   [lisj575/GaussianUDF](https://github.com/lisj575/GaussianUDF) - Code Release for CVPR (2025), "GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting"
 
