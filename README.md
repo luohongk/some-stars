@@ -36,6 +36,7 @@
 *   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [LLVM](#llvm)
+*   [MDX](#mdx)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
 *   [SCSS](#scss)
@@ -2256,8 +2257,6 @@
 
 *   [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
 *   [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 
 *   [MegaScenes/web-viewer](https://github.com/MegaScenes/web-viewer) - web viewer for 3d reconstructions
@@ -2679,6 +2678,10 @@
 ## LLVM
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
+## MDX
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Matlab
 
