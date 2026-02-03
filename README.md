@@ -809,7 +809,7 @@
 
 *   [amazon-far/TWIST2](https://github.com/amazon-far/TWIST2) - \[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
 
-*   [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - 360 Camera-Based Slam Challenge 2026 - Early Release
+*   [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization
 
 *   [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) - PACE: A systematic approach for sim-to-real transfer of legged robots, identifying actuator and joint dynamics with standard joint encoders.
 
