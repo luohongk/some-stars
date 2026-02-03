@@ -891,7 +891,7 @@
 
 *   [worldbench/3EED](https://github.com/worldbench/3EED) - \[NeurIPS 2025 DB Track] 3EED: Ground Everything Everywhere in 3D
 
-*   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based VLA Models"
+*   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based VLA Models" (ICRA 2026)
 
 *   [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
