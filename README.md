@@ -895,6 +895,8 @@
 
 *   [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
+*   [Ma-Zhuang/OmniNWM](https://github.com/Ma-Zhuang/OmniNWM) - OmniNWM: Omniscient Navigation World Models for Autonomous Driving
+
 *   [cshizhe/VLN-DUET](https://github.com/cshizhe/VLN-DUET) - Official implementation of Think Global, Act Local: Dual-scale GraphTransformer for Vision-and-Language Navigation (CVPR'22 Oral).
 
 *   [lovelyyoshino/VLFM-Commit](https://github.com/lovelyyoshino/VLFM-Commit) - 适配CUDA11.8、habitat-sim0.2.4版本的VLFM，并给出详细的代码理解注释
@@ -1964,8 +1966,6 @@
 *   [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) -
 
 *   [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
-
-*   [Ma-Zhuang/OmniNWM](https://github.com/Ma-Zhuang/OmniNWM) - OmniNWM: Omniscient Navigation World Models for Autonomous Driving
 
 *   [yukangcao/Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) - A curated list of awesome papers for reconstructing 4D spatial intelligence from video. (arXiv 2507.21045)
 
