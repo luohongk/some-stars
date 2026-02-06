@@ -36,7 +36,6 @@
 *   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [LLVM](#llvm)
-*   [MDX](#mdx)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
 *   [SCSS](#scss)
@@ -2531,6 +2530,8 @@
 
 *   [MIT-SPARK/GNSS-ROS](https://github.com/MIT-SPARK/GNSS-ROS) -
 
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 *   [VINGS-Mono/VINGS-Mono.github.io](https://github.com/VINGS-Mono/VINGS-Mono.github.io) -
 
 *   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -2678,10 +2679,6 @@
 ## LLVM
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-
-## MDX
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Matlab
 
