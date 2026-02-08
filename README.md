@@ -1002,7 +1002,7 @@
 
 *   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 
-*   [OpenGalaxea/GalaxeaVLA](https://github.com/OpenGalaxea/GalaxeaVLA) - Galaxea's first VLA release
+*   [OpenGalaxea/GalaxeaVLA](https://github.com/OpenGalaxea/GalaxeaVLA) - Galaxea's open-source VLA repository
 
 *   [ziyan-xiaoyu/SpatialMQA](https://github.com/ziyan-xiaoyu/SpatialMQA) -
 
