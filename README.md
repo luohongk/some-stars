@@ -58,8 +58,6 @@
 
 *   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RA-L 2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
 
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
 *   [cchester25/RLIV\_GS](https://github.com/cchester25/RLIV_GS) -
 
 *   [OctoMap/octomap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.
@@ -2275,6 +2273,8 @@
 *   [aipixel/GPS-Gaussian](https://github.com/aipixel/GPS-Gaussian) - \[CVPR 2024 Highlight] The official repo for “GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis”
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
+
+*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 
 ## Jupyter Notebook
 
