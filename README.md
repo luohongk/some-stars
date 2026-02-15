@@ -1378,7 +1378,7 @@
 
 *   [yyfz/Pi3](https://github.com/yyfz/Pi3) - \[ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude-Code-like Agent 0 - 1
 
 *   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - \[ICLR 2026] Streaming 4D Visual Geometry Transformer
 
