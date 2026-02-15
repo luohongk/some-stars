@@ -1116,7 +1116,7 @@
 
 *   [WzcTHU/SeeNav-Agent](https://github.com/WzcTHU/SeeNav-Agent) -
 
-*   [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning
+*   [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 
 *   [Any-4D/Any4D](https://github.com/Any-4D/Any4D) - Any4D: Unified Feed-Forward Metric 4D Reconstruction
 
