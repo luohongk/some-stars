@@ -1378,7 +1378,7 @@
 
 *   [yyfz/Pi3](https://github.com/yyfz/Pi3) - \[ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1.
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1
 
 *   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - \[ICLR 2026] Streaming 4D Visual Geometry Transformer
 
