@@ -1856,7 +1856,7 @@
 
 *   [fishmarch/ROSTools](https://github.com/fishmarch/ROSTools) -
 
-*   [sair-lab/AirCode](https://github.com/sair-lab/AirCode) - AirCode: A Robust Object Encoding Method (RA-L, ICRA 2022)
+*   [sair-lab/AirCode](https://github.com/sair-lab/AirCode) - \[RA-L 2022] AirCode: A Robust Object Encoding Method
 
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
