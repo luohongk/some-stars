@@ -606,7 +606,7 @@
 
 *   [ManiiXu/VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning) - VINS-Mono代码注释，仅供学习
 
-*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀
+*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - \[TRO 2025] AirVO upgrades to AirSLAM
 
 *   [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - \[TPAMI 2025] Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 
@@ -1378,7 +1378,7 @@
 
 *   [yyfz/Pi3](https://github.com/yyfz/Pi3) - \[ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude-Code-like Agent 0 - 1
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1.
 
 *   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - \[ICLR 2026] Streaming 4D Visual Geometry Transformer
 
