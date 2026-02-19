@@ -904,7 +904,7 @@
 
 *   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) - Event-based Vision Resources. Community effort to collect knowledge on event-based vision technology (papers, workshops, datasets, code, videos, etc)
 
-*   [bkhanal-11/awesome-360-depth-estimation](https://github.com/bkhanal-11/awesome-360-depth-estimation) - State-of-the-art papers for depth estimation of 360 images.
+*   [bikhanal/awesome-360-depth-estimation](https://github.com/bikhanal/awesome-360-depth-estimation) - State-of-the-art papers for depth estimation of 360 images.
 
 *   [L3Y1Q2/MyBrain](https://github.com/L3Y1Q2/MyBrain) - Knowledge makes up the brain
 
