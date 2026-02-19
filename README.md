@@ -1026,8 +1026,6 @@
 
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
-
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1379,6 +1377,8 @@
 *   [ShaohonChen/Qwen3-SmVL](https://github.com/ShaohonChen/Qwen3-SmVL) - 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调
 
 *   [yyfz/Pi3](https://github.com/yyfz/Pi3) - \[ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
+
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
 
 *   [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - \[ICLR 2026] Streaming 4D Visual Geometry Transformer
 
