@@ -66,6 +66,8 @@
 
 *   [ethz-asl/panoptic\_mapping](https://github.com/ethz-asl/panoptic_mapping) - A flexible submap-based framework towards spatio-temporally consistent volumetric mapping and scene understanding.
 
+*   [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
+
 *   [GYH-WHU/SPP\_SPV](https://github.com/GYH-WHU/SPP_SPV) - 本项目是一个基于C++和MATLAB的GNSS单点定位与测速解算系统，支持GPS和BDS双系统联合定位。系统能够解码NovAtel OEM7格式数据，采用伪距观测值进行单点定位和多普勒观测值进行速度解算，并实现电离层、对流层、卫星钟差等误差改正。系统提供事后处理、实时处理和数据采集三种工作模式，支持ECEF、BLH、ENU坐标系转换，并可计算定位误差与精度指标。此外，系统集成了MATLAB可视化功能，自动生成误差分析图表，为GNSS定位算法的研究和应用提供完整的工具平台。
 
 *   [ZikangYuan/sr\_livo](https://github.com/ZikangYuan/sr_livo) - \[RA-L 2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method
@@ -1101,8 +1103,6 @@
 *   [ika-rwth-aachen/ros2\_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) - A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
 
 *   [NVlabs/vla0](https://github.com/NVlabs/vla0) - VLA-0: Building State-of-the-Art VLAs with Zero Modification
-
-*   [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Software stack for loco-manipulation experiments across multiple humanoid platforms, with primary support for the Unitree G1. This repository provides whole-body control policies, a teleoperation stack, and a data exporter.
 
 *   [realsee-developer/RealSee3D](https://github.com/realsee-developer/RealSee3D) - RealSee3D: A multi-view RGB-D dataset combining real-world captures and procedurally generated scenes, with extensible annotations for diverse 3D vision research.
 
