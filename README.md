@@ -956,7 +956,7 @@
 
 *   [Open3DVLab/StreetSurfGS](https://github.com/Open3DVLab/StreetSurfGS) - StreetSurfGS: Scalable Large Scene Surface Reconstruction with Gaussian Splatting for Urban Street Scences
 
-*   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - \[Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide
+*   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - \[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide
 
 *   [Open3DVLab/GigaGS](https://github.com/Open3DVLab/GigaGS) - \[AAAI 2025] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
 
