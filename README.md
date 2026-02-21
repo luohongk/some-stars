@@ -1028,7 +1028,7 @@
 
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -1230,7 +1230,7 @@
 
 *   [worldbench/3EED](https://github.com/worldbench/3EED) - \[NeurIPS 2025 DB Track] 3EED: Ground Everything Everywhere in 3D
 
-*   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based VLA Models" (ICRA 2026)
+*   [DAVIAN-Robotics/ACG](https://github.com/DAVIAN-Robotics/ACG) - Code for "ACG: Action Coherence Guidance for Flow-based Vision-Language-Action Models" (ICRA 2026)
 
 *   [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
