@@ -946,7 +946,7 @@
 
 *   [william-sto/JusticeNeverTooLate](https://github.com/william-sto/JusticeNeverTooLate) - 字节跳动瓜最终真实情况，用事实说话，正义会迟到但不会缺席！
 
-*   [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+*   [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 
 *   [zhuhu00/Awesome\_Dynamic\_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.)
 
