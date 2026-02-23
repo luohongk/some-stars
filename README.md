@@ -866,7 +866,7 @@
 
 *   [BestJunYu/Awesome-Physics-aware-Generation](https://github.com/BestJunYu/Awesome-Physics-aware-Generation) - Physical laws underpin all existence, and harnessing them for generative modeling opens boundless possibilities for advancing science and shaping the future!
 
-*   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+*   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 
 *   [LongHZ140516/PaperGallery](https://github.com/LongHZ140516/PaperGallery) - A curated gallery and toolkit designed to provide inspiration for scientific illustrations, project sites, and visual storytelling in research.
 
