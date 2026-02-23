@@ -1142,7 +1142,7 @@
 
 *   [fanegg/Human3R](https://github.com/fanegg/Human3R) - An unified model for 4D human-scene reconstruction
 
-*   [co-me-tokens/CoMe](https://github.com/co-me-tokens/CoMe) - Release repository of our work "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
+*   [co-me-tokens/CoMe](https://github.com/co-me-tokens/CoMe) - \[CVPR 26] Release repo of our work "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
 
 *   [BIT-DYN/OpenGraph](https://github.com/BIT-DYN/OpenGraph) - \[RAL 2024] OpenGraphs: Open-Vocabulary Hierarchical 3D Scene Graphs in Large-Scale Outdoor Environments
 
@@ -1544,7 +1544,7 @@
 
 *   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 
-*   [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction
+*   [VITA-Group/VLM-3R](https://github.com/VITA-Group/VLM-3R) - \[CVPR 2026] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction
 
 *   [NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM](https://github.com/NMS05/DinoV2-SigLIP-Phi3-LoRA-VLM) -
 
