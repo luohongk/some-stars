@@ -1374,7 +1374,7 @@
 
 *   [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) - Long-RL: Scaling RL to Long Sequences (NeurIPS 2025)
 
-*   [RayFronts/RayFronts](https://github.com/RayFronts/RayFronts) - \[IROS 2025] Source code for "RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration"
+*   [RayFronts/RayFronts](https://github.com/RayFronts/RayFronts) - \[IROS'25] Source code for "RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration"
 
 *   [ShaohonChen/Qwen3-SmVL](https://github.com/ShaohonChen/Qwen3-SmVL) - 将SmolVLM2的视觉头与Qwen3-0.6B模型进行了拼接微调
 
