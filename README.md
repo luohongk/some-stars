@@ -842,7 +842,7 @@
 
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-*   [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+*   [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 
 *   [flyingGH/open\_vio](https://github.com/flyingGH/open_vio) - 基于vins-fusion 修改，提取关键帧用于三维重建
 
