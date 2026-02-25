@@ -1190,7 +1190,7 @@
 
 *   [linglingxiansen/MapNav](https://github.com/linglingxiansen/MapNav) -
 
-*   [Maxwell-Zhao/RoboSimGS](https://github.com/Maxwell-Zhao/RoboSimGS) - Code for "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
+*   [Maxwell-Zhao/RoboSimGS](https://github.com/Maxwell-Zhao/RoboSimGS) - Code for \[RA-L] High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting
 
 *   [Chenkehan21/svm-nav](https://github.com/Chenkehan21/svm-nav) -
 
