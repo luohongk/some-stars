@@ -1070,7 +1070,7 @@
 
 *   [Humanoid-SkillBlender/SkillBlender](https://github.com/Humanoid-SkillBlender/SkillBlender) - Official implementation of SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending
 
-*   [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+*   [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 
 *   [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 
