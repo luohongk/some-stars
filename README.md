@@ -1466,7 +1466,7 @@
 
 *   [Tencent/DepthCrafter](https://github.com/Tencent/DepthCrafter) - \[CVPR 2025 Highlight] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos
 
-*   [siyuhsu/vla-cache](https://github.com/siyuhsu/vla-cache) - \[NeurIPS 2025] VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation
+*   [siyuhsu/vla-cache](https://github.com/siyuhsu/vla-cache) - \[NeurIPS 2025] VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching
 
 *   [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
 
