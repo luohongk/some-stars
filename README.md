@@ -756,8 +756,6 @@
 
 *   [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 
-*   [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - A Paper List for Humanoid Robot Learning.
-
 *   [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - \[PKU EPIC Lab] 面向小白的具身智能入门指南
 
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
@@ -1267,6 +1265,8 @@
 *   [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
 
 *   [jzhzhang/Uni-NaVid](https://github.com/jzhzhang/Uni-NaVid) - \[RSS 2025] Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks.
+
+*   [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - A Paper List for Humanoid Robot Learning.
 
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 
