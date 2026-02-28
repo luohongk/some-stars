@@ -1310,7 +1310,7 @@
 
 *   [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - \[ICLR 2026] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 
-*   [NJU-3DV/SpatialVID](https://github.com/NJU-3DV/SpatialVID) - SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
+*   [NJU-3DV/SpatialVID](https://github.com/NJU-3DV/SpatialVID) - \[CVPR26] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
 
 *   [AIGeeksGroup/3D-R1](https://github.com/AIGeeksGroup/3D-R1) - 3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding
 
@@ -2702,7 +2702,7 @@
 
 ## Markdown
 
-*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
