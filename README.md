@@ -296,7 +296,7 @@
 
 *   [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - \[ICLR 2026] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 
-*   [NJU-3DV/SpatialVID](https://github.com/NJU-3DV/SpatialVID) - \[CVPR26] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
+*   [NJU-3DV/SpatialVID](https://github.com/NJU-3DV/SpatialVID) - \[CVPR 2026] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
 
 *   [AIGeeksGroup/3D-R1](https://github.com/AIGeeksGroup/3D-R1) - 3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding
 
