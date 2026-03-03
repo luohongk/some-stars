@@ -514,7 +514,7 @@
 
 *   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - \[NeurIPS 2025, Spotlight] Rectified Point Flow: Generic Point Cloud Pose Estimation
 
-*   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
+*   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - \[NeurIPS 2025] Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
 
 *   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 
