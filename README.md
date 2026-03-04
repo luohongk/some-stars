@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [Perkins729/OmniXtreme](https://github.com/Perkins729/OmniXtreme) -
+
 *   [zhutengjie/CLOT](https://github.com/zhutengjie/CLOT) - official code for paper CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation
 
 *   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
@@ -2541,8 +2543,6 @@
 *   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
 
 *   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
-
-*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 
 ## C
 
