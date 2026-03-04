@@ -276,6 +276,8 @@
 
 *   [luohongk/Embodied-AI-Daily](https://github.com/luohongk/Embodied-AI-Daily) - 📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
 
+*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
+
 *   [jmanhype/vggt-mps](https://github.com/jmanhype/vggt-mps) - VGGT 3D Vision Agent optimized for Apple Silicon with Metal Performance Shaders
 
 *   [AIGeeksGroup/Nav-R1](https://github.com/AIGeeksGroup/Nav-R1) - Nav-R1: Reasoning and Navigation in Embodied Scenes
@@ -1977,8 +1979,6 @@
 *   [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 
 *   [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - \[PKU EPIC Lab] 面向小白的具身智能入门指南
-
-*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
 
 *   [bagh2178/GC-VLN](https://github.com/bagh2178/GC-VLN) - \[CoRL 2025] GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation
 
