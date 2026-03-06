@@ -646,7 +646,7 @@
 
 *   [cvlab-kaist/ZeroCo](https://github.com/cvlab-kaist/ZeroCo) - CVPR 2025 (Highlight) : Official implementation of "Cross-View Completion Models are Zero-shot Correspondence Estimators"
 
-*   [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
+*   [nvidia-isaac/PyCuVSLAM](https://github.com/nvidia-isaac/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 
 *   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
 
