@@ -2484,7 +2484,7 @@
 
 *   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 
-*   [RomanHauksson/academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) - Astro template to help you build an interactive project page for your research paper
+*   [RomanHauksson/academic-project-astro-template](https://github.com/RomanHauksson/academic-project-astro-template) - Astro template to help you build a website for your research paper, based on the Nerfies project page
 
 ## JavaScript
 
