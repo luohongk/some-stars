@@ -418,7 +418,7 @@
 
 *   [unitreerobotics/unitree\_rl\_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 
-*   [liuff19/LangScene-X](https://github.com/liuff19/LangScene-X) - \[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion
+*   [THU-SI/LangScene-X](https://github.com/THU-SI/LangScene-X) - \[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion
 
 *   [OpenDriveLab/DetAny3D](https://github.com/OpenDriveLab/DetAny3D) - \[ICCV 2025] Detect Anything 3D in the Wild
 
@@ -520,7 +520,7 @@
 
 *   [GradientSpaces/Rectified-Point-Flow](https://github.com/GradientSpaces/Rectified-Point-Flow) - \[NeurIPS 2025, Spotlight] Rectified Point Flow: Generic Point Cloud Pose Estimation
 
-*   [diankun-wu/Spatial-MLLM](https://github.com/diankun-wu/Spatial-MLLM) - \[NeurIPS 2025] Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
+*   [THU-SI/Spatial-MLLM](https://github.com/THU-SI/Spatial-MLLM) - \[NeurIPS 2025] Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
 
 *   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 
