@@ -190,7 +190,7 @@
 
 *   [mrwangyou/SCOPE](https://github.com/mrwangyou/SCOPE) - Official repository of "Expand Your SCOPE, Semantic Cognition Over Potential-based Exploration for Embodied Visual Navigation"
 
-*   [Livioni/OmniVGGT-official](https://github.com/Livioni/OmniVGGT-official) - OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
+*   [Livioni/OmniVGGT-official](https://github.com/Livioni/OmniVGGT-official) - \[CVPR 2026 MAIN] OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
 
 *   [sair-lab/AirRoom](https://github.com/sair-lab/AirRoom) - \[CVPR 2025] AirRoom: Objects Matter in Room Reidentification
 
@@ -1750,7 +1750,7 @@
 
 *   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
 
-*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment
+*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - 2025 RAL
 
 *   [YungeCui/BoW3D](https://github.com/YungeCui/BoW3D) - \[RA-L] BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM.
 
