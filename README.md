@@ -656,7 +656,7 @@
 
 *   [AlbertoJaenal/MapAbstractionVPR](https://github.com/AlbertoJaenal/MapAbstractionVPR) - Implementation for Image database abstracion
 
-*   [hanyang-21/VideoScene](https://github.com/hanyang-21/VideoScene) - \[CVPR 2025 Highlight] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
+*   [THU-SI/VideoScene](https://github.com/THU-SI/VideoScene) - \[CVPR 2025 Highlight] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step
 
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
