@@ -646,8 +646,6 @@
 
 *   [cvlab-kaist/ZeroCo](https://github.com/cvlab-kaist/ZeroCo) - CVPR 2025 (Highlight) : Official implementation of "Cross-View Completion Models are Zero-shot Correspondence Estimators"
 
-*   [nvidia-isaac/PyCuVSLAM](https://github.com/nvidia-isaac/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
-
 *   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
 
 *   [KTH-RPL/OneMap](https://github.com/KTH-RPL/OneMap) - \[ICRA'25] One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation
@@ -1603,6 +1601,8 @@
 *   [LC-Robotics/FreeDOM](https://github.com/LC-Robotics/FreeDOM) - FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation \[RA-L 25]
 
 *   [NVIDIA-ISAAC-ROS/isaac\_ros\_visual\_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) - Visual SLAM/odometry package based on NVIDIA-accelerated cuVSLAM
+
+*   [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 
 *   [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 
