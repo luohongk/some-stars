@@ -1474,7 +1474,7 @@
 
 *   [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
 
-*   [HorizonRobotics/GeoFlowSlam](https://github.com/HorizonRobotics/GeoFlowSlam) - A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics
+*   [HorizonRobotics/GeoFlowSlam](https://github.com/HorizonRobotics/GeoFlowSlam) - \[IROS 2025] A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics
 
 *   [KumarRobotics/kr\_3d\_active\_ms\_slam](https://github.com/KumarRobotics/kr_3d_active_ms_slam) - \[RA-L 2024] 3D Active Metric-Semantic SLAM
 
