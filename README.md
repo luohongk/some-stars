@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [robodhruv/visualnav-transformer](https://github.com/robodhruv/visualnav-transformer) - Official code and checkpoint release for mobile robot foundation models: GNM, ViNT, and NoMaD.
+
 *   [csiro-robotics/WildCross](https://github.com/csiro-robotics/WildCross) - \[IEEE ICRA 2026] The official repository for paper WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments at IEEE ICRA 2026
 
 *   [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - The Dimensional Framework
@@ -1939,8 +1941,6 @@
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
-
-*   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
 ## Jupyter Notebook
 
