@@ -1542,7 +1542,7 @@
 
 *   [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
 
-*   [JokerJohn/PALoc](https://github.com/JokerJohn/PALoc) - \[TMECH'2024] Official codes of ”PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation“
+*   [JokerJohn/PALoc](https://github.com/JokerJohn/PALoc) - \[TMECH'2024] PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation
 
 *   [sikang/mpl\_ros](https://github.com/sikang/mpl_ros) - A ROS wrapper for trajectory planning based on motion primitives
 
