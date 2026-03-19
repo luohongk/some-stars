@@ -1202,7 +1202,7 @@
 
 *   [jzhzhang/3DAwareNav](https://github.com/jzhzhang/3DAwareNav) - \[CVPR 2023] We propose a framework for the challenging 3D-aware ObjectNav based on two straightforward sub-policies. The two sub-polices, namely corner-guided exploration policy and category-aware identification policy, simultaneously perform by utilizing online fused 3D points as observation.
 
-*   [buaa-colalab/OctoNav-R1](https://github.com/buaa-colalab/OctoNav-R1) - Code for OctoNav-R1
+*   [buaa-colalab/OctoNav-R1](https://github.com/buaa-colalab/OctoNav-R1) - Code for OctoNav-Bench and OctoNav-R1
 
 *   [Fanqi-Lin/OneTwoVLA](https://github.com/Fanqi-Lin/OneTwoVLA) - Official implementation of "OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning"
 
