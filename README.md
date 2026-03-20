@@ -882,6 +882,8 @@
 
 *   [rossning92/helicopter-rl](https://github.com/rossning92/helicopter-rl) - Train a reinforcement learning agent (PPO) to play a retro helicopter arcade game using Stable-Baselines3 and a custom Gymnasium environment.
 
+*   [AMAP-EAI/SocialNav](https://github.com/AMAP-EAI/SocialNav) - Official implementation for "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation"
+
 *   [Jonnyffeler/OutdoorSceneGraph](https://github.com/Jonnyffeler/OutdoorSceneGraph) -
 
 *   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
@@ -2005,8 +2007,6 @@
 *   [thomaschabal/fom-nav](https://github.com/thomaschabal/fom-nav) - Official implementation of "FOM-Nav: Frontier-Object Maps for Object Goal Navigation". Code release expected in December 2025.
 
 *   [DennisRotondi/awesome-3D-scene-graphs](https://github.com/DennisRotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources!
-
-*   [AMAP-EAI/SocialNav](https://github.com/AMAP-EAI/SocialNav) - Official implementation for "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation"
 
 *   [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) -
 
