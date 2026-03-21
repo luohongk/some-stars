@@ -914,7 +914,7 @@
 
 *   [GREAT-WHU/MASt3R-Fusion](https://github.com/GREAT-WHU/MASt3R-Fusion) - Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM.
 
-*   [mrwangyou/SCOPE](https://github.com/mrwangyou/SCOPE) - Official repository of "Expand Your SCOPE, Semantic Cognition Over Potential-based Exploration for Embodied Visual Navigation"
+*   [mrwangyou/SCOPE](https://github.com/mrwangyou/SCOPE) - \[AAAI 2026] Official repository of "Expand Your SCOPE, Semantic Cognition Over Potential-based Exploration for Embodied Visual Navigation"
 
 *   [Livioni/OmniVGGT-official](https://github.com/Livioni/OmniVGGT-official) - \[CVPR 2026 MAIN] OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
 
