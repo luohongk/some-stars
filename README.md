@@ -1480,6 +1480,8 @@
 
 *   [Xiaoming-Zhao/PointNav-VO](https://github.com/Xiaoming-Zhao/PointNav-VO) - \[ICCV 2021] Official implementation of "The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation"
 
+*   [peakpang/UGP](https://github.com/peakpang/UGP) - \[CVPR 2025 Highlight] Unlocking Generalization Power in LiDAR Point Cloud Registration
+
 *   [jiachenzhu/DyT](https://github.com/jiachenzhu/DyT) - Code release for DynamicTanh (DyT)
 
 *   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - \[NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
@@ -2094,8 +2096,6 @@
 
 *   [haoranD/Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources.
 
-*   [peakpang/UGP](https://github.com/peakpang/UGP) - \[CVPR 2025 Highlight] Unlocking Generalization Power in LiDAR Point Cloud Registration
-
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 *   [flyingGH/open\_vio](https://github.com/flyingGH/open_vio) - 基于vins-fusion 修改，提取关键帧用于三维重建
@@ -2502,7 +2502,7 @@
 
 *   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 Linux 上完整的 Clash / Mihomo (Clash Meta) 管理工具（Install · Manage · Run）
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 Linux 上完整的 Clash / Mihomo (Clash Meta) 管理工具
 
 *   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
 
