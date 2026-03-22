@@ -48,8 +48,6 @@
 
 *   [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 
-*   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-
 *   [zxkmm/firefox\_plugin\_github\_user\_notes](https://github.com/zxkmm/firefox_plugin_github_user_notes) - This tool allows you to take notes on specific users and sync them across devices with Firefox installed.
 
 *   [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
@@ -2409,6 +2407,8 @@
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+
+*   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 *   [zimya/zhihu\_obsidian](https://github.com/zimya/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
 
