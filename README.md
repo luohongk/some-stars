@@ -836,7 +836,7 @@
 
 *   [nvidia-isaac/WBC-AGILE](https://github.com/nvidia-isaac/WBC-AGILE) - A Comprehensive Workflow for Humanoid Loco-Manipulation Learning
 
-*   [Xian-Bei/TALO](https://github.com/Xian-Bei/TALO) - \[2026 CVPR] Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction
+*   [Xian-Bei/TALO](https://github.com/Xian-Bei/TALO) - \[CVPR 2026] Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction
 
 *   [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 
