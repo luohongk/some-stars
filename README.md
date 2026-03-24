@@ -614,7 +614,7 @@
 
 *   [SainingZhang/UC-GS](https://github.com/SainingZhang/UC-GS) - \[BMVC 2024] Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty
 
-*   [ThingsIDoWhenBored/OpenRTK](https://github.com/ThingsIDoWhenBored/OpenRTK) - Open Source precise GNSS Software
+*   [AndreasArendt/OpenRTK](https://github.com/AndreasArendt/OpenRTK) - Open Source precise GNSS Software
 
 *   [PetWorm/LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
 
