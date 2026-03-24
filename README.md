@@ -834,9 +834,9 @@
 
 *   [cmjang/InternNav-deploy](https://github.com/cmjang/InternNav-deploy) - Edge deployment guide for InternNav-based perception and navigation on Unitree Go2 / Go2W / B2 robots (ROS 2, RealSense, Python).
 
-*   [nvidia-isaac/WBC-AGILE](https://github.com/nvidia-isaac/WBC-AGILE) - Whole Body Control for humanoids: AGILE
+*   [nvidia-isaac/WBC-AGILE](https://github.com/nvidia-isaac/WBC-AGILE) - A Comprehensive Workflow for Humanoid Loco-Manipulation Learning
 
-*   [Xian-Bei/TALO](https://github.com/Xian-Bei/TALO) - Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction
+*   [Xian-Bei/TALO](https://github.com/Xian-Bei/TALO) - \[2026 CVPR] Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction
 
 *   [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 
@@ -1908,6 +1908,8 @@
 
 *   [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 
+*   [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+
 *   [tarashakhurana/4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting) - CVPR 2023: Official code for \`Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'
 
 *   [uoip/stereo\_msckf](https://github.com/uoip/stereo_msckf) - Python implementation of Multi-State Constraint Kalman Filter (MSCKF) for Vision-aided Inertial Navigation.
@@ -2447,8 +2449,6 @@
 *   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## CSS
 
