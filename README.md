@@ -164,7 +164,7 @@
 
 *   [HViktorTsoi/PV-LIO](https://github.com/HViktorTsoi/PV-LIO) - A probabilistic voxelmap-based LiDAR-Inertial Odometry.
 
-*   [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - The official implementation of SLAMesh.
+*   [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - \[ICRA 2023] SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing
 
 *   [hyye/lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
 
