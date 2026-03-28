@@ -46,6 +46,8 @@
 
 ## C++
 
+*   [ntnu-arl/radvio](https://github.com/ntnu-arl/radvio) - A tightly-coupled radar-visual-inertial odometry, to enable robust performance in challenging environments.
+
 *   [lukasvst/dm-vio](https://github.com/lukasvst/dm-vio) - Source code for the paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry
 
 *   [hsp-iit/tour-guide-robot](https://github.com/hsp-iit/tour-guide-robot) - A collection of modules and classes that can be used to perform guided tours with R1 robot or to simply interact with it. It's also the repo that contains the configuration files to perform autonomous navigation with R1
@@ -723,8 +725,6 @@
 *   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
 
 *   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
-
-*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
 ## JavaScript
 
@@ -1426,7 +1426,7 @@
 
 *   [zd11024/NaviLLM](https://github.com/zd11024/NaviLLM) - \[CVPR 2024] The code for paper 'Towards Learning a Generalist Model for Embodied Navigation'
 
-*   [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
+*   [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 
 *   [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
 
