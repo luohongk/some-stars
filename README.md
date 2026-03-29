@@ -976,6 +976,8 @@
 
 *   [xieyuser/UniGS](https://github.com/xieyuser/UniGS) - Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering
 
+*   [hulxgit/EC3R-SLAM](https://github.com/hulxgit/EC3R-SLAM) -
+
 *   [imlixinyang/FlashWorld](https://github.com/imlixinyang/FlashWorld) - Code for "FlashWorld: High-quality 3D Scene Generation within Seconds" (ICLR 2026 Oral)
 
 *   [OpenHelix-Team/Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) - Official implementation of Spatial-Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model \[ICLR2026]
@@ -2157,8 +2159,6 @@
 *   [yukangcao/Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) - A curated list of awesome papers for reconstructing 4D spatial intelligence from video. (arXiv 2507.21045)
 
 *   [0311lzy/PVSet\_data](https://github.com/0311lzy/PVSet_data) - This is a 10-meter resolution photovoltaic power station distribution map extracted using the SolarSegNet model, integrating Sentinel-1 and Sentinel-2 imagery. The coverage area includes 14 coastal provincial-level administrative regions and special administrative regions of China in 2024.
-
-*   [hulxgit/EC3R-SLAM](https://github.com/hulxgit/EC3R-SLAM) -
 
 *   [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 
