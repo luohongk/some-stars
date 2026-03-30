@@ -798,7 +798,7 @@
 
 *   [nvidia-cosmos/cosmos-predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5) - Cosmos-Predict2.5, the latest version of the Cosmos World Foundation Models (WFMs) family, specialized for simulating and predicting the future state of the world in the form of video.
 
-*   [be2rlab/km-vipe](https://github.com/be2rlab/km-vipe) - Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM
+*   [be2rlab/RADIO-ViPE](https://github.com/be2rlab/RADIO-ViPE) - Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM
 
 *   [marmotlab/ORION-multi-agent-navigation](https://github.com/marmotlab/ORION-multi-agent-navigation) - ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
 
