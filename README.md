@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -24,7 +25,6 @@
 *   [HTML](#html)
 *   [C](#c-1)
 *   [TeX](#tex)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [Lua](#lua)
 *   [Vim Script](#vim-script)
@@ -43,6 +43,22 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## Rust
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
+*   [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+
+*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
 
 ## C++
 
@@ -723,8 +739,6 @@
 *   [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 
 *   [shazraz/Extended-Kalman-Filter](https://github.com/shazraz/Extended-Kalman-Filter) - Implementation of an EKF in C++
-
-*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 
 ## JavaScript
 
@@ -2577,20 +2591,6 @@
 *   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
 
 *   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
-
-## Rust
-
-*   [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-
-*   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
 
 ## Go
 
