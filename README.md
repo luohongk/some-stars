@@ -94,7 +94,7 @@
 
 ## Rust
 
-*   [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
+*   [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
