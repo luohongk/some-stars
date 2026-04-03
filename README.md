@@ -46,9 +46,9 @@
 
 ## TypeScript
 
-*   [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim
+*   [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
-*   [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha) - Claude Code leaked source - locally runnable version
+*   [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本
 
 *   [Janlaywss/cloud-code](https://github.com/Janlaywss/cloud-code) - cloud-code
 
