@@ -1114,7 +1114,7 @@
 
 *   [OpenHelix-Team/LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) - LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model \[ICRA 2026]
 
-*   [JiuTian-VL/CogVLA](https://github.com/JiuTian-VL/CogVLA) - \[NeurIPS 2025] CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
+*   [iLearn-Lab/NeurIPS25-CogVLA](https://github.com/iLearn-Lab/NeurIPS25-CogVLA) - \[NeurIPS 2025] CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification
 
 *   [Heathcliff-saku/BSC-Nav](https://github.com/Heathcliff-saku/BSC-Nav) - This repository is the official implementation of our paper (From reactive to cognitive: brain-inspired spatial intelligence for embodied agents)
 
