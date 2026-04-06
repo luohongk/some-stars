@@ -844,7 +844,7 @@
 
 *   [zhutengjie/CLOT](https://github.com/zhutengjie/CLOT) - official code for paper CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation
 
-*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 
 *   [UniflexAI/tinynav](https://github.com/UniflexAI/tinynav) - TinyNav: A lightweight, hackable system to guide your robots anywhere.
 
