@@ -1592,7 +1592,7 @@
 
 *   [naokiyokoyama/ovon](https://github.com/naokiyokoyama/ovon) - Open Vocabulary Object Navigation
 
-*   [bdaiinstitute/vlfm](https://github.com/bdaiinstitute/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024)
+*   [rai-opensource/vlfm](https://github.com/rai-opensource/vlfm) - The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024)
 
 *   [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
 
