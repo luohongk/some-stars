@@ -2504,7 +2504,7 @@
 
 *   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 Linux 上完整的 Clash / Mihomo (Clash Meta) 管理工具
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更强的 Linux Clash / Mihomo 代理运行平台
 
 *   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
 
