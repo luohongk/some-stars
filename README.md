@@ -522,7 +522,7 @@
 
 *   [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 
-*   [InternRobotics/NavDP](https://github.com/InternRobotics/NavDP) - Official implementation of the paper: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
+*   [InternRobotics/NavDP](https://github.com/InternRobotics/NavDP) - \[ICRA 2026] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance
 
 *   [GeWu-Lab/AnyTouch](https://github.com/GeWu-Lab/AnyTouch) - The repo for "AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors", ICLR 2025
 
