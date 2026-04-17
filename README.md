@@ -2224,7 +2224,7 @@
 
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
 
-*   [PRBonn/2DGS-SLAM](https://github.com/PRBonn/2DGS-SLAM) - 2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting
+*   [PRBonn/2DGS-SLAM](https://github.com/PRBonn/2DGS-SLAM) - 2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting (TRO 2026)
 
 *   [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
 
