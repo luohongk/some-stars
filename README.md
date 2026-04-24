@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [Tencent-Hunyuan/HY-Embodied-0.5-X](https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X) - HY-Embodied-0.5-X: An Enhanced Embodied Foundation Model for Real-World Agents
+
 *   [luohongk/GNSS-SPP](https://github.com/luohongk/GNSS-SPP) - 一个基于Python的图形界面GNSS伪距单点定位项目,项目轻量化，结构清晰，适用于GNSS与测量平差课程相关教学与学习
 
 *   [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
@@ -474,7 +476,7 @@
 
 *   [JohannaXie/GauSS-MI](https://github.com/JohannaXie/GauSS-MI) - \[RSS 2025] GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction
 
-*   [hnuzhy/YOTO](https://github.com/hnuzhy/YOTO) - \[RSS2025] Code for my paper "You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations"
+*   [hnuzhy/YOTO](https://github.com/hnuzhy/YOTO) - \[TPAMI2026 / RSS2025] Code for my paper "You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations"
 
 *   [Qi-Zhangyang/GPT4Scene-and-VLN-R1](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1) - GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models
 
@@ -1555,8 +1557,6 @@
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 *   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
-*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
 ## C++
 
