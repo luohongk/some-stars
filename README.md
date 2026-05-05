@@ -30,11 +30,11 @@
 *   [Vim Script](#vim-script)
 *   [Cuda](#cuda)
 *   [Roff](#roff)
-*   [Dockerfile](#dockerfile)
 *   [C#](#c-2)
 *   [MATLAB](#matlab)
 *   [Vue](#vue)
 *   [Makefile](#makefile)
+*   [Dockerfile](#dockerfile)
 *   [LLVM](#llvm)
 *   [Matlab](#matlab-1)
 *   [Cython](#cython)
@@ -424,7 +424,7 @@
 
 *   [wencan25/Fast3D](https://github.com/wencan25/Fast3D) - \[ACM MM 2025] Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding
 
-*   [Selen-Suyue/MBA](https://github.com/Selen-Suyue/MBA) - \[RA-L 2025 & ICRA 2026 Oral] :kissing\_cat: Motion Before Action: Diffusing Object Motion as Manipulation Condition
+*   [Selen-Suyue/MBA](https://github.com/Selen-Suyue/MBA) - \[RA-L 2025 & ICRA 2026] :kissing\_cat: Motion Before Action: Diffusing Object Motion as Manipulation Condition
 
 *   [lisj575/GaussianUDF](https://github.com/lisj575/GaussianUDF) - Code Release for CVPR (2025), "GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting"
 
@@ -2540,6 +2540,8 @@
 
 *   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 *   [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 
 *   [kishimisu/Gaussian-Splatting-WebGL](https://github.com/kishimisu/Gaussian-Splatting-WebGL) - 3D Gaussian Splatting Renderer for WebGL
@@ -2642,14 +2644,6 @@
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
-## Dockerfile
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
-
-*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
-
 ## C\#
 
 *   [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
@@ -2675,6 +2669,12 @@
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
 *   [kahowang/FAST\_LIO\_SAM](https://github.com/kahowang/FAST_LIO_SAM) - Front\_end : fastlio2  Back\_end : lio\_sam
+
+## Dockerfile
+
+*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
+
+*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## LLVM
 
