@@ -986,7 +986,7 @@
 
 *   [modelscope/ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
 
-*   [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+*   [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - A generative world for general-purpose robotics & embodied AI learning.
 
 *   [ZexinHe/Neural-LightRig](https://github.com/ZexinHe/Neural-LightRig) - \[CVPR2025] Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion
 
