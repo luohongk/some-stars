@@ -542,6 +542,8 @@
 
 *   [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) - Re-implementation of pi0 vision-language-action (VLA) model from Physical Intelligence
 
+*   [PRBonn/2DGS-SLAM](https://github.com/PRBonn/2DGS-SLAM) - 2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting (TRO 2026)
+
 *   [Physical-Intelligence/real-time-chunking-kinetix](https://github.com/Physical-Intelligence/real-time-chunking-kinetix) - Simulated experiments for "Real-Time Execution of Action Chunking Flow Policies".
 
 *   [B0B8K1ng/WMNavigation](https://github.com/B0B8K1ng/WMNavigation) - \[IROS'25 Oral] WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation
@@ -1359,8 +1361,6 @@
 *   [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
 
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
-
-*   [PRBonn/2DGS-SLAM](https://github.com/PRBonn/2DGS-SLAM) - 2DGS-SLAM: Globally Consistent RGB-D SLAM with 2D Gaussian Splatting (TRO 2026)
 
 *   [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
 
