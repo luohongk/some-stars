@@ -123,7 +123,7 @@
 
 *   [be2rlab/RADIO-ViPE](https://github.com/be2rlab/RADIO-ViPE) - Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM
 
-*   [marmotlab/ORION-multi-agent-navigation](https://github.com/marmotlab/ORION-multi-agent-navigation) - \[RAL 2026] ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
+*   [marmotlab/ORION-multi-agent-navigation](https://github.com/marmotlab/ORION-multi-agent-navigation) - \[RA-L 2026] ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
 
 *   [ManifoldTechLtd/Odin-Nav-Stack](https://github.com/ManifoldTechLtd/Odin-Nav-Stack) - An open-source navigation stack based on Odin1.
 
