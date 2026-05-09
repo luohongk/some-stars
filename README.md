@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
@@ -28,7 +29,6 @@
 *   [Dockerfile](#dockerfile)
 *   [C](#c-1)
 *   [TeX](#tex)
-*   [Lua](#lua)
 *   [Vim Script](#vim-script)
 *   [Cuda](#cuda)
 *   [Roff](#roff)
@@ -44,6 +44,14 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## Lua
+
+*   [clear668866x6/nvim](https://github.com/clear668866x6/nvim) - my nvim config /我的nvim配置，针对c++特别优化，很适合acmer
+
+*   [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
+
+*   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
 
 ## Python
 
@@ -1735,8 +1743,6 @@
 
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
-*   [zzzzxxxx111/SLslam](https://github.com/zzzzxxxx111/SLslam) -
-
 ## C++
 
 *   [hku-mars/LTAOM](https://github.com/hku-mars/LTAOM) -
@@ -2616,12 +2622,6 @@
 *   [HouJP/resume](https://github.com/HouJP/resume) - 使用LaTeX编译生成的中英文个人简历
 
 *   [whutug/whu-thesis](https://github.com/whutug/whu-thesis) - 武汉大学毕业论文 LaTeX 模版 2025
-
-## Lua
-
-*   [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
-
-*   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
 
 ## Vim Script
 
