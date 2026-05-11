@@ -47,6 +47,10 @@
 
 ## Python
 
+*   [6-robot/jie\_3d\_nav](https://github.com/6-robot/jie_3d_nav) - 一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。
+
+*   [simchowitzlabpublic/nano-world-model](https://github.com/simchowitzlabpublic/nano-world-model) - A Minimalist, Batteries-included Repository for Advancing World Model Science.
+
 *   [11chens/KalmanFilter](https://github.com/11chens/KalmanFilter) -
 
 *   [11chens/SEA-Nav-Code](https://github.com/11chens/SEA-Nav-Code) -
@@ -1563,6 +1567,8 @@
 
 *   [TJU-Aerial-Robotics/YOPO-Tracker](https://github.com/TJU-Aerial-Robotics/YOPO-Tracker) - An End-to-End Agile Tracking and Navigation Method for UAVs
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 *   [matterport/habitat-matterport-3dresearch](https://github.com/matterport/habitat-matterport-3dresearch) -
 
 *   [DoongLi/ICRA2025-Paper-List](https://github.com/DoongLi/ICRA2025-Paper-List) - ICRA2025 Paper List
@@ -1744,8 +1750,6 @@
 *   [weisongwen/UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset) - UrbanNav: an Open-Sourcing Localization Data Collected in Asian Urban Canyons, Including Tokyo and Hong Kong
 
 *   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 南瓜书：《机器学习》（西瓜书）公式详解
-
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
 ## C++
 
@@ -2403,8 +2407,6 @@
 
 *   [i2Nav-WHU/IC-GVINS](https://github.com/i2Nav-WHU/IC-GVINS) - A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System
 
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
-
 ## TypeScript
 
 *   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -2546,8 +2548,6 @@
 *   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
 *   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 
