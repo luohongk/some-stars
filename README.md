@@ -167,7 +167,7 @@
 
 *   [wang-kevin3290/scaling-crl](https://github.com/wang-kevin3290/scaling-crl) -
 
-*   [fanegg/Human3R](https://github.com/fanegg/Human3R) - An unified model for 4D human-scene reconstruction
+*   [fanegg/Human3R](https://github.com/fanegg/Human3R) - \[ICLR 2026] An unified model for 4D human-scene reconstruction
 
 *   [co-me-tokens/CoMe](https://github.com/co-me-tokens/CoMe) - \[CVPR 26] Release repo of our work "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
 
@@ -303,7 +303,7 @@
 
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 
-*   [Inception3D/TTT3R](https://github.com/Inception3D/TTT3R) - A simple state update rule to enhance length generalization for CUT3R
+*   [Inception3D/TTT3R](https://github.com/Inception3D/TTT3R) - \[ICLR 2026] A simple state update rule to enhance length generalization for CUT3R
 
 *   [Zxy-MLlab/LIBERO-PRO](https://github.com/Zxy-MLlab/LIBERO-PRO) - LIBERO-PRO is the official repository of the LIBERO-PRO — an evaluation extension of the original LIBERO  benchmark
 
