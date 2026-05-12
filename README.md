@@ -47,6 +47,10 @@
 
 ## Python
 
+*   [GanAHE/GNSSAMS](https://github.com/GanAHE/GNSSAMS) - 基于PyQt5开发的前后端GUI桌面、导航定位与测量综合系统软件
+
+*   [dexmal/dexbotic](https://github.com/dexmal/dexbotic) - Dexbotic: Open-Source Vision-Language-Action Toolbox
+
 *   [6-robot/jie\_3d\_nav](https://github.com/6-robot/jie_3d_nav) - 一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。
 
 *   [simchowitzlabpublic/nano-world-model](https://github.com/simchowitzlabpublic/nano-world-model) - A Minimalist, Batteries-included Repository for Advancing World Model Science.
@@ -619,7 +623,7 @@
 
 *   [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 
-*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
+*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 
 *   [bagh2178/UniGoal](https://github.com/bagh2178/UniGoal) - \[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
 
@@ -1288,8 +1292,6 @@
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
 
 *   [cvg/glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
-
-*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 
 ## Lua
 
@@ -2558,8 +2560,6 @@
 *   [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 
 *   [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 
 ## HTML
 
