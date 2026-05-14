@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [C](#c)
 *   [Python](#python)
+*   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -45,21 +45,9 @@
 *   [Clojure](#clojure)
 *   [Java](#java)
 
-## C
-
-*   [Tencent-Hunyuan/Hy-Embodied-RoboFusion](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) -
-
-*   [JunweiLiang/xf\_mic\_asr\_offline\_junwei](https://github.com/JunweiLiang/xf_mic_asr_offline_junwei) -
-
-*   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25 & ICRA'26] An Reliable and Efficient Framework for Zero-Shot Object Navigation
-
-*   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
-
-*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-
 ## Python
+
+*   [amap-cvlab/OmniNav](https://github.com/amap-cvlab/OmniNav) - 【ICLR 2026】 Official implementation of \[OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation]
 
 *   [TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D) - \[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
 
@@ -1307,6 +1295,20 @@
 
 *   [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) -
 
+## C
+
+*   [Tencent-Hunyuan/Hy-Embodied-RoboFusion](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) -
+
+*   [JunweiLiang/xf\_mic\_asr\_offline\_junwei](https://github.com/JunweiLiang/xf_mic_asr_offline_junwei) -
+
+*   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25 & ICRA'26] An Reliable and Efficient Framework for Zero-Shot Object Navigation
+
+*   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
+
+*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
+
 ## miscellaneous
 
 *   [3D-Vision-World/All-3R-SLAM-in-this-Repo](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo) - This is a list of relevant papers for 3D Geometric Foundation Models and Applications.
@@ -2418,8 +2420,6 @@
 *   [kajo-kurisu/D\_VINS](https://github.com/kajo-kurisu/D_VINS) - Merge superpoint、lightglue、MixVPR into VINS-FUSION for loop closure with TensorRT
 
 *   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
-
-*   [openxrlab/xrslam](https://github.com/openxrlab/xrslam) - OpenXRLab Visual-inertial SLAM Toolbox and Benchmark
 
 ## TypeScript
 
