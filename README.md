@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
@@ -15,7 +16,7 @@
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Go](#go)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [CMake](#cmake)
@@ -27,7 +28,6 @@
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Dockerfile](#dockerfile)
-*   [C](#c-1)
 *   [TeX](#tex)
 *   [Vim Script](#vim-script)
 *   [Cuda](#cuda)
@@ -44,6 +44,20 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## C
+
+*   [Tencent-Hunyuan/Hy-Embodied-RoboFusion](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) -
+
+*   [JunweiLiang/xf\_mic\_asr\_offline\_junwei](https://github.com/JunweiLiang/xf_mic_asr_offline_junwei) -
+
+*   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25 & ICRA'26] An Reliable and Efficient Framework for Zero-Shot Object Navigation
+
+*   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
+
+*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## Python
 
@@ -2407,8 +2421,6 @@
 
 *   [openxrlab/xrslam](https://github.com/openxrlab/xrslam) - OpenXRLab Visual-inertial SLAM Toolbox and Benchmark
 
-*   [KumarRobotics/msckf\_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
-
 ## TypeScript
 
 *   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -2539,7 +2551,7 @@
 
 *   [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🌤️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
 
@@ -2596,18 +2608,6 @@
 *   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
 
 *   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
-
-## C
-
-*   [JunweiLiang/xf\_mic\_asr\_offline\_junwei](https://github.com/JunweiLiang/xf_mic_asr_offline_junwei) -
-
-*   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25 & ICRA'26] An Reliable and Efficient Framework for Zero-Shot Object Navigation
-
-*   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
-
-*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## TeX
 
