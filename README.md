@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Python](#python)
 *   [Rust](#rust)
-*   [C++](#c)
-*   [C](#c-1)
+*   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -44,6 +44,20 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## C
+
+*   [MiKTeX/miktex](https://github.com/MiKTeX/miktex) - the MiKTeX source code
+
+*   [Tencent-Hunyuan/Hy-Embodied-RoboFusion](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) -
+
+*   [JunweiLiang/xf\_mic\_asr\_offline\_junwei](https://github.com/JunweiLiang/xf_mic_asr_offline_junwei) -
+
+*   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25 & ICRA'26] An Reliable and Efficient Framework for Zero-Shot Object Navigation
+
+*   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
+
+*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
 
 ## Python
 
@@ -1966,20 +1980,6 @@
 *   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
 
 *   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
-
-## C
-
-*   [Tencent-Hunyuan/Hy-Embodied-RoboFusion](https://github.com/Tencent-Hunyuan/Hy-Embodied-RoboFusion) -
-
-*   [JunweiLiang/xf\_mic\_asr\_offline\_junwei](https://github.com/JunweiLiang/xf_mic_asr_offline_junwei) -
-
-*   [Robotics-STAR-Lab/ApexNav](https://github.com/Robotics-STAR-Lab/ApexNav) - \[RA-L'25 & ICRA'26] An Reliable and Efficient Framework for Zero-Shot Object Navigation
-
-*   [PrideLab/PRIDE-PPPAR](https://github.com/PrideLab/PRIDE-PPPAR) - An open‑source software for Multi-GNSS PPP ambiguity resolution
-
-*   [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 
 ## miscellaneous
 
