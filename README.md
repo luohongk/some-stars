@@ -1537,7 +1537,7 @@
 
 *   [sjtuyinjie/Ground-Fusion2](https://github.com/sjtuyinjie/Ground-Fusion2) - Ground-Fusion++: a modular sensor-fusion SLAM system(IROS2025)
 
-*   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
+*   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - \[RA-L] Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 
 *   [jiachengliu3/OpenWBC](https://github.com/jiachengliu3/OpenWBC) - VR-based Robot Teleoperation and Data Collection System for Humanoid Whole-Body VLA (Unitree G1)
 
