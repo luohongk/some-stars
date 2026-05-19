@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [C](#c)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -45,27 +45,9 @@
 *   [Clojure](#clojure)
 *   [Java](#java)
 
-## Shell
-
-*   [QingHeYang/EasyAccounts](https://github.com/QingHeYang/EasyAccounts) - 中文家庭及个人适用的记账软件 使用AI记账、AI分析数据
-
-*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
-
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 代理运行平台
-
-*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
-
-*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
-
-*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
-
-*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
-
 ## TypeScript
+
+*   [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
 
 *   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
@@ -122,6 +104,26 @@
 *   [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+## Shell
+
+*   [QingHeYang/EasyAccounts](https://github.com/QingHeYang/EasyAccounts) - 中文家庭及个人适用的记账软件 使用AI记账、AI分析数据
+
+*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 代理运行平台
+
+*   [VocabVictor/clash-for-AutoDL](https://github.com/VocabVictor/clash-for-AutoDL) - AutoDL平台服务器适配梯子， 使用 Clash 作为代理工具
+
+*   [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) - Easy install Script for Rustdesk
+
+*   [liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource) - LLM全栈优质资源汇总
+
+*   [atakandag/data\_collection\_vloc](https://github.com/atakandag/data_collection_vloc) - Data Collection with Zed2 and Ouster LiDAR and 3D Reconstruction with Rtabmap
 
 ## C
 
@@ -2052,8 +2054,6 @@
 *   [guisoares9/VINS-Fusion](https://github.com/guisoares9/VINS-Fusion) - OpenCV 4, ROS Noetic, and Ceres adaptation of VINS-Fusion. An optimization-based multi-sensor state estimator
 
 *   [cyp4x141/VINS-Fusion-noetic-Opencv4](https://github.com/cyp4x141/VINS-Fusion-noetic-Opencv4) - VINS-Fusion for opencv4 + noetic +ubuntu20.04
-
-*   [shanpenghui/ORB\_SLAM3\_Fixed](https://github.com/shanpenghui/ORB_SLAM3_Fixed) - Optimized ORBSLAM3 to run on TUM/EuRoc/KITTI dataset
 
 ## miscellaneous
 
