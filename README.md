@@ -1583,7 +1583,7 @@
 
 *   [robot-learning-freiburg/LCDNet](https://github.com/robot-learning-freiburg/LCDNet) - PyTorch code for training LCDNet for loop closure detection in LiDAR SLAM. http://rl.uni-freiburg.de/research/lidar-slam-lc
 
-*   [MarSaKi/VLN-BEVBert](https://github.com/MarSaKi/VLN-BEVBert) - \[ICCV 2023} Official repo of "BEVBert: Multimodal Map Pre-training for Language-guided Navigation"
+*   [MarSaKi/VLN-BEVBert](https://github.com/MarSaKi/VLN-BEVBert) - \[ICCV 2023] Official repo of "BEVBert: Multimodal Map Pre-training for Language-guided Navigation"
 
 *   [crepuscularlight/SemanticLoopClosure](https://github.com/crepuscularlight/SemanticLoopClosure) - Master thesis regarding semantic loop closure
 
