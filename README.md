@@ -397,8 +397,6 @@
 
 *   [CrystalSixone/VLN\_CLASH](https://github.com/CrystalSixone/VLN_CLASH) - This is the official repository for VLN-CLASH.
 
-*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-
 *   [OpenGalaxea/GalaxeaVLA](https://github.com/OpenGalaxea/GalaxeaVLA) - Galaxea's open-source VLA repository
 
 *   [ziyan-xiaoyu/SpatialMQA](https://github.com/ziyan-xiaoyu/SpatialMQA) -
@@ -2077,7 +2075,7 @@
 
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI, CN-region endpoint, CNB mirror.
 
 *   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
@@ -2140,6 +2138,8 @@
 *   [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
 
 *   [wengminghe/Dynamic-DINO](https://github.com/wengminghe/Dynamic-DINO) - \[ICCV 2025] Official implementation of the paper: "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection"
+
+*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 
 *   [GWxuan/IGL-Nav](https://github.com/GWxuan/IGL-Nav) - \[ICCV 2025] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 
