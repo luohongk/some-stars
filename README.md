@@ -835,7 +835,7 @@
 
 *   [Humanoid-SkillBlender/SkillBlender](https://github.com/Humanoid-SkillBlender/SkillBlender) - Official implementation of SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending
 
-*   [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+*   [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
 
 *   [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 
