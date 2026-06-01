@@ -143,6 +143,8 @@
 
 *   [nvidia-cosmos/cosmos-predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5) - Cosmos-Predict2.5, the latest version of the Cosmos World Foundation Models (WFMs) family, specialized for simulating and predicting the future state of the world in the form of video.
 
+*   [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.
+
 *   [be2rlab/RADIO-ViPE](https://github.com/be2rlab/RADIO-ViPE) - Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM
 
 *   [marmotlab/ORION](https://github.com/marmotlab/ORION) - \[RA-L 2026] ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
@@ -1377,7 +1379,7 @@
 
 *   [320052682/claude-code-third-party-api-fix](https://github.com/320052682/claude-code-third-party-api-fix) - 修复 Claude Code 2.1.154+ 与小米 MiMo 模型的兼容性问题。包含完整的配置指南、代理原理说明和故障排除。
 
-*   [QwenLM/Qwen-VLA](https://github.com/QwenLM/Qwen-VLA) -
+*   [QwenLM/Qwen-VLA](https://github.com/QwenLM/Qwen-VLA) - The official repository of Qwen-VLA
 
 *   [3D-Vision-World/All-3R-SLAM-in-this-Repo](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo) - This is a list of relevant papers for 3D Geometric Foundation Models and Applications.
 
@@ -1386,8 +1388,6 @@
 *   [xianyu110/clawbot](https://github.com/xianyu110/clawbot) - Clawdbot完整配置指南：从安装到Claude Code中转
 
 *   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-
-*   [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.
 
 *   [MrZihan/D3D-VLP](https://github.com/MrZihan/D3D-VLP) -
 
