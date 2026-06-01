@@ -49,7 +49,7 @@
 
 *   [colmap/gluemap](https://github.com/colmap/gluemap) - GLUEMAP: Global Structure-from-Motion Meets Feedforward Reconstruction
 
-*   [wuji-technology/wuji-mjlab](https://github.com/wuji-technology/wuji-mjlab) - WUJI Hand in-hand reorientation RL with sim-to-real deployment, built on mjlab
+*   [wuji-technology/wuji-mjlab](https://github.com/wuji-technology/wuji-mjlab) - Wuji Hand in-hand reorientation RL with sim-to-real deployment, built on mjlab
 
 *   [pypose/bae](https://github.com/pypose/bae) - \[T-RO 2026] Bundle Adjustment in the Eager Mode
 
