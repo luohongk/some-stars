@@ -1373,6 +1373,8 @@
 
 *   [google-research/omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
 
+*   [zhzhang023/LR-Net](https://github.com/zhzhang023/LR-Net) -
+
 ## miscellaneous
 
 *   [bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt) - 一套为研究生和学术研究者设计的完整AI Prompt库  📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个完整的论证模板  🚀 核心优势： ⚡ 节省时间 50-70%（选题3-5天而不是2-3周） 🎯 科学方法（基于系统的5维度评估体系） 💡 即插即用（所有Prompt直接复制可用） 📚 全流程覆盖（从选题到出版的完整方案）  🎓 适用人群： 👨‍🎓 硕士研究生 | 博士研究生 | 本科毕业设计 | 学术研究者 | 内容创作者
@@ -1502,8 +1504,6 @@
 *   [AdrianWilczynski/OneDarkPro](https://github.com/AdrianWilczynski/OneDarkPro) - "One Dark Pro" theme for Visual Studio generated using Alexander Teinum's "Dainty for Visual Studio", saved with "Visual Studio Color Theme Designer" and tweaked to closer match Binaryify's "One Dark Pro" theme for Visual Studio Code.
 
 *   [szx-0633/DeepSeek-R1-learning-note](https://github.com/szx-0633/DeepSeek-R1-learning-note) - My learning note about DeepSeek-R1 reasoning LLM
-
-*   [John19187/v2ray-SSR-Clash-Verge-Shadowrocke](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke) - 2026年免费高速（25.6M/S）v2ray、ss、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
 
 *   [Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting) - 2024 Gaussian Splatting Paper List(Arxiv)
 
