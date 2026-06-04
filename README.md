@@ -1473,7 +1473,7 @@
 
 *   [TJU-Aerial-Robotics/YOPO-Tracker](https://github.com/TJU-Aerial-Robotics/YOPO-Tracker) - An End-to-End Agile Tracking and Navigation Method for UAVs
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 
 *   [matterport/habitat-matterport-3dresearch](https://github.com/matterport/habitat-matterport-3dresearch) -
 
