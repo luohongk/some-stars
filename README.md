@@ -1525,6 +1525,8 @@
 
 *   [szx-0633/DeepSeek-R1-learning-note](https://github.com/szx-0633/DeepSeek-R1-learning-note) - My learning note about DeepSeek-R1 reasoning LLM
 
+*   [John19187/v2ray-SSR-Clash-Verge-Shadowrocke](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke) - 2026年免费高速（25.6M/S）v2ray、ss、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、解锁YouTube、Netflix、TikTok、ChatGPT、bilibili港澳台。科学上网、梯子、VPN测评，适用Clash、V2ray、小火箭、sing-box等客户端
+
 *   [Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting) - 2024 Gaussian Splatting Paper List(Arxiv)
 
 *   [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - Lumina Robotics Talent Call | Lumina社区具身智能招贤榜 | A list for Embodied AI / Robotics Jobs (PhD, RA, intern, etc
@@ -1684,8 +1686,6 @@
 *   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 *   [Franky-X/Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation) - Awesome Embodied Navigation: Concept, Paradigm and State-of-the-arts
-
-*   [nubot-nudt/TD-NeRF](https://github.com/nubot-nudt/TD-NeRF) - \[IROS24] TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization
 
 ## C++
 
