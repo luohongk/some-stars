@@ -2097,7 +2097,7 @@
 
 *   [KJ-Falloutlast/CM-LIUW-Odometry](https://github.com/KJ-Falloutlast/CM-LIUW-Odometry) - \[IROS 2025] CM-LIUW-Odometry: Robust and High-Precision LiDAR-Inertial-UWB-Wheel Odometry for Extreme Degradation Coal Mine Tunnels
 
-*   [320052682/claude-code-third-party-api-fix](https://github.com/320052682/claude-code-third-party-api-fix) - 修复 Claude Code 2.1.154+ 与小米 MiMo 模型的兼容性问题。包含完整的配置指南、代理原理说明和故障排除。
+*   [fenqijune/claude-code-third-party-api-fix](https://github.com/fenqijune/claude-code-third-party-api-fix) - 修复 Claude Code 2.1.154+ 与小米 MiMo 模型的兼容性问题。包含完整的配置指南、代理原理说明和故障排除。
 
 *   [QwenLM/Qwen-VLA](https://github.com/QwenLM/Qwen-VLA) - The official repository of Qwen-VLA
 
