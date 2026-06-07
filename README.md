@@ -345,7 +345,7 @@
 
 *   [Chenkehan21/svm-nav](https://github.com/Chenkehan21/svm-nav) -
 
-*   [fastgs/FastGS](https://github.com/fastgs/FastGS) - \[CVPR 2026 Highlight] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
+*   [fastgs/FastGS](https://github.com/fastgs/FastGS) - \[CVPR 2026 Highlight, the CVPR Compute Gold Star] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 
 *   [agrimgupta92/derl](https://github.com/agrimgupta92/derl) - Code for "Embodied Intelligence via Learning and Evolution", Gupta et al, Nature Communications
 
