@@ -459,6 +459,8 @@
 
 *   [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)
 
+*   [bagh2178/GC-VLN](https://github.com/bagh2178/GC-VLN) - \[CoRL 2025] GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation
+
 *   [Vid2Sim/Vid2Sim](https://github.com/Vid2Sim/Vid2Sim) - \[CVPR 25] Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation
 
 *   [manycore-research/SpatialGen](https://github.com/manycore-research/SpatialGen) - \[3DV 2026] SpatialGen: Layout-guided 3D Indoor Scene Generation
@@ -2313,7 +2315,7 @@
 
 *   [xianyu110/clawbot](https://github.com/xianyu110/clawbot) - Clawdbot完整配置指南：从安装到Claude Code中转
 
-*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
 *   [MrZihan/D3D-VLP](https://github.com/MrZihan/D3D-VLP) -
 
@@ -2340,8 +2342,6 @@
 *   [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 
 *   [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - \[PKU EPIC Lab] 面向小白的具身智能入门指南
-
-*   [bagh2178/GC-VLN](https://github.com/bagh2178/GC-VLN) - \[CoRL 2025] GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation
 
 *   [KwanWaiPang/Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) - Paper Survey for Transformer-based SLAM
 
@@ -2673,7 +2673,7 @@
 
 *   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
