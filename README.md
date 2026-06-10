@@ -233,8 +233,6 @@
 
 *   [marmotlab/ORION](https://github.com/marmotlab/ORION) - \[RA-L 2026] ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
 
-*   [ManifoldTechLtd/Odin-Nav-Stack](https://github.com/ManifoldTechLtd/Odin-Nav-Stack) - An open-source navigation stack based on Odin1.
-
 *   [R-C-Group/Odin-Navigation-Stack](https://github.com/R-C-Group/Odin-Navigation-Stack) - Odin-Navigation-Stack的解读
 
 *   [Wenyueh/MinivLLM](https://github.com/Wenyueh/MinivLLM) - Based on Nano-vLLM, a simple replication of vLLM with self-contained paged attention and flash attention implementation
@@ -1443,6 +1441,8 @@
 
 *   [JiuSan-WesternRegion/KF-GINS-PyVersion](https://github.com/JiuSan-WesternRegion/KF-GINS-PyVersion) - A python version of the KF-GINS
 
+*   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+
 ## C++
 
 *   [snt-arg/visual\_sgraphs](https://github.com/snt-arg/visual_sgraphs) - 🚀 vision-driven Situational Graphs (vS-Graphs)
@@ -1492,6 +1492,8 @@
 *   [KwanWaiPang/Elevation\_Map](https://github.com/KwanWaiPang/Elevation_Map) - VINS-Mono + Elevation Mapping
 
 *   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RA-L 2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
+
+*   [ManifoldTechLtd/Odin-Nav-Stack](https://github.com/ManifoldTechLtd/Odin-Nav-Stack) - An open-source navigation stack based on Odin1.
 
 *   [cchester25/RLIV\_GS](https://github.com/cchester25/RLIV_GS) -
 
@@ -2318,8 +2320,6 @@
 *   [MrZihan/D3D-VLP](https://github.com/MrZihan/D3D-VLP) -
 
 *   [mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - A set of Gazebo worlds models and maps that I used for testing Navigation2
-
-*   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
 
 *   [curionox/lifekline](https://github.com/curionox/lifekline) - 人生K线 - 基于AI的八字命理可视化工具
 
