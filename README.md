@@ -47,6 +47,8 @@
 
 ## C++
 
+*   [Roger-Chuh/vins-fisheye-cubemap](https://github.com/Roger-Chuh/vins-fisheye-cubemap) - a VINS algorithm with a combination of stereo fisheye images, cubemap, line features, dense mapping and loop closure
+
 *   [hu-minghao/VINS-Fusion-Vehicle](https://github.com/hu-minghao/VINS-Fusion-Vehicle) - 对VINS-Fusion的修改，以适配地面小车进行定位建图及导航，可实时采集生成半稠密点云地图和栅格地图。
 
 *   [snt-arg/visual\_sgraphs](https://github.com/snt-arg/visual_sgraphs) - 🚀 vision-driven Situational Graphs (vS-Graphs)
@@ -755,8 +757,6 @@
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
 ## miscellaneous
 
 *   [hu-minghao/ov\_secondary\_reloc](https://github.com/hu-minghao/ov_secondary_reloc) - ov\_secondary重定位改进版，保存特征3d点云地图并在定位模式使用，初始重定位更容易
@@ -1069,7 +1069,7 @@
 
 *   [rohiitb/msckf\_vio\_python](https://github.com/rohiitb/msckf_vio_python) - MSCKF (Multi-State Constraint Kalman Filter) implementation in Python
 
-*   [ori-drs/ScaRF-SLAM](https://github.com/ori-drs/ScaRF-SLAM) - Globally Consistent Online Visual Dense Reconstruction
+*   [ori-drs/ScaRF-SLAM](https://github.com/ori-drs/ScaRF-SLAM) - ScaRF-SLAM: A Framework for Globally Consistent Online Visual Dense Reconstruction
 
 *   [colmap/gluemap](https://github.com/colmap/gluemap) - GLUEMAP: Global Structure-from-Motion Meets Feedforward Reconstruction
 
@@ -1153,7 +1153,7 @@
 
 *   [Humanoid-SkillBlender/SkillBlender](https://github.com/Humanoid-SkillBlender/SkillBlender) - Official implementation of SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending
 
-*   [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
+*   [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 *   [leggedrobotics/rsl\_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 
