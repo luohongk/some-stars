@@ -1341,7 +1341,7 @@
 
 *   [IRMVLab/I2PNet](https://github.com/IRMVLab/I2PNet) - \[TRO 2025] Codes for "End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization"
 
-*   [MobiusLqm/MoDGS](https://github.com/MobiusLqm/MoDGS) - Official Implementation of paper accepted by ICLR2025-MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors
+*   [Mobiuslqm/MoDGS](https://github.com/Mobiuslqm/MoDGS) - Official Implementation of paper accepted by ICLR2025-MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors
 
 *   [xieyuser/UniGS](https://github.com/xieyuser/UniGS) - Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering
 
