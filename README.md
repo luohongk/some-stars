@@ -2113,8 +2113,6 @@
 
 *   [ChenHoy/DROID-Splat](https://github.com/ChenHoy/DROID-Splat) - End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering
 
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
-
 *   [robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM) - Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning. http://continual-slam.cs.uni-freiburg.de
 
 *   [ywyeli/Place3D](https://github.com/ywyeli/Place3D) - \[NeurIPS'24 Spotlight] Is Your LiDAR Placement Optimized for 3D Scene Understanding?
@@ -2688,6 +2686,8 @@
 *   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 *   [makeecat/Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)
+
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 ## Lua
 
