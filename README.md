@@ -757,6 +757,8 @@
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
+*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
+
 ## miscellaneous
 
 *   [hu-minghao/ov\_secondary\_reloc](https://github.com/hu-minghao/ov_secondary_reloc) - ov\_secondary重定位改进版，保存特征3d点云地图并在定位模式使用，初始重定位更容易
@@ -1054,8 +1056,6 @@
 *   [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
 *   [Lijiaxin0111/Open-d4rt](https://github.com/Lijiaxin0111/Open-d4rt) -
-
-*   [peter11452/Odin-Nav-Stack](https://github.com/peter11452/Odin-Nav-Stack) - 🧭 Enhance navigation with Odin-Nav-Stack, a robust solution for high-precision 3D mapping and relocalization using advanced spatial sensing technologies.
 
 *   [scannetpp/scannetpp](https://github.com/scannetpp/scannetpp) - \[ICCV 2023 Oral] ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes
 
