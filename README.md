@@ -47,6 +47,8 @@
 
 ## C++
 
+*   [lovelyyoshino/3D-Nav-Dynamic-EGO](https://github.com/lovelyyoshino/3D-Nav-Dynamic-EGO) - 使用ego以及占用栅格地图叠加a\*完成的3D导航项目
+
 *   [Roger-Chuh/vins-fisheye-cubemap](https://github.com/Roger-Chuh/vins-fisheye-cubemap) - a VINS algorithm with a combination of stereo fisheye images, cubemap, line features, dense mapping and loop closure
 
 *   [hu-minghao/VINS-Fusion-Vehicle](https://github.com/hu-minghao/VINS-Fusion-Vehicle) - 对VINS-Fusion的修改，以适配地面小车进行定位建图及导航，可实时采集生成半稠密点云地图和栅格地图。
@@ -757,8 +759,6 @@
 
 *   [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp) - Basic Kalman filter implementation in C++ using Eigen
 
-*   [HITSZ-NRSL/Dynamic-VINS](https://github.com/HITSZ-NRSL/Dynamic-VINS) - \[RA-L 2022] RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
-
 ## miscellaneous
 
 *   [hu-minghao/ov\_secondary\_reloc](https://github.com/hu-minghao/ov_secondary_reloc) - ov\_secondary重定位改进版，保存特征3d点云地图并在定位模式使用，初始重定位更容易
@@ -1375,7 +1375,7 @@
 
 *   [OpenHelix-Team/VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT) - VLA-RFT: Vision-Language-Action Models with Reinforcement Fine-Tuning
 
-*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
+*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - \[ECCV 2026] SLAM-Former: Putting SLAM into One Transformer
 
 *   [jmanhype/vggt-mps](https://github.com/jmanhype/vggt-mps) - VGGT 3D Vision Agent optimized for Apple Silicon with Metal Performance Shaders
 
