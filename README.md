@@ -1131,7 +1131,7 @@
 
 *   [NVIDIA/soma-retargeter](https://github.com/NVIDIA/soma-retargeter) - SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp
 
-*   [H-EmbodVis/DOMINO](https://github.com/H-EmbodVis/DOMINO) - Towards Generalizable Robotic Manipulation in Dynamic Environments
+*   [H-EmbodVis/DOMINO](https://github.com/H-EmbodVis/DOMINO) - \[ECCV 2026] Towards Generalizable Robotic Manipulation in Dynamic Environments
 
 *   [TeleHuman/HumanoidSoccer](https://github.com/TeleHuman/HumanoidSoccer) - Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework
 
