@@ -1319,7 +1319,7 @@
 
 *   [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
-*   [Ma-Zhuang/OmniNWM](https://github.com/Ma-Zhuang/OmniNWM) - OmniNWM: Omniscient Navigation World Models for Autonomous Driving
+*   [Ma-Zhuang/OmniNWM](https://github.com/Ma-Zhuang/OmniNWM) - \[ECCV 2026] OmniNWM: Omniscient Navigation World Models for Autonomous Driving
 
 *   [cshizhe/VLN-DUET](https://github.com/cshizhe/VLN-DUET) - Official implementation of Think Global, Act Local: Dual-scale GraphTransformer for Vision-and-Language Navigation (CVPR'22 Oral).
 
