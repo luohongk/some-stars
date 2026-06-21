@@ -47,6 +47,8 @@
 
 ## Python
 
+*   [LeapLabTHU/ViTTT](https://github.com/LeapLabTHU/ViTTT) - \[CVPR 2026] \[Best Paper Finalist] \[Oral] Official repository of Vision Test-Time Training
+
 *   [Michael-Jetson/Robotics\_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial) - 体系化的机器人教学文档，涵盖数学基础、C++进阶、规划控制、SLAM等
 
 *   [Jianyi2004/TouchAnything](https://github.com/Jianyi2004/TouchAnything) -
@@ -1373,8 +1375,6 @@
 
 *   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
 ## C++
 
 *   [lovelyyoshino/3D-Nav-Dynamic-EGO](https://github.com/lovelyyoshino/3D-Nav-Dynamic-EGO) - 使用ego以及占用栅格地图叠加a\*完成的3D导航项目
@@ -2605,7 +2605,7 @@
 
 ## Swift
 
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
 
 *   [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
 
