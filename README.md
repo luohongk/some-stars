@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Dockerfile](#dockerfile)
 *   [C](#c)
 *   [Python](#python)
 *   [C++](#c-1)
@@ -27,7 +28,6 @@
 *   [BibTeX Style](#bibtex-style)
 *   [Astro](#astro)
 *   [HTML](#html)
-*   [Dockerfile](#dockerfile)
 *   [TeX](#tex)
 *   [Vim Script](#vim-script)
 *   [Cuda](#cuda)
@@ -44,6 +44,16 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Java](#java)
+
+## Dockerfile
+
+*   [sjtuyinjie/Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion) - Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
+
+*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## C
 
@@ -2603,8 +2613,6 @@
 
 *   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
 
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
 ## Go
 
 *   [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
@@ -2798,14 +2806,6 @@
 *   [rohinmanvi/GeoLLM](https://github.com/rohinmanvi/GeoLLM) -
 
 *   [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
-
-## Dockerfile
-
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
-*   [linyicheng1/Dockers](https://github.com/linyicheng1/Dockers) - 一些常用的Dockerfile 文件，能够快速部署运行一些常用算法，避免重复配置环境
-
-*   [jaeseok4104/slam-docker](https://github.com/jaeseok4104/slam-docker) - SLAM Docker for research
 
 ## TeX
 
