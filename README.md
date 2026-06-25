@@ -55,7 +55,7 @@
 
 * [hu-minghao/VINS-Fusion-Vehicle](https://github.com/hu-minghao/VINS-Fusion-Vehicle) - 对VINS-Fusion的修改，以适配地面小车进行定位建图及导航，可实时采集生成半稠密点云地图和栅格地图。
 
-* [snt-arg/visual\_sgraphs](https://github.com/snt-arg/visual_sgraphs) - 🚀 vision-driven Situational Graphs (vS-Graphs) | RA-L 2026
+* [snt-arg/visual\_sgraphs](https://github.com/snt-arg/visual_sgraphs) - 🚀 \[RA-L 2026] vision-driven Situational Graphs (vS-Graphs)
 
 * [freshleesh/fast\_livo2](https://github.com/freshleesh/fast_livo2) - fast livo2 mapping + relocalization in ROS2 jazzy
 
